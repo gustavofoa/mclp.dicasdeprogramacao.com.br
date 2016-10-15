@@ -1,8 +1,6 @@
 Title: Por que TODOS deveriam aprender programação?
-Date: 2015-12-10 12:55
-Author: gustavo.foa
+Author: Gustavo Furtado de Oliveira Alves
 Slug: webnario-ao-vivo-por-que-todos-deveriam-aprender-programacao
-Status: published
 
 <div id="headline"
 class="section hero parallax-background top-waypoint video-section"
@@ -32,4 +30,3 @@ data-type="parallax">
 programação!**](http://bit.ly/1HVkbHt){.btn .btn-warning .navbar-btn}\
 </center>
 </p>
-

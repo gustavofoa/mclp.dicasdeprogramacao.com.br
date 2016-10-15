@@ -1,8 +1,6 @@
 Title: Aula 6/10 - Tomando decisões entre muitas opções.
-Date: 2015-06-03 01:15
-Author: gustavo.foa
+Author: Gustavo Furtado de Oliveira Alves
 Slug: minicurso-6-tomando-decisoes-entre-muitas-opcoes
-Status: published
 
 Aula (6/10) Tomando decisões entre muitas opções.
 =================================================

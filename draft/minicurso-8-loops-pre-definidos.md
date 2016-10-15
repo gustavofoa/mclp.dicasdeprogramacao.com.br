@@ -1,8 +1,6 @@
 Title: Aula 8/10 - Loops pré-definidos
-Date: 2015-09-24 21:58
-Author: gustavo.foa
+Author: Gustavo Furtado de Oliveira Alves
 Slug: aula-8-loops-pre-definidos
-Status: published
 
 Aula (8/10) Loops pré-definidos
 ===============================
@@ -156,25 +154,25 @@ Primeiro vamos fazer um algoritmo utilizando o ENQUANTO.
 
 ``` {.toolbar:1 .lang:default .decode:true}
 algoritmo "FatorialComENQUANTO"
- 
+
 var
    numero : INTEIRO
    fatorial : INTEIRO
    contador : INTEIRO
 inicio
- 
+
       ESCREVA ("Digite o número para calcular o fatorial: ")
       LEIA (numero)
- 
+
       fatorial := 1
       contador := 1
       ENQUANTO contador <= numero FACA
           fatorial := fatorial * contador
           contador := contador + 1
       FIMENQUANTO
- 
+
       ESCREVA ("O fatorial de ", numero, " é : ", fatorial)
- 
+
 fimalgoritmo
 ```
 

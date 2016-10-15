@@ -1,8 +1,6 @@
 Title: Aula 9/10 - Vetores e Matrizes (Arrays)
-Date: 2015-09-29 14:01
-Author: gustavo.foa
+Author: Gustavo Furtado de Oliveira Alves
 Slug: aula-9-vetores-e-matrizes-arrays
-Status: published
 
 Aula (9/10) Vetores e Matrizes (Arrays)
 =======================================

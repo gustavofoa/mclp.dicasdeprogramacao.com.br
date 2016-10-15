@@ -1,8 +1,6 @@
 Title: Aula 5/10 - Tomando decisões!
-Date: 2015-06-02 15:42
-Author: gustavo.foa
+Author: Gustavo Furtado de Oliveira Alves
 Slug: minicurso-5-tomando-decisoes
-Status: published
 
 Aula (5/10) Tomando decisões!
 =============================
@@ -63,7 +61,7 @@ var
    SaldoDisponivel : REAL
    ValorDoSaque : REAL
 inicio
- 
+
       SaldoDisponivel := 1000 //Assumimos que há 1000 reais de saldo na conta disponível para saque
       ESCREVA ("Informe o valor do Saque: ")
       LEIA (ValorDoSaque)
@@ -73,9 +71,9 @@ inicio
       SENAO
          ESCREVAL ("O valor solicitado é maior que o valor disponível para saque!")
       FIMSE
- 
+
       ESCREVAL ("Saldo disponível: R$ ", SaldoDisponivel)
- 
+
 fimalgoritmo
 ```
 

@@ -1,8 +1,6 @@
 Title: Aula 3/10 - Variáveis, constantes e tipos de dados
-Date: 2015-05-30 20:51
-Author: gustavo.foa
+Author: Gustavo Furtado de Oliveira Alves
 Slug: minicurso-3-variaveis-constantes-operadores-e-tipos-de-dados
-Status: published
 
 Aula (3/10) Variáveis, constantes e tipos de dados
 ==================================================
@@ -195,9 +193,9 @@ inicio
    leia(nota3)
    escreva("Digite a quarta nota para o calculo da media: ")
    leia(nota4)
-   
+
    media <- ( nota1 + nota2 + nota3 + nota4 ) / 4
-   
+
    escreva("A sua média é: ", media)
 fimalgoritmo
 ```

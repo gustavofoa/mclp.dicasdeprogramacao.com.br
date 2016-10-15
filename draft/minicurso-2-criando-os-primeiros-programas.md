@@ -1,8 +1,6 @@
 Title: Aula 2/10 - Criando os seus primeiros programinhas.
-Date: 2015-05-30 00:03
-Author: gustavo.foa
+Author: Gustavo Furtado de Oliveira Alves
 Slug: minicurso-2-criando-os-primeiros-programas
-Status: published
 
 Aula(2/10) Criando os seus primeiros programinhas.
 ==================================================

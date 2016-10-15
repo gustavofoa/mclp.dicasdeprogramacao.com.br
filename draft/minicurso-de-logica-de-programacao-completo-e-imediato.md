@@ -1,8 +1,6 @@
 Title: Minicurso de Lógica de Programação Completo e Imediato!
-Date: 2016-04-29 15:23
-Author: gustavo.foa
+Author: Gustavo Furtado de Oliveira Alves
 Slug: minicurso-de-logica-de-programacao-completo-e-imediato
-Status: published
 
 Você receberá IMEDIATAMENTE todo o conteúdo do minicurso gratuito de
 lógica de programação. Sem esperar os e-mails das próximas aulas.

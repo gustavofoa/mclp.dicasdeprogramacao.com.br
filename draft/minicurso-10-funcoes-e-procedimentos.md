@@ -1,8 +1,6 @@
 Title: Aula 10/10 - Funções e Procedimentos
-Date: 2015-12-04 21:02
-Author: gustavo.foa
+Author: Gustavo Furtado de Oliveira Alves
 Slug: aula-10-funcoes-e-procedimentos
-Status: published
 
 Aula (10/10) Funções e Procedimentos
 ====================================
@@ -191,7 +189,7 @@ algoritmo "Cacula Fatorial"
 var
 
    numeroParaFatorial: inteiro
-   
+
    funcao calculaFatorial(numero: inteiro): inteiro
    var
           fatorial: inteiro

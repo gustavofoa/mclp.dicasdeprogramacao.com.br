@@ -1,8 +1,6 @@
 Title: Aula 7/10 - Loops básicos!
-Date: 2015-07-07 16:13
-Author: gustavo.foa
+Author: Gustavo Furtado de Oliveira Alves
 Slug: minicurso-7-loops-basicos
-Status: published
 
 Aula (7/10) Loops básicos!
 ==========================
@@ -108,20 +106,20 @@ var
    valorDigitado : REAL
    soma : REAL
 inicio
- 
+
       soma := 0
       ESCREVA ("Digite um valor para a soma: ")
       LEIA (valorDigitado)
- 
+
       ENQUANTO valorDigitado <> 0 FACA
           soma := soma + valorDigitado
           ESCREVAL ("Total: ", soma)
           ESCREVA ("Digite um valor para a soma: ")
           LEIA (valorDigitado)
       FIMENQUANTO
- 
+
       ESCREVAL ("Resultado: ", soma)
- 
+
 fimalgoritmo
 ```
 
@@ -180,16 +178,16 @@ var
    valorDigitado : REAL
    soma : REAL
 inicio
- 
+
       soma := 0   
- 
+
       REPITA
           ESCREVA ("Digite um valor para a soma: ")
           LEIA (valorDigitado)
           soma := soma + valorDigitado
           ESCREVAL ("Total: ", soma)
       ATE valorDigitado = 0
- 
+
 fimalgoritmo
 ```
 

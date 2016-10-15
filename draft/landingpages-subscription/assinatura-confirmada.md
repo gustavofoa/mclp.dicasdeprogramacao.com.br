@@ -1,8 +1,6 @@
 Title: Assinatura confirmada
-Date: 2015-05-30 16:50
-Author: gustavo.foa
+Author: Gustavo Furtado de Oliveira Alves
 Slug: assinatura-confirmada
-Status: published
 
 <p>
 <center>
@@ -65,4 +63,3 @@ clicando nos botões abaixo.
 <p>
 </center>
 </p>
-

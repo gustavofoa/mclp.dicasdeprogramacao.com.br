@@ -1,8 +1,6 @@
 Title: Verifique seu e-mail
-Date: 2015-05-30 14:56
-Author: gustavo.foa
+Author: Gustavo Furtado de Oliveira Alves
 Slug: verifique-seu-e-mail
-Status: published
 
 ![](http://www.dicasdeprogramacao.com.br/wp-content/uploads/2013/03/Logo2.png){.alignnone
 width="390" height="83"}

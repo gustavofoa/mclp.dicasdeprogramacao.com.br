@@ -1,8 +1,6 @@
 Title: Aula 4/10 - Operadores
-Date: 2015-06-02 00:48
-Author: gustavo.foa
+Author: Gustavo Furtado de Oliveira Alves
 Slug: minicurso-4-operadores
-Status: published
 
 Aula (4/10) Operadores
 ======================
@@ -325,7 +323,7 @@ var
   numero2 : INTEIRO
   resultado : LOGICO
 inicio
- 
+
       numero1 := 5
       numero2 := 3
       resultado := numero1 = numero2
@@ -340,7 +338,7 @@ inicio
       ESCREVAL (numero1, " >= ", numero2, "? ", resultado)
       resultado := numero1 <= numero2
       ESCREVAL (numero1, " <= ", numero2, "? ", resultado)
- 
+
       numero1 := 5
       numero2 := 5
       resultado := numero1 = numero2
@@ -355,7 +353,7 @@ inicio
       ESCREVAL (numero1, " >= ", numero2, "? ", resultado)
       resultado := numero1 <= numero2
       ESCREVAL (numero1, " <= ", numero2, "? ", resultado)
- 
+
       numero1 := 5
       numero2 := 8
       resultado := numero1 = numero2
@@ -370,7 +368,7 @@ inicio
       ESCREVAL (numero1, " >= ", numero2, "? ", resultado)
       resultado := numero1 <= numero2
       ESCREVAL (numero1, " <= ", numero2, "? ", resultado)
- 
+
 fimalgoritmo
 ```
 
