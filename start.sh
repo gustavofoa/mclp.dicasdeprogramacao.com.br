@@ -1,0 +1,2 @@
+cd /projeto
+grunt serve
