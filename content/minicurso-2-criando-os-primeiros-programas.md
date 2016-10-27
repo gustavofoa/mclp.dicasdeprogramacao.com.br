@@ -1,9 +1,10 @@
-Title: Aula 2/10 - Criando os seus primeiros programinhas.
-Author: Gustavo Furtado de Oliveira Alves
-Slug: minicurso-2-criando-os-primeiros-programas
+title: Aula 2/10 - Criando os seus primeiros programinhas.
+author: Gustavo Furtado de Oliveira Alves
+slug: minicurso-2-criando-os-primeiros-programas
+date: 2016-10-27
+order: 2
 
-Aula(2/10) Criando os seus primeiros programinhas.
-==================================================
+#Aula(2/10) Criando os seus primeiros programinhas.
 
 Olá amigo(a)! Esta é a nossa segunda aula do Minicurso GRÁTIS de lógica
 de programação do blog **{ Dicas de Programação }**.
@@ -13,7 +14,7 @@ aprender programação AGORA mesmo. Também ensinei que você não precisa
 saber inglês para começar e porque vamos escrever algoritmos em
 PORTUGUÊS nos exercícios e exemplos deste minicurso.
 
-Bom, vamos à segunda aula deste mini-curso. Nesta aula você vai
+Bom, vamos à segunda aula deste minicurso. Nesta aula você vai
 aprender:
 
 -   O que é um Algoritmo.
@@ -22,15 +23,13 @@ aprender:
 
 <u>Leitura de aproximadamente 20 minutos.</u>
 
-O que é um Algoritmo?
----------------------
+##O que é um Algoritmo?
 
 O primeiro passo para se aprender a programar não envolve computador,
 envolve educar a sua mente a explicar em detalhes os passos necessários
 para executar uma tarefa.
 
-![Ferramenta para aprender
-programação](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/fluxograma-lampada.gif)
+![Ferramenta para aprender programação](/images/fluxograma-lampada.gif)
 
 Você deve aprender a modelar um roteiro que explica quando tomar
 decisões e quando realizar determinadas tarefas, esse roteiro é chamado
@@ -85,15 +84,12 @@ vou mostrar alguns algoritmos mais simples hoje. Ao final você entenderá
 exatamente como esse algoritmo funciona... Antes vamos ver a ferramenta
 que vamos usar ao longo deste minicurso.
 
-A melhor ferramenta para aprender lógica de programação
--------------------------------------------------------
+##A melhor ferramenta para aprender lógica de programação
 
 Sabe qual a melhor ferramenta de estudos para aprender lógica de
 programação?
 
-![Ferramenta para aprender
-programação](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/caderno-lapis-borracha.jpg){width="376"
-height="250"}
+![Ferramenta para aprender programação](/images/caderno-lapis-borracha.jpg){:width="376" :height="250"}
 
 **Caderno, lápis e borracha!** Sim, essa é a melhor ferramenta para
 aprender lógica de programação!
@@ -104,7 +100,7 @@ rs.
 
 Embora naquela época não tivesse muito recurso tecnológico para aprender
 lógica de programação, acredito que hoje com tantas distrações na
-internet talvês seja realmente melhor se desligar disso tudo para
+internet talvez seja realmente melhor se desligar disso tudo para
 conseguir aprender algo.
 
 Uma técnica que gosto muito para me ajudar na concentração e ter mais
@@ -114,8 +110,7 @@ Não é o foco deste minicurso, mas eu escrevi um artigo sobre essa
 técnica. Se quiser saber mais clique no link abaixo e leia **depois
 desta aula**:
 
-**[Clique AQUI para conhecer a técnica
-pomodoro!](http://www.dicasdeprogramacao.com.br/melhore-sua-produtividade-com-a-tecnica-pomodoro/)**
+**[Clique AQUI para conhecer a técnica pomodoro!](http://www.dicasdeprogramacao.com.br/melhore-sua-produtividade-com-a-tecnica-pomodoro/)**
 
 Voltando ao curso, se não vai usar lápis e borracha e quiser utilizar um
 software para te ajudar a aprender programação. Neste minicurso vamos
@@ -140,7 +135,7 @@ Visualg](http://www.dicasdeprogramacao.com.br/download-visualg/)**
 Obs: Quem usa linux, o Visualg funciona perfeitamente no Wine. Eu mesmo
 uso o Visualg no Linux.
 
-![Visualg](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/visualg-pagina-inicial.png)
+![Visualg](/images/visualg-pagina-inicial.png)
 
 A tela do VisuAlg compõe-se da barra de menu, barra de tarefas, barra de
 ferramentas, do editor de textos (que toma toda a sua metade superior),
@@ -153,15 +148,13 @@ O professor **Antonio Carlos Nicolodi** reformulou o Visualg e lançou a
 versão 3.0 com uma interface nova e algumas melhorias. Para este
 minicurso você pode usar a versão 3.0 ou a 2.5. Como você preferir.
 
-Criando o seu primeiro programa!
---------------------------------
+##Criando o seu primeiro programa!
 
 Agora que você já tem o Visualg, é hora de criar o seu primeiro
 programa. O famoso "Hello World". Abra o visualg e escreva o algoritmo
 abaixo:
 
-![Hello World
-Visualg](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/Hello-World.png)
+![Hello World Visualg](/images/2015/05/Hello-World.png)
 
 Vamos entender esse primeiro programa que você criou.
 
@@ -210,8 +203,7 @@ nome. Se o usuário digitou **José** o programa vai exibir na tela:
 Veja na imagem abaixo como acontece a execução do programa que acabamos
 de criar.
 
-![resultado algoritmo
-básico](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/resultado-algoritmo_basico.png)
+![resultado algoritmo básico](/images/resultado-algoritmo_basico.png)
 
 Entendendo o algoritmo da multiplicação
 ---------------------------------------
@@ -220,8 +212,7 @@ Agora que você criou o seu primeiro programa, vamos tentar entender
 aquele algoritmo da Multiplicação que eu falei no começo da aula de
 hoje. Antes vamos implementá-lo no Visualg.
 
-![algoritmo de
-multiplicação](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/algoritmo_multiplicacao.png)
+![algoritmo de multiplicação](/images/algoritmo_multiplicacao.png)
 
 Para entender o algoritmo, é importante definir algumas coisas:
 
@@ -243,8 +234,7 @@ Para entender o algoritmo, é importante definir algumas coisas:
 
 Vamos ver qual seria o resultado da execução deste algoritmo?
 
-![resultado do algoritmo de
-multiplicação](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/resultado_algoritmo_multiplicacao.png)
+![resultado do algoritmo de multiplicação](/images/resultado_algoritmo_multiplicacao.png)
 
 Este algoritmo eu não vou explicar aqui. Preferi dar as informações que
 você precisava para entender. Você precisa se esforçar um pouco pra

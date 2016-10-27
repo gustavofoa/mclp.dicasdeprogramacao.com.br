@@ -1,9 +1,10 @@
-Title: Aula 3/10 - Variáveis, constantes e tipos de dados
-Author: Gustavo Furtado de Oliveira Alves
-Slug: minicurso-3-variaveis-constantes-operadores-e-tipos-de-dados
+title: Aula 3/10 - Variáveis, constantes e tipos de dados
+author: Gustavo Furtado de Oliveira Alves
+slug: minicurso-3-variaveis-constantes-operadores-e-tipos-de-dados
+date: 2016-10-27
+order: 3
 
-Aula (3/10) Variáveis, constantes e tipos de dados
-==================================================
+#Aula (3/10) Variáveis, constantes e tipos de dados
 
 Quando começamos a nos aventurar neste mundo da programação, cometemos
 muitos erros básicos que podem ser evitados se aprendermos alguns
@@ -17,20 +18,18 @@ Na aula de hoje você vai aprender:
 Entender esses assuntos é muito importante para você mergulhar de cabeça
 no fantástico mundo da programação. Vamos lá?
 
-<span style="text-decoration: underline;">Leitura de aproximadamente 10
-minutos</span>
+<u>Leitura de aproximadamente 10 minutos</u>
 
-O que são variáveis e constantes?
----------------------------------
+##O que são variáveis e constantes?
 
 Programas de computador utilizam os recursos de hardware mais básicos
 para executar
-[algoritmos](http://www.dicasdeprogramacao.com.br/o-que-e-algoritmo/ "O que é Algoritmo?").
+[algoritmos](http://www.dicasdeprogramacao.com.br/o-que-e-algoritmo/).
 Enquanto o processador executa os cálculos, a memória é responsável por
 armazenar dados e servi-los ao processador.
 
-![variável](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/variável.jpg){width="249"
-height="202"}O recurso que nós utilizamos em nossos programas para
+![variável](/images/variável.jpg){:width="249" :height="202"}
+O recurso que nós utilizamos em nossos programas para
 escrever e ler dados da memória do computador é conhecido como
 **variável**, que é simplesmente **um espaço na memória o qual
 reservamos e damos um nome**. Por exemplo, podemos criar uma variável
@@ -72,13 +71,12 @@ tela novamente o valor da variável, então aparece na tela o texto
 
 Percebeu como o valor da variável *nome* pode ser alterado com o tempo?
 
-Tipos de dados
---------------
+##Tipos de dados
 
 Para otimizar a utilização da memória, nós definimos um tipo de dados
 para cada variável.
-![tipos-de-dados](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/tipos-de-dados.jpg){width="229"
-height="220"}Por exemplo, a variável *nome*, deve armazenar textos, já a
+![Tipos de dados](/images/tipos-de-dados.jpg){:width="229" :height="220"}
+Por exemplo, a variável *nome*, deve armazenar textos, já a
 variável *idade* deve armazenar apenas números inteiros (sem casa
 decimal), na variável *sexo* podemos armazenar apenas um caractere (“M”
 ou “F”). Seria correto armazenarmos o valor “M” na variável *idade*? Não
@@ -132,8 +130,8 @@ A partir dos tipos de dados primitivos podemos criar outros tipos de
 dados utilizando uma combinação de variáveis. São estruturas de dados,
 classes, vetores, matrizes, etc.
 
-![classe-carro](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/classe-carro.jpg){width="221"
-height="228"}Por exemplo, uma classe chamada *Carro* é um tipo de dados
+![Classe Carro](/images/classe-carro.jpg){:width="221" :height="228"}
+Por exemplo, uma classe chamada *Carro* é um tipo de dados
 que agrupa outras variáveis básicas como **marca**, **cor**, **ano**,
 **modelo**, etc. Um *vetor* é um agrupamento de variáveis do mesmo tipo,
 uma *matriz* é um agrupamento de vetores. Enfim, a base de todos os
@@ -155,8 +153,7 @@ Espero que você tenha entendido esses dois assuntos, pois saber como
 funcionam as variáveis/constantes e os tipos de dados é de suma
 importância para você se tornar um bom programador.
 
-Solução do exercício da aula \#2
---------------------------------
+#Solução do exercício da aula \#2
 
 No final da aula passada eu pedi pra você tentar fazer um exercício. Se
 não conseguiu fazê-lo, não tem problema.
@@ -171,7 +168,7 @@ Em seguida nós devemos solicitar ao usuário que digite as notas e
 armazená-las nas respectivas variáveis.
 
 O passo seguinte é o cálculo da média, ou seja, a soma das 4 notas
-dividido por 4. Reparece que precisamos colocar as somas entre
+dividido por 4. Repare que precisamos colocar as somas entre
 parênteses, pois os operadores de multiplicação e divisão têm
 precedência quanto aos operadores de soma e subtração. Você vai aprender
 um pouco mais sobre os operadores na próxima aula.
@@ -202,12 +199,9 @@ fimalgoritmo
 
 Apresento abaixo o resultado da execução deste algoritmo.
 
-![resultado
-media](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/resultado-media.png){.aligncenter
-.size-full .wp-image-460 width="681" height="462"}
+![resultado média](/images/resultado-media.png){:class="".aligncenter .size-full .wp-image-460" :width="681" :height="462"}
 
-Continuando o minicurso
------------------------
+##Continuando o minicurso
 
 Na próxima aula você vai aprender sobre os três tipos de operadores que
 são utilizados em programação. Ok?

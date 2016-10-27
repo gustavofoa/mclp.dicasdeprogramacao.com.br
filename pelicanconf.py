@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Gustavo Furtado de Oliveira Alves'
 SITENAME = u'Minicurso de Lógica de Programação'
-SITEURL = 'http://localhost:9000/'
+SITEURL = 'http://localhost:9000'
 
 PATH = 'content'
 
@@ -37,3 +37,5 @@ LP_DESCRIPTION = "Coloque seu e-mail abaixo e receba GRATUITAMENTE o minicurso d
 LP_ACTION = "http://mail.gustavofurtado.com.br/subscribe"
 LP_HIDDEN_FIELDS = '<input type="hidden" name="list" value="oiJK0j8gmAdoxtJtv2pSxA" />'
 TITLEBAR_TEXT = "Receba o seu minicurso de lógica de programação GRÁTIS!"
+GOOGLE_ANALYTICS = "UA-39997045-2"
+TOTAL_LESSONS = 10

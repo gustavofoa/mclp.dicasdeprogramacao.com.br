@@ -3,13 +3,14 @@ author: Gustavo Furtado de Oliveira Alves
 slug: minicurso-1-porque-aprender-programacao
 date: 2016-10-27
 image: /images/imagem-criancas-programando.jpg
+order: 1
 
 #Aula (1/10) Por que aprender programação?
 
 Olá nobre amigo(a)! Seja bem vindo à primeira aula do Minicurso GRÁTIS
 de lógica de programação do blog **{ Dicas de Programação }**.
 
-[![Gustavo Furtado](/images/gustavo-furtado.jpg){:style="float: right; width: 200px; padding: 10px;"}](http://gustavofurtado.com.br/)
+[![Gustavo Furtado](/images/gustavo-furtado.jpg){:style="float: right; width: 200px; margin: 0px 5px 5px 30px;"}](http://gustavofurtado.com.br/)
 
 Meu nome é **Gustavo Furtado de Oliveira Alves** e eu vou te ajudar a
 criar uma base sólida de conhecimento que te permitirá criar programas
@@ -28,7 +29,7 @@ aprender:
 -   Qual linguagem você deve escolher para aprender lógica
     de programação.
 
-__Leitura de aproximadamente 15 minutos.__
+<u>Leitura de aproximadamente 15 minutos.</u>
 
 ##4 Motivos para você começar aprender programação AGORA!
 
