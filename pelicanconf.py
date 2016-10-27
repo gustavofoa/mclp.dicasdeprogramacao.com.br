@@ -38,4 +38,4 @@ LP_ACTION = "http://mail.gustavofurtado.com.br/subscribe"
 LP_HIDDEN_FIELDS = '<input type="hidden" name="list" value="oiJK0j8gmAdoxtJtv2pSxA" />'
 TITLEBAR_TEXT = "Receba o seu minicurso de lógica de programação GRÁTIS!"
 GOOGLE_ANALYTICS = "UA-39997045-2"
-TOTAL_LESSONS = 10
+TOTAL_LESSONS = 2
