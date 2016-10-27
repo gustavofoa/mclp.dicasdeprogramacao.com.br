@@ -19,10 +19,14 @@ module.exports = function (grunt) {
     watch: {
       files: [
         'content/*.md',
+        'content\\*.md',
         'content/**/*.md',
+        'content\\**\\*.md',
         'theme/**/*.*',
+        'theme\\**\\*.*',
         'pelicanconf.py',
-        'content/static/*.*'
+        'content/static/*.*',
+        'content\\static\\*.*'
       ],
       tasks: ['build'],
       options: {

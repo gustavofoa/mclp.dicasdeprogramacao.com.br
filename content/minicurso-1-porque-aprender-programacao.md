@@ -1,26 +1,26 @@
-Title: Aula 1/10 - Por que aprender programação?
-Author: Gustavo Furtado de Oliveira Alves
-Slug: minicurso-1-porque-aprender-programacao
+title: Aula 1/10 - Por que aprender programação?
+author: Gustavo Furtado de Oliveira Alves
+slug: minicurso-1-porque-aprender-programacao
+date: 2016-10-27
+image: /images/imagem-criancas-programando.jpg
 
-Aula (1/10) Por que aprender programação?
-=========================================
+#Aula (1/10) Por que aprender programação?
 
 Olá nobre amigo(a)! Seja bem vindo à primeira aula do Minicurso GRÁTIS
-de lógica de programação do blog **{ Dicas de Programação }**.[\
-![Gustavo
-Furtado](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/gustavo-furtado.jpg){width="200px"
-height="200px"}](http://gustavofurtado.com.br/)
+de lógica de programação do blog **{ Dicas de Programação }**.
+
+[![Gustavo Furtado](/images/gustavo-furtado.jpg){:style="float: right; width: 200px; padding: 10px;"}](http://gustavofurtado.com.br/)
 
 Meu nome é **Gustavo Furtado de Oliveira Alves** e eu vou te ajudar a
 criar uma base sólida de conhecimento que te permitirá criar programas
 em qualquer linguagem de programação que o mercado de trabalho
 requisitar.
 
-Ao longo deste mini-curso, você aprenderá os conceitos básicos por trás
+Ao longo deste minicurso, você aprenderá os conceitos básicos por trás
 da programação e será capaz de criar pequenos programas usando lógica de
 programação.
 
-Bom, vamos à primeira aula deste mini-curso. Nesta aula você vai
+Bom, vamos à primeira aula deste minicurso. Nesta aula você vai
 aprender:
 
 -   Porquê você PRECISA aprender programação.
@@ -28,12 +28,9 @@ aprender:
 -   Qual linguagem você deve escolher para aprender lógica
     de programação.
 
-<u>Leitura de aproximadamente 15 minutos.</u>
+__Leitura de aproximadamente 15 minutos.__
 
-4 Motivos para você começar aprender programação AGORA!
--------------------------------------------------------
-
- 
+##4 Motivos para você começar aprender programação AGORA!
 
 > "I think everybody in this country should learn how to program a
 > computer because it teaches you how to think."
@@ -68,9 +65,7 @@ mundo entrará na próxima era da evolução da humanidade.
 
 ### 2º Programação é a nova disciplina básica da alfabetização
 
-![aprender
-programação](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/imagem-criancas-programando.jpg){width="376"
-height="250"}
+![aprender programação](/images/imagem-criancas-programando.jpg){:style="float: right; width: 376px; padding: 10px;"}
 
 Muitas pessoas pensam que programação é só pra quem fica o dia inteiro
 na frente do computador e tem facilidade para mexer na máquina. Isso é
@@ -95,9 +90,7 @@ satélites, carros, impressoras, letreiros digitais, drones, câmeras,
 semáforos, microcontroladores, pendrive e mais um monte de coisa que eu
 ficaria horas (dias?) enumerando.
 
-![software na no
-agronegócio](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/software-agricultura.jpg){width="376"
-height="250"}
+![software na no agronegócio](/images/software-agricultura.jpg){:style="float: left; width: 376px; padding: 10px;"}
 
 Hoje em dia muitas coisas a nossa volta tem uma espécie de vida própria.
 E tudo é controlado por ... Softwares! Dispositivos que são controlados
@@ -126,8 +119,7 @@ instruções que um equipamento eletrônico pode seguir para executar uma
 tarefa autonomamente. Ao entender este conceito, códigos que você achava
 que era coisa de outro mundo começam a fazer sentido.
 
-Preciso saber inglês para aprender programação?
------------------------------------------------
+##Preciso saber inglês para aprender programação?
 
 Eu acredito que este seja o maior predador de iniciantes em programação.
 
@@ -141,16 +133,14 @@ nada. Importante ressaltar que não desmereço em momento algum os
 professores de escola pública, são guerreiros, mas todos sabemos como é
 o sistema público brasileiro de educação. Não é mesmo?
 
-![preciso aprender
-inglês?](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/aprender-ingles.gif){width="376"
-height="250"}
+![preciso aprender inglês?](/images/aprender-ingles.gif){:style="float: right; width: 376px; padding: 10px;"}
 
 Lembro das minhas primeiras aulas de programação, como era difícil
 entender o significado dos comandos que o professor ensinava em sala de
 aula, juro que sentia dificuldade para decorar palavras básicas em
 inglês como IF, THEN, ELSE, WHILE, FOR, REPEAT, UNTIL, BEGIN, etc. Bom,
 acho que deu para perceber que eu não sabia nada mesmo de inglês. Ah!
-Não tenho um pingo de vergonha disso! Foi só um obstaculo-zinho que
+Não tenho um pingo de vergonha disso! Foi só um pequeno obstáculo que
 estava no meu caminho. Mas já ultrapassado. E se você não sabe inglês,
 não tenha medo! Basta querer e se esforçar.
 
@@ -178,11 +168,9 @@ programação**.
 Eu escrevi um post sobre isso no blog **{ Dicas de Programação }**. Dê
 uma olhada depois.
 
-**[Quer ser programador? Aprenda
-inglês!](http://www.dicasdeprogramacao.com.br/quer-ser-programador-aprenda-ingles/)**
+**[Quer ser programador? Aprenda inglês!](http://www.dicasdeprogramacao.com.br/quer-ser-programador-aprenda-ingles/)**
 
-Com qual linguagem começar
---------------------------
+##Com qual linguagem começar
 
 A pergunta que é feita por todo mundo que está aprendendo a programar é:
 Que linguagem de programação devo aprender? A resposta é óbvia: **Uma
@@ -203,9 +191,7 @@ mais indicada ou não.** Você deve decidir qual usar não com base no seu
 gosto pessoal, mas nas vantagens que a linguagem oferece para o software
 que você pretende desenvolver.
 
-![Qual linguagem
-escolher?](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/linguagens.jpg){width="376"
-height="250"}
+![Qual linguagem escolher?](/images/linguagens.jpg){:style="float: left; width: 376px; padding: 10px;"}
 
 Se você é iniciante e não sabe nada de programação, procure uma
 linguagem de programação que te ajude a aprender lógica de programação.
@@ -261,8 +247,7 @@ e longo prazo.
 
 Entendeu?
 
-Paradigma "Como" fazer e "O que" fazer
---------------------------------------
+##Paradigma "Como" fazer e paradigma "O que" fazer
 
 Há uma outra discussão muito interessante também sobre aprender ou não
 lógica de programação no início da carreira, pois algumas linguagens de
@@ -303,7 +288,7 @@ Por hoje é só. Na próxima aula, vamos ver como instalar a ferramenta que
 vamos usar pra aprender programação e criar os nossos primeiros
 programas!
 
-Se você se inscreveu neste mini-curso, receberá a próxima aula por
+Se você se inscreveu neste minicurso, receberá a próxima aula por
 e-mail amanhã. Se ainda não está inscrito, não perca tempo. É GRÁTIS!
 
 Até a próxima!
