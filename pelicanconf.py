@@ -27,15 +27,24 @@ DEFAULT_PAGINATION = False
 # Theme
 THEME = 'theme'
 COURSE_DESCRIPTION = """Minicurso 100% GRÁTIS de Lógica de Programação.
-10 aulas super explicadas com a melhor didática para ensinar programação do ZERO para qualquer pessoa!
+São 10 aulas super explicadas com a melhor didática para ensinar programação do ZERO para qualquer pessoa!
 Agora aprender programação está acessível a qualquer um!"""
 COURSE_AUTHOR = "Gustavo"
+LP_LINK = SITEURL
 OG_IMAGE = "/images/gustavo-furtado.jpg"
 LP_IMAGE = "/images/Logo.png"
 LP_TITLE = "Quer aprender lógica de programação GRÁTIS?"
 LP_DESCRIPTION = "Coloque seu e-mail abaixo e receba GRATUITAMENTE o minicurso de lógica de programação."
 LP_ACTION = "http://mail.gustavofurtado.com.br/subscribe"
 LP_HIDDEN_FIELDS = '<input type="hidden" name="list" value="oiJK0j8gmAdoxtJtv2pSxA" />'
-TITLEBAR_TEXT = "Receba o seu minicurso de lógica de programação GRÁTIS!"
+TITLEBAR_TEXT = "Receba este minicurso de lógica de programação GRÁTIS!"
 GOOGLE_ANALYTICS = "UA-39997045-2"
 TOTAL_LESSONS = 2
+SHARE_ON_TWITTER = "http://ctt.ec/4Rq9f"
+SHARE_ON_FACEBOOK = "http://www.facebook.com/sharer.php?u=http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/"
+SHARE_ON_GPLUS = "https://plus.google.com/share?url=http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/"
+SHARE_ON_LINKEDIN = "https://www.linkedin.com/cws/share?url=http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/"
+FOOTER_PSS = """
+<p>Aqui você encontrará conteúdo simples, práticos e que vai te ensinar os conceitos básicos por trás da programação,
+ao final será capaz de criar pequenos programas e estará pronto para aprender qualquer linguagem de programação sem dificuldades.</p>
+"""
