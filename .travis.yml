@@ -13,7 +13,7 @@ script:
   - make html
 deploy:
     provider: s3
-    access_key_id: $AWS_ACCESS_KEY # declared in Travis repo settings
+    access_key_id: $AWS_ACCESS_KEY
     secret_access_key: $AWS_SECRET_KEY
     bucket: blog.musicasparamissa.com.br
     endpoint: mclp.dicasdeprogramacao.com.br.s3-website-sa-east-1.amazonaws.com
