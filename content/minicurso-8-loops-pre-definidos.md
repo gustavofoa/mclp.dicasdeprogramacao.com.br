@@ -3,7 +3,7 @@ author: Gustavo Furtado de Oliveira Alves
 slug: aula-8-loops-pre-definidos
 date: 2016-10-27
 image: /images/.jpg
-order: 8
+order: 08
 
 #Aula (8/10) Loops pré-definidos
 
@@ -30,8 +30,7 @@ Vamos lá?
 <span style="text-decoration: underline;">Duração da
 aula: aproximadamente 15 minutos.</span>
 
-O que é um LOOP Pré-definido?
------------------------------
+##O que é um LOOP Pré-definido?
 
 Quando fazemos um algoritmo, muitas vezes já sabemos a quantidade de
 vezes que um loop deve executar. Por exemplo, some todos os números de 1
@@ -53,8 +52,7 @@ para cada cliente.
 Entendido o que é um LOOP pré-definido, vejamos qual estrutura de
 repetição utilizada para este caso.
 
-A estrutura PARA-FAÇA
----------------------
+##A estrutura PARA-FAÇA
 
 Você deve estar imaginando que é possível implementar loop pré-definido
 utilizando as estruturas de repetição que você aprendeu na aula passada.
@@ -139,11 +137,9 @@ a estrutura mais utilizada é a PARA-FAÇA.
 
 Vejamos um fluxograma desta estrutura de repetição.
 
-![estrutura-PARA](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/estrutura-PARA.png){.aligncenter
-.size-full .wp-image-347 width="440" height="608"}
+![estrutura-PARA](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/estrutura-PARA.png){:style=".aligncenter .size-full .wp-image-347" :width="440" :height="608"}
 
-Hora de praticar!
------------------
+##Hora de praticar!
 
 Pra dar mais um exemplo de LOOP pré-definido. Vamos fazer um algoritmo
 para resolver um problema matemático: O fatorial de um número.
@@ -208,8 +204,7 @@ Nesta estrutura, não é necessário incrementar nem inicializar o
 contador, isso é feito automaticamente. O resultado dos dois algoritmos
 é o mesmo, veja um exemplo de execução deste algoritmo.
 
-![Resultado-Fatorial](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/Resultado-Fatorial.png){.aligncenter
-.size-full .wp-image-349 width="681" height="138"}
+![Resultado-Fatorial](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/Resultado-Fatorial.png){:style=".aligncenter .size-full .wp-image-349" :width="681" :height="138"}
 
 LOOPs podem ser implementados com qualquer estrutura de repetição,
 porém, em alguns casos uma estrutura se mostra mais adequada que outras,
@@ -221,8 +216,7 @@ Como eu disse, a estrutura de repetição PARA-FAÇA é muito utilizada para
 acessar os valores de vetores, matrizes e listas. E esse é o assunto da
 nossa próxima aula!
 
-Exercício para você resolver!
------------------------------
+##Exercício para você resolver!
 
 Como sempre digo, lógica de programação só se aprende praticando. Então
 é a sua vez de tentar resolver um problema utilizando algoritmos. O

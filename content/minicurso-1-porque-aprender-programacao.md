@@ -1,9 +1,9 @@
 title: Aula 1/10 - Por que aprender programação?
 author: Gustavo Furtado de Oliveira Alves
-slug: minicurso-1-porque-aprender-programacao
+slug: aula-1-porque-aprender-programacao
 date: 2016-10-27
 image: /images/imagem-criancas-programando.jpg
-order: 1
+order: 01
 
 #Aula (1/10) Por que aprender programação?
 

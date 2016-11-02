@@ -1,9 +1,9 @@
-title: Aula 6/10 - Tomando decisões entre muitas opções.
+title: Aula 6/10 - Tomando decisões entre muitas opções
 author: Gustavo Furtado de Oliveira Alves
-slug: minicurso-6-tomando-decisoes-entre-muitas-opcoes
+slug: aula-6-tomando-decisoes-entre-muitas-opcoes
 date: 2016-10-27
 image: /images/.jpg
-order: 6
+order: 06
 
 #Aula (6/10) Tomando decisões entre muitas opções.
 
@@ -26,8 +26,7 @@ Antes de aprender a estrutura ESCOLHA-CASO, vamos ver uma coisa que a
 princípio não tem nada a ver com o nosso assunto, mas vai te ajudar a
 entender como funciona esta estrutura.
 
-Equipamentos de rede de computadores
-------------------------------------
+##Equipamentos de rede de computadores
 
 Talvez você já saiba mais ou menos algumas coisas sobre rede de
 computadores. Existem várias topologias de redes: estrela, barramento,
@@ -37,8 +36,7 @@ Mas quero chamar a sua atenção para dois equipamentos utilizados nas
 redes de computadores. Um é o **HUB** e o outro é o **SWITCH**.
 
 ![hub e
-switch](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/hub-e-switch.png){.size-full
-.wp-image-276 .aligncenter width="640" height="233"}
+switch](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/hub-e-switch.png){:style=".size-full .wp-image-276 .aligncenter" :width="640" :height="233"}
 
 Esses dois equipamentos são muito parecidos, algumas pessoas até pensam
 que são a mesma coisa. Mas há uma pequena diferença entre eles.
@@ -75,8 +73,7 @@ para a porta 5.
 Dessa forma há menos congestionamento na rede e é possível trafegar
 vários pacotes na rede paralelamente.
 
-Lembra que inglês é importante?
--------------------------------
+##Lembra que inglês é importante?
 
 Talvez você esteja se perguntando o que tem a ver o HUB e o SWITCH com a
 aula de hoje. Tudo!
@@ -91,8 +88,7 @@ trabalhar com programação, EMBORA NÃO SEJA IMPEDITIVO. E quando você
 estiver programando em inglês verá que ESCOLHA-CASO é traduzido como
 SWITCH-CASE.
 
-A estrutura ESCOLHA-CASO
-------------------------
+##A estrutura ESCOLHA-CASO
 
 Lembra do SE-ENTÃO-SENÃO da aula passada? Imagine que você tem um menu
 de opções e o usuário deve escolher uma opção, dentre várias. Como
@@ -138,11 +134,9 @@ FIM-ESCOLHA
 
 O esquema visual do fluxograma desta estrutura é como a figura abaixo.
 
-![estrutura-ESCOLHA-CASO](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/estrutura-ESCOLHA-CASO.png){.aligncenter
-.size-full .wp-image-284 width="687" height="513"}
+![estrutura-ESCOLHA-CASO](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/estrutura-ESCOLHA-CASO.png){:style=".aligncenter .size-full .wp-image-284" :width="687" :height="513"}
 
-ESCOLHA-CASO na prática!
-------------------------
+##ESCOLHA-CASO na prática!
 
 Nada melhor para aprender programação do que praticar. Bastante! Então
 vamos ver um exemplo prático da utilização do ESCOLHA-CASO em comparação
@@ -238,8 +232,7 @@ Bem mais bonito! Né? Agora a lógica tá mais visível e elegante. O
 resultado dos dois algoritmos é o mesmo. Mas o código com o ESCOLHA-CASO
 é mais fácil de entender.
 
-CASO NÃO TRATADO NA ESTRUTURA (OUTROCASO)
------------------------------------------
+##CASO NÃO TRATADO NA ESTRUTURA (OUTROCASO)
 
 Além das opções tratadas na estrutura, é possível identificar quando o
 valor da variável não é equivalente a nenhum valor informado como opção
@@ -270,8 +263,7 @@ ESCOLHA-CASO é uma opção muito elegante quando se tem muitos
 SE-ENTÃO-SENÃO para verificar a mesma variável. Facilita a leitura do
 algoritmo e a manutenção do código.
 
-Sua vez de praticar!
---------------------
+##Sua vez de praticar!
 
 Aprender programação é como aprender matemática, tem que praticar
 fazendo exercícios. Portanto vou deixar um exercício para você resolver

@@ -21,8 +21,7 @@ relembrar um pouquinho a escola. Mas não se assuste, vai ser fácil.
 <span style="text-decoration: underline;">Duração da
 aula: aproximadamente 25 minutos.</span>
 
-O que são Funções e Procedimentos
----------------------------------
+##O que são Funções e Procedimentos
 
 A primeira coisa que você tem que entender é o que eu estou
 falando. Afinal, que raios são funções e procedimentos?
@@ -50,7 +49,7 @@ re-inventar a roda??? Alguém já fez esses algoritmos e a gente apenas
 usa. O que precisamos é apenas solicitar a execução desses algoritmos
 dentro do nosso algoritmo.
 
-Qual a diferença entre função e procedimento?
+##Qual a diferença entre função e procedimento?
 
 A única diferença entre uma função (function) e um procedimento
 (procedure) é que a função retorna um valor (por exemplo uma função que
@@ -61,8 +60,7 @@ A figura abaixo exemplifica como acontece a utilização de uma função, o
 procedimento é a mesma coisa, menos na atribuição do resultado à
 variável "a".
 
-![função](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/função.png){.aligncenter
-.size-full .wp-image-385 width="503" height="332"}
+![função](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/função.png){:style=".aligncenter .size-full .wp-image-385" :width="503" :height="332"}
 
 **Funções** (e **procedimentos**) podem ou não receber parâmetros. No
 caso da função de raiz quadrada, é necessário passar como parâmetro o
@@ -71,8 +69,7 @@ um texto como parâmetro para apresentar na tela do usuário.
 
 Agora que já sabemos o que são e pra quê servem. Vamos para a prática!
 
-Hora de praticar: Utilizando funções e procedimentos
-----------------------------------------------------
+##Hora de praticar: Utilizando funções e procedimentos
 
 Você lembra como calcular a hipotenusa de um triângulo retângulo?
 
@@ -82,8 +79,7 @@ triângulo são perpendiculares entre si. Esses lados que formam o
 ângulo de 90º (ou ângulo reto) são chamados de "catetos". E o lado
 oposto ao angulo reto é a hipotenusa.
 
-![triangulo-retangulo](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/triangulo-retangulo-1024x670.gif){.aligncenter
-.wp-image-388 .size-large width="660" height="432"}
+![triangulo-retangulo](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/triangulo-retangulo-1024x670.gif){:style=".aligncenter .wp-image-388 .size-large" :width="660" :height="432"}
 
 Quando conhecemos o tamanho dos catetos nós conseguimos calcular o
 tamanho da hipotenusa. Estou falando do famoso **teorema de Pitágoras**
@@ -91,8 +87,7 @@ que diz: **A soma dos quadrados dos catetos equivale ao quadrado da
 hipotenusa**. A imagem abaixo ilustra bem isso.
 
 ![teorema de
-pitágoras](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/teorema-de-pitágoras.jpg){.aligncenter
-.size-full .wp-image-391 width="471" height="446"}
+pitágoras](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/teorema-de-pitágoras.jpg){:style=".aligncenter .size-full .wp-image-391" :width="471" :height="446"}
 
 Então para descobrir o valor da hipotenusa, temos que encontrar a raiz
 quadrada de ( b² + c² ).
@@ -214,8 +209,7 @@ inicio
 fimalgoritmo
 ```
 
-Resumindo
----------
+##Resumindo
 
 Vimos nesta aula que **Funções** e **procedimentos** são "subalgoritmos"
 que podem ser chamados dentro de outros algoritmos.

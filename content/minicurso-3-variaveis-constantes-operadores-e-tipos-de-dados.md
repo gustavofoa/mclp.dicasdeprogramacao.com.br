@@ -1,9 +1,9 @@
 title: Aula 3/10 - Variáveis, constantes e tipos de dados
 author: Gustavo Furtado de Oliveira Alves
-slug: minicurso-3-variaveis-constantes-operadores-e-tipos-de-dados
+slug: aula-3-variaveis-constantes-e-tipos-de-dados
 date: 2016-10-27
 image: /images/.jpg
-order: 3
+order: 03
 
 #Aula (3/10) Variáveis, constantes e tipos de dados
 

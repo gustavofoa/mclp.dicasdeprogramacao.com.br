@@ -1,9 +1,9 @@
 title: Aula 7/10 - Loops básicos!
 author: Gustavo Furtado de Oliveira Alves
-slug: minicurso-7-loops-basicos
+slug: aula-7-loops-basicos
 date: 2016-10-27
 image: /images/.jpg
-order: 7
+order: 07
 
 #Aula (7/10) Loops básicos!
 
@@ -32,8 +32,7 @@ da página e se inscreva gratuitamente neste minicurso.*
 <span style="text-decoration: underline;">Duração da
 aula: aproximadamente 15 minutos.</span>
 
-O que é LOOP?
--------------
+##O que é LOOP?
 
 Lembra quando você aprendeu a fazer <span
 style="text-decoration: underline;">multiplicação</span>?
@@ -58,8 +57,7 @@ sabores: ENQUANTO-FAÇA, REPITA-ATÉ e PARA-FAÇA.
 Na aula de hoje vamos estudar os dois primeiros: ENQUANTO-FAÇA e
 REPITA-ATÉ.
 
-Estrutura de repetição ENQUANTO-FAÇA
-------------------------------------
+##Estrutura de repetição ENQUANTO-FAÇA
 
 O funcionamento da estrutura de repetição ENQUANTO-FAÇA (em inglês
 WHILE-DO) é tão simples quanto o SE-ENTÃO-SENÃO. A diferença é que os
@@ -88,8 +86,7 @@ bloco não são executadas nenhuma vez.
 Este é o fluxograma desta estrutura de repetição. Repare que testamos a
 condição antes de entrar no LOOP.
 
-![estrutura-ENQUATO](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/estrutura-ENQUATO.png){.size-full
-.wp-image-308 .aligncenter width="400" height="515"}
+![estrutura-ENQUATO](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/estrutura-ENQUATO.png){:style=".size-full .wp-image-308 .aligncenter" :width="400" :height="515"}
 
 ### Hora de praticar
 
@@ -129,11 +126,9 @@ fimalgoritmo
 
 O resultado deste algoritmo é algo assim:
 
-![Resultado-algoritmo-ENQUANTO](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/07/Resultado-algoritmo-ENQUANTO.png){.aligncenter
-.size-full .wp-image-318 width="682" height="292"}
+![Resultado-algoritmo-ENQUANTO](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/07/Resultado-algoritmo-ENQUANTO.png){:style=".aligncenter .size-full .wp-image-318" :width="682" :height="292"}
 
-Estrutura de repetição REPITA-ATÉ
----------------------------------
+##Estrutura de repetição REPITA-ATÉ
 
 Acho que você já deve imaginar como é esta estrutura né? Não!? Fácil!
 
@@ -161,8 +156,7 @@ booleana resultar VERDADEIRO, o fluxo do algoritmo sairá do LOOP.
 
 Veja o funcionamento no fluxograma.
 
-￼![estrutura-REPITA](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/07/estrutura-REPITA.png){.aligncenter
-.wp-image-316 .size-full width="397" height="507"}
+￼![estrutura-REPITA](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/07/estrutura-REPITA.png){:style=".aligncenter .wp-image-316 .size-full" :width="397" :height="507"}
 
 Não sei se você também percebeu, enquanto na estrutura ENQUANTO-FAÇA o
 bloco do LOOP pode não ser executado nenhuma vez, **na estrutura
@@ -219,8 +213,7 @@ REPITA-ATÉ.
 Você saberia explicar por quê? Pense um pouco e responda por si mesmo. O
 resultado deste algoritmo é o mesmo do anterior.
 
-Conclusão
----------
+##Conclusão
 
 Percebemos que é possível utilizar qualquer uma das duas estruturas para
 implementar LOOPs, porém cada uma é mais apropriada dependendo do

@@ -1,9 +1,9 @@
 title: Aula 4/10 - Operadores
 author: Gustavo Furtado de Oliveira Alves
-slug: minicurso-4-operadores
+slug: aula-4-operadores
 date: 2016-10-27
 image: /images/.jpg
-order: 4
+order: 04
 
 #Aula (4/10) Operadores
 

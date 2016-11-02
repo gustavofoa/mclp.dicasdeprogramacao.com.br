@@ -1,9 +1,9 @@
 title: Aula 5/10 - Tomando decisões!
 author: Gustavo Furtado de Oliveira Alves
-slug: minicurso-5-tomando-decisoes
+slug: aula-5-tomando-decisoes
 date: 2016-10-27
 image: /images/.jpg
-order: 5
+order: 05
 
 #Aula (5/10) Tomando decisões!
 
@@ -17,8 +17,7 @@ estrutura SE-ENTÃO-SENÃO (Em inglês IF-THEN-ELSE).
 
 <u>Leitura de aproximadamente 10 minutos.</u>
 
-Estrutura de decisão SE-ENTÃO-SENÃO
------------------------------------
+##Estrutura de decisão SE-ENTÃO-SENÃO
 
 O funcionamento é simples: com base no resultado de uma expressão lógica
 (lembra da nossa última aula quando falamos dos operadores lógicos?), o
@@ -38,15 +37,9 @@ O bloco de código SENÃO é opcional. É comum encontrar instruções de
 decisão apenas com SE-ENTÃO sem o bloco SENÃO. Veja um esquema gráfico
 desta estrutura de decisão.
 
-<p>
-<center>
-![estrutura-IF](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/estrutura-IF.png){.aligncenter
-.size-full .wp-image-240 width="580" height="515"}
+![estrutura-IF](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/estrutura-IF.png){:style=".aligncenter .size-full .wp-image-240" :width="580" :height="515"}
 
-</center>
-</p>
-SE-ENTÃO-SENÃO na prática!
---------------------------
+##SE-ENTÃO-SENÃO na prática!
 
 Vejamos um exemplo de utilização desta estrutura com um algoritmo, para
 isso vamos utilizar o
@@ -82,31 +75,21 @@ fimalgoritmo
 Abaixo a execução do algoritmo acima quando informamos valores menores
 que 1000.
 
-<p>
-<center>
-![Sacar-dinheiro-menor-que-10001](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/Sacar-dinheiro-menor-que-10001.png){.aligncenter
-.size-full .wp-image-247 width="681" height="199"}
 
-</center>
+![Sacar-dinheiro-menor-que-10001](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/Sacar-dinheiro-menor-que-10001.png){:style=".aligncenter .size-full .wp-image-247" :width="681" :height="199"}
+
 Agora a execução do mesmo algoritmo, porém inserindo um valor maior que
 1000 para saque.
 
-</p>
-<p>
-<center>
-![Sacar-dinheiro-maior-que-1000](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/Sacar-dinheiro-maior-que-1000.png){.aligncenter
-.size-full .wp-image-248 width="681" height="228"}
+![Sacar-dinheiro-maior-que-1000](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/Sacar-dinheiro-maior-que-1000.png){:style=".aligncenter .size-full .wp-image-248" :width="681" :height="228"}
 
-</center>
 Perceba que o fluxo do algoritmo tomou rumos diferentes.
 
-</p>
 Essa é a estrutura de controle de fluxo mais utilizada na criação de
 programas de computador. Pratique-a criando algoritmos que tomam
 decisão.
 
-Hora de praticar!
------------------
+##Hora de praticar!
 
 Para aprender você deve praticar bastante criando algoritmos.
 

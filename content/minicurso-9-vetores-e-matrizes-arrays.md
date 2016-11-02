@@ -3,7 +3,7 @@ author: Gustavo Furtado de Oliveira Alves
 slug: aula-9-vetores-e-matrizes-arrays
 date: 2016-10-27
 image: /images/.jpg
-order: 9
+order: 09
 
 #Aula (9/10) Vetores e Matrizes (Arrays)
 
@@ -18,8 +18,7 @@ na programação. Vamos lá?
 <span style="text-decoration: underline;">Duração da
 aula: aproximadamente 10 minutos.</span>
 
-O que são Vetores e Matrizes
-----------------------------
+##O que são Vetores e Matrizes
 
 **Vetores** e **Matrizes** são estruturas de dados bastante simples que
 podem nos ajudar muito quando temos um grande número de variáveis do
@@ -62,8 +61,7 @@ imaginar no nosso exemplo dos nomes, notas e médias dos 50 alunos  como
 seriam os vetores e matrizes graficamente para facilitar o entendimento
 do conceito.
 
-![vetor-e-matriz](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/vetor-e-matriz.png){.aligncenter
-.size-full .wp-image-357 width="593" height="623"}
+![vetor-e-matriz](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/vetor-e-matriz.png){:style="".aligncenter .size-full .wp-image-357" :width="593" :height="623"}
 
 Podemos ver na imagem acima que cada posição do vetor é identificado por
 um número (chamado de **índice**), no caso da matriz são dois números
@@ -85,8 +83,7 @@ E as matrizes assim:
 Pronto, agora você já sabe o que são **arrays**. Então vamos ver como
 implementá-los em um algoritmo.
 
-Vetores e Matrizes na prática!
-------------------------------
+##Vetores e Matrizes na prática!
 
 Continuando com o nosso exemplo, vamos implementar um algoritmo para o
 cálculo das médias. Nele, vamos usar algumas estruturas básicas já
@@ -193,8 +190,7 @@ deverá criar um novo array maior e realocar os valores do array antigo.
 Mas pode ficar tranquilo que existem outras estruturas de dados que
 crescem dinamicamente, mas isso é assunto para uma aula futura ...
 
-Conclusão
----------
+##Conclusão
 
 Como você pode perceber nesta aula, Vetores e Matrizes são, na verdade,
 a mesma coisa: **ARRAY**
@@ -217,8 +213,7 @@ array recebe o índice (&lt;tamanho do array&gt; – 1).
 
 Gostou de conhecer os Arrays (Vetores e Matrizes)?
 
-Tenho um desafio para você!
----------------------------
+##Tenho um desafio para você!
 
 Nossa vida é cheia de desafios e eles são muito importantes para
 evoluirmos e ultrapassar os nossos limites.
