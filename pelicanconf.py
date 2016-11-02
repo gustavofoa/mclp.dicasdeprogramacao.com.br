@@ -24,6 +24,24 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+# Plugins
+PLUGIN_PATHS = ['./pelican-plugins']
+PLUGINS = ['sitemap', 'minify',]
+
+# Sitemap
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.5
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'indexes': 'monthly'
+    }
+}
+
 # Theme
 THEME = 'theme'
 COURSE_DESCRIPTION = """Minicurso 100% GRÁTIS de Lógica de Programação.
