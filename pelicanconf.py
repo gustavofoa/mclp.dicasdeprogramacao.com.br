@@ -39,7 +39,7 @@ LP_ACTION = "http://mail.gustavofurtado.com.br/subscribe"
 LP_HIDDEN_FIELDS = '<input type="hidden" name="list" value="oiJK0j8gmAdoxtJtv2pSxA" />'
 TITLEBAR_TEXT = "Receba este minicurso de lógica de programação GRÁTIS!"
 GOOGLE_ANALYTICS = "UA-39997045-2"
-TOTAL_LESSONS = 2
+TOTAL_LESSONS = 10
 SHARE_ON_TWITTER = "http://ctt.ec/4Rq9f"
 SHARE_ON_FACEBOOK = "http://www.facebook.com/sharer.php?u=http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/"
 SHARE_ON_GPLUS = "https://plus.google.com/share?url=http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/"

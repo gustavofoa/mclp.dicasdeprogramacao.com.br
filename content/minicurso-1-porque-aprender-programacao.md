@@ -14,8 +14,7 @@ de lógica de programação do blog **{ Dicas de Programação }**.
 
 Meu nome é **Gustavo Furtado de Oliveira Alves** e eu vou te ajudar a
 criar uma base sólida de conhecimento que te permitirá criar programas
-em qualquer linguagem de programação que o mercado de trabalho
-requisitar.
+em qualquer linguagem de programação que o mercado de trabalho requisitar.
 
 Ao longo deste minicurso, você aprenderá os conceitos básicos por trás
 da programação e será capaz de criar pequenos programas usando lógica de
