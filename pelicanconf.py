@@ -48,7 +48,7 @@ COURSE_DESCRIPTION = """Minicurso 100% GRÁTIS de Lógica de Programação.
 São 10 aulas super explicadas com a melhor didática para ensinar programação do ZERO para qualquer pessoa!
 Agora aprender programação está acessível a qualquer um!"""
 COURSE_AUTHOR = "Gustavo"
-LP_LINK = SITEURL
+LP_LINK = "http://mclp.dicasdeprogramacao.com.br/"
 OG_IMAGE = "/images/gustavo-furtado.jpg"
 LP_IMAGE = "/images/Logo.png"
 LP_TITLE = "Quer aprender lógica de programação GRÁTIS?"
