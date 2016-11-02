@@ -1,9 +1,11 @@
-Title: Aula 4/10 - Operadores
-Author: Gustavo Furtado de Oliveira Alves
-Slug: minicurso-4-operadores
+title: Aula 4/10 - Operadores
+author: Gustavo Furtado de Oliveira Alves
+slug: minicurso-4-operadores
+date: 2016-10-27
+image: /images/.jpg
+order: 4
 
-Aula (4/10) Operadores
-======================
+#Aula (4/10) Operadores
 
 Evidentemente você já resolveu alguma expressão matemática na escola.
 Lembra quando o professor pedia pra gente resolver aquelas expressões

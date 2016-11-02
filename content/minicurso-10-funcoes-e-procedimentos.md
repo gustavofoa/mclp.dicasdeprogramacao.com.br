@@ -1,9 +1,11 @@
-Title: Aula 10/10 - Funções e Procedimentos
-Author: Gustavo Furtado de Oliveira Alves
-Slug: aula-10-funcoes-e-procedimentos
+title: Aula 10/10 - Funções e Procedimentos
+author: Gustavo Furtado de Oliveira Alves
+slug: aula-10-funcoes-e-procedimentos
+date: 2016-10-27
+image: /images/.jpg
+order: 10
 
-Aula (10/10) Funções e Procedimentos
-====================================
+#Aula (10/10) Funções e Procedimentos
 
 Olá! Tudo bem? Chegamos à aula \#10 do **minicurso GRÁTIS de lógica de
 programação**!

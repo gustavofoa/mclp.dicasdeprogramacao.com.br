@@ -1,9 +1,11 @@
-Title: Aula 6/10 - Tomando decisões entre muitas opções.
-Author: Gustavo Furtado de Oliveira Alves
-Slug: minicurso-6-tomando-decisoes-entre-muitas-opcoes
+title: Aula 6/10 - Tomando decisões entre muitas opções.
+author: Gustavo Furtado de Oliveira Alves
+slug: minicurso-6-tomando-decisoes-entre-muitas-opcoes
+date: 2016-10-27
+image: /images/.jpg
+order: 6
 
-Aula (6/10) Tomando decisões entre muitas opções.
-=================================================
+#Aula (6/10) Tomando decisões entre muitas opções.
 
 <span style="text-decoration: underline;">Duração da
 aula: aproximadamente 15 minutos.</span>

@@ -1,9 +1,11 @@
-Title: Aula 8/10 - Loops pré-definidos
-Author: Gustavo Furtado de Oliveira Alves
-Slug: aula-8-loops-pre-definidos
+title: Aula 8/10 - Loops pré-definidos
+author: Gustavo Furtado de Oliveira Alves
+slug: aula-8-loops-pre-definidos
+date: 2016-10-27
+image: /images/.jpg
+order: 8
 
-Aula (8/10) Loops pré-definidos
-===============================
+#Aula (8/10) Loops pré-definidos
 
 Olá! Bem vindo a 8ª aula do **minicurso GRÁTIS de lógica de
 programação**!

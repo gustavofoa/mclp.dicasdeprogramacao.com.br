@@ -1,9 +1,11 @@
-Title: Aula 5/10 - Tomando decisões!
-Author: Gustavo Furtado de Oliveira Alves
-Slug: minicurso-5-tomando-decisoes
+title: Aula 5/10 - Tomando decisões!
+author: Gustavo Furtado de Oliveira Alves
+slug: minicurso-5-tomando-decisoes
+date: 2016-10-27
+image: /images/.jpg
+order: 5
 
-Aula (5/10) Tomando decisões!
-=============================
+#Aula (5/10) Tomando decisões!
 
 Olá nobre amigo(a)! Hoje vamos colocar a mão na massa e aprender a forma
 mais básica de controlar o fluxo de um algoritmo.
