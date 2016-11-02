@@ -26,7 +26,7 @@ DEFAULT_PAGINATION = False
 
 # Plugins
 PLUGIN_PATHS = ['./pelican-plugins']
-PLUGINS = ['sitemap', 'minify',]
+PLUGINS = ['sitemap', 'minify']
 
 # Sitemap
 SITEMAP = {
