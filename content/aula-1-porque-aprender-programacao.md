@@ -5,8 +5,6 @@ date: 2016-10-27
 image: /images/imagem-criancas-programando.jpg
 order: 01
 
-#Aula (1/10) Por que aprender programação?
-
 Olá nobre amigo(a)! Seja bem vindo à primeira aula do Minicurso GRÁTIS
 de lógica de programação do blog **{ Dicas de Programação }**.
 

@@ -2,11 +2,9 @@ title: Aula (1/10) Por que aprender programação?
 slug: email-1-aula-1-porque-aprender-programacao
 template: email
 
-#Aula (1/10) Por que aprender programação?
-
 Talvez você já tenha acessado esta primeira aula, mas estou enviando este e-mail só para garantir que você realmente recebeu o link para a primeira aula do minicurso de lógica de programação.
 
-[**>> Clique AQUI para ler a primeira aula!**](http://mclp.dicasdeprogramacao.com.br/minicurso-1-porque-aprender-programacao.html)
+[**>> Clique AQUI para acessar a primeira aula!**](http://mclp.dicasdeprogramacao.com.br/aula-1-porque-aprender-programacao.html)
 
 Nesta aula #1 do **minicurso de lógica de programação** você irá aprender:
 

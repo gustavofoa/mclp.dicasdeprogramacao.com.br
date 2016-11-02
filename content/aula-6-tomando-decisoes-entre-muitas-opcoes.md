@@ -5,8 +5,6 @@ date: 2016-10-27
 image: /images/.jpg
 order: 06
 
-#Aula (6/10) Tomando decisões entre muitas opções.
-
 <span style="text-decoration: underline;">Duração da
 aula: aproximadamente 15 minutos.</span>
 

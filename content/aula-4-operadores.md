@@ -5,8 +5,6 @@ date: 2016-10-27
 image: /images/.jpg
 order: 04
 
-#Aula (4/10) Operadores
-
 Evidentemente você já resolveu alguma expressão matemática na escola.
 Lembra quando o professor pedia pra gente resolver aquelas expressões
 enormes? Cheia de números e *operadores* de somar, subtrair,

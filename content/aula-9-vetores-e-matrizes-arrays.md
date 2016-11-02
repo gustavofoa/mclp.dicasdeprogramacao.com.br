@@ -5,8 +5,6 @@ date: 2016-10-27
 image: /images/.jpg
 order: 09
 
-#Aula (9/10) Vetores e Matrizes (Arrays)
-
 Opa! Tudo bem? Esta é a 9ª aula do **minicurso GRÁTIS de lógica de
 programação**!
 

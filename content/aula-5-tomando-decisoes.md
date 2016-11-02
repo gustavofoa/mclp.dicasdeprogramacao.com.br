@@ -5,8 +5,6 @@ date: 2016-10-27
 image: /images/.jpg
 order: 05
 
-#Aula (5/10) Tomando decisões!
-
 Olá nobre amigo(a)! Hoje vamos colocar a mão na massa e aprender a forma
 mais básica de controlar o fluxo de um algoritmo.
 

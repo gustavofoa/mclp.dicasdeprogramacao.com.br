@@ -5,8 +5,6 @@ date: 2016-10-27
 image: /images/.jpg
 order: 08
 
-#Aula (8/10) Loops pré-definidos
-
 Olá! Bem vindo a 8ª aula do **minicurso GRÁTIS de lógica de
 programação**!
 

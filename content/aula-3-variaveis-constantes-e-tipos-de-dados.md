@@ -5,8 +5,6 @@ date: 2016-10-27
 image: /images/.jpg
 order: 03
 
-#Aula (3/10) Variáveis, constantes e tipos de dados
-
 Quando começamos a nos aventurar neste mundo da programação, cometemos
 muitos erros básicos que podem ser evitados se aprendermos alguns
 conceitos básicos.

@@ -5,8 +5,6 @@ date: 2016-10-27
 image: /images/.jpg
 order: 02
 
-#Aula(2/10) Criando os seus primeiros programinhas.
-
 Olá amigo(a)! Esta é a nossa segunda aula do Minicurso GRÁTIS de lógica
 de programação do blog **{ Dicas de Programação }**.
 

@@ -5,8 +5,6 @@ date: 2016-10-27
 image: /images/.jpg
 order: 07
 
-#Aula (7/10) Loops básicos!
-
 Seja bem vindo a 7ª aula do **minicurso GRÁTIS de lógica de
 programação**!
 

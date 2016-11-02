@@ -5,8 +5,6 @@ date: 2016-10-27
 image: /images/.jpg
 order: 10
 
-#Aula (10/10) Funções e Procedimentos
-
 Olá! Tudo bem? Chegamos à aula \#10 do **minicurso GRÁTIS de lógica de
 programação**!
 
