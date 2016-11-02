@@ -34,8 +34,7 @@ minutos</span>
 
 ### Operadores Aritméticos
 
-![operadores-aritméticos](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/operadores-aritméticos-300x169.jpg){width="300"
-height="169"}Esses são os mais fáceis! Aprendemos na escola fundamental.
+![operadores-aritméticos](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/operadores-aritméticos-300x169.jpg){:width="300" :height="169"} Esses são os mais fáceis! Aprendemos na escola fundamental.
 Em programação, esses operadores são tão simples quanto você aprendeu na
 escola. Apenas alguns que você pode não conhecer.
 
@@ -115,8 +114,7 @@ esses operadores. Vamos ver como funciona cada um desses ...
 
 #### Operador E(AND)
 
-![portas-lógicas-AND](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-AND.jpg){width="233"
-height="117"}\
+![portas-lógicas-AND](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-AND.jpg){:width="233" :height="117"}
 O Operador “E” ou “AND” resulta em um valor VERDADEIRO se os dois
 valores de entrada da operação forem VERDADEIROS, caso contrário o
 resultado é FALSO. Abaixo a **tabela-verdade** da operação E.
@@ -131,8 +129,8 @@ resultado é FALSO. Abaixo a **tabela-verdade** da operação E.
 
 #### Operador OU(OR)
 
-![portas-lógicas-AND](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-OR.jpg){width="233"
-height="117"}\
+![portas-lógicas-AND](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-OR.jpg){:width="233" :height="117"}
+
 O Operador “OU” ou “OR” resulta em um valor VERDADEIRO se ao menos UM
 dos dois valores de entrada da operação for VERDADEIRO, caso contrário o
 resultado é FALSO. Abaixo a **tabela-verdade** da operação OU.
@@ -147,8 +145,8 @@ resultado é FALSO. Abaixo a **tabela-verdade** da operação OU.
 
 #### Operador NÃO(NOT)
 
-![portas-lógicas-AND](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-NOT.jpg){width="233"
-height="117"}\
+![portas-lógicas-AND](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-NOT.jpg){:width="233" :height="117"}\
+
 O Operador “NÃO” ou “NOT” é o único operador que recebe como entrada
 apenas um valor, e sua função é simplesmente inverter os valores. Ou
 seja, se o valor de entrada for VERDADEIRO, o resultado será FALSO e se
@@ -163,8 +161,7 @@ o valor de entrada for FALSO, o resultado será VERDADEIRO. Abaixo a
 
 #### Operador NÃO-E(NAND)
 
-![portas-lógicas-AND](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-NAND.jpg){width="233"
-height="117"}\
+![portas-lógicas-AND](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-NAND.jpg){:width="233" :height="117"}\
 O Operador “NÃO-E” ou “NAND” é o contrário do operador E (AND), ou seja,
 resulta em VERDADEIRO, se ao menos um dos dois valores for FALSO, na
 verdade este é o operador E (AND) seguido do operador NÃO (NOT). Abaixo
@@ -180,8 +177,7 @@ a **tabela-verdade** da operação NÃO-E.
 
 #### Operador NÃO-OU(NOR)
 
-![portas-lógicas-AND](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/pórtas-lógicas-NOR.jpg){width="233"
-height="117"}\
+![portas-lógicas-AND](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/pórtas-lógicas-NOR.jpg){:width="233" :height="117"}\
 O Operador “NÃO-OU” ou “NOR” é o contrário do operador OU (OR), ou seja,
 resulta em VERDADEIRO, se os dois valores forem FALSO, na verdade este é
 o operador OU (OR) seguido do operador NÃO (NOT). Abaixo a
@@ -197,8 +193,7 @@ o operador OU (OR) seguido do operador NÃO (NOT). Abaixo a
 
 #### Operador OU-EXCLUSIVO(XOR)
 
-![portas-lógicas-AND](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-XOR.jpg){width="233"
-height="117"}\
+![portas-lógicas-AND](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-XOR.jpg){:width="233" :height="117"}\
 O Operador “OU-EXCLUSIVO” ou “XOR” é uma variação interessante do
 operador OU (OR), ele resulta em VERDADEIRO se apenas um dos valores de
 entrada for VERDADEIRO, ou seja, apenas se os valores de entrada forem
@@ -214,8 +209,7 @@ DIFERENTES. Abaixo a **tabela-verdade** da operação OU-EXCLUSIVO.
 
 #### Operador NÃO-OU-EXCLUSIVO(XNOR)
 
-![portas-lógicas-AND](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-XNOR.jpg){width="233"
-height="117"}\
+![portas-lógicas-AND](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-XNOR.jpg){:width="233" :height="117"}\
 O Operador “NÃO-OU-EXCLUSIVO” ou “XNOR” é o contrário do operador
 OU-EXCLUSIVO (XOR), ou seja, resulta VERDADEIRO se os valores de entrada
 forem IGUAIS. Observe a tabela abaixo:
@@ -296,8 +290,7 @@ bases numéricas para aprender lógica de programação, mas se quiser
 aprender um pouco mais sobre isso, leia este post que escrevi no blog
 **{ Dicas de Programação }**:
 
-[As 10 conversões numéricas mais utilizadas na
-computação](http://www.dicasdeprogramacao.com.br/as-10-conversoes-numericas-mais-utilizadas-na-computacao/)
+[As 10 conversões numéricas mais utilizadas na computação](http://www.dicasdeprogramacao.com.br/as-10-conversoes-numericas-mais-utilizadas-na-computacao/)
 
 ### Operadores Relacionais
 
@@ -379,8 +372,7 @@ relacionais com 3 possibilidades de valores: um número menor que o
 outro, dois números iguais e um número maior que outro. Abaixo o
 resultado da execução.
 
-![resultado-operadores-relacionais](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/resultado-operadores-relacionais.png){.aligncenter
-.size-full .wp-image-220 width="681" height="333"}
+![resultado-operadores-relacionais](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/resultado-operadores-relacionais.png){:style=".aligncenter .size-full .wp-image-220" :width="681" :height="333"}
 
 #### Operadores lógicos em programação
 
