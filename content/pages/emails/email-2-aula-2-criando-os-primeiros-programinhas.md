@@ -16,3 +16,7 @@ Nesta aula #2 do **minicurso de lógica de programação** você irá aprender:
 [**>> Acessar a segunda aula do minicurso!**](http://mclp.dicasdeprogramacao.com.br/aula-2-criando-os-seus-primeiros-programinhas.html)
 
 Espero que goste desta segunda aula.
+
+**Importante!** As demais aulas serão enviadas automaticamente a cada 24 horas. Você receberá a próxima aula amanhã neste mesmo horário.
+
+Bons estudos!

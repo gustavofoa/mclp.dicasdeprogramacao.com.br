@@ -1,2 +1,1 @@
-cd /projeto
-grunt serve
+fab serve
