@@ -1,2 +1,2 @@
 cd /projeto
-grunt serve
+./develop_server.sh start
