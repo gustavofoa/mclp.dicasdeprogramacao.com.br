@@ -1,4 +1,4 @@
-title: Aula (3/10) Variáveis, constantes e tipos de dados
+title: Aula (3/10) Variáveis, constantes e tipos de dados.
 slug: email-3-aula-3-variaveis-constantes-e-tipos-de-dados
 template: email
 

@@ -1,4 +1,4 @@
-title: Aula (2/10) Criando os seus primeiros programinhas
+title: Aula (2/10) Criando os seus primeiros programinhas.
 slug: email-2-aula-2-criando-os-seus-primeiros-programinhas
 template: email
 
