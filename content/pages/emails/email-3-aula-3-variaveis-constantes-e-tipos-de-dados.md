@@ -1,22 +1,24 @@
-title: Aula (2/10) Criando os seus primeiros programinhas
-slug: email-2-aula-2-criando-os-seus-primeiros-programinhas
+title: Aula (3/10) Variáveis, constantes e tipos de dados
+slug: email-3-aula-3-variaveis-constantes-e-tipos-de-dados
 template: email
 
-E aí, pronto pra nossa segunda aula? Ansioso para criar o seu primeiro algoritmo?
-Aliás, nem te expliquei o que é algoritmo né? Esse é um dos assuntos desta segunda aula.
+Chegou o tão esperado e-mail da aula #3 do **minicurso de lógica de programação**. Na aula de hoje você aprenderá assuntos muito importantes para você se tornar um bom programador.
 
-[**>> Clique AQUI para acessar a aula #2**](http://mclp.dicasdeprogramacao.com.br/aula-2-criando-os-seus-primeiros-programinhas.html)
+[**>> Clique AQUI para acessar a aula #3**](http://mclp.dicasdeprogramacao.com.br/aula-3-variaveis-constantes-e-tipos-de-dados.html)
 
-Nesta aula #2 do **minicurso de lógica de programação** você irá aprender:
+Nesta aula você vai aprender:
 
-- O que é um Algoritmo
-- A melhor ferramenta para aprender lógica de programação
-- Como criar os seus primeiros programas
+- Como armazenar dados na memória do computador.
+- A diferênça entre variáveis e constantes.
+- O que são e como usar os tipos de dados.
+- A diferença entre os tipos de dados primitivos e os tipos de dados customizados.
 
-[**>> Acessar a segunda aula do minicurso!**](http://mclp.dicasdeprogramacao.com.br/aula-2-criando-os-seus-primeiros-programinhas.html)
+[**>> Acessar a terceira aula do minicurso!**](http://mclp.dicasdeprogramacao.com.br/aula-3-variaveis-constantes-e-tipos-de-dados.html)
 
-Espero que goste desta segunda aula.
+Ah já estava me esquecendo! Você também receberá a Solução do exercício da aula #2 que está no final da aula.
 
-**Importante!** As demais aulas serão enviadas automaticamente a cada 24 horas. Você receberá a próxima aula amanhã neste mesmo horário.
+Espero que goste desta terceira aula.
+
+**Importante!** As aulas deste minicurso são enviadas automaticamente a cada 24 horas. Você receberá a próxima aula amanhã neste mesmo horário.
 
 Bons estudos!
