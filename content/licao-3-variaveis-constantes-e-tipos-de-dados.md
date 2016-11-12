@@ -17,8 +17,6 @@ Na lição de hoje você vai aprender:
 Entender esses assuntos é muito importante para você mergulhar de cabeça
 no fantástico mundo da programação. Vamos lá?
 
-<u>Leitura de aproximadamente 10 minutos</u>
-
 ##O que são variáveis e constantes?
 
 Programas de computador utilizam os recursos de hardware mais básicos
@@ -27,7 +25,8 @@ para executar
 Enquanto o processador executa os cálculos, a memória é responsável por
 armazenar dados e servi-los ao processador.
 
-![variável](/images/variável.jpg){:width="249" :height="202"}
+![variável](/images/variável.jpg){:style="float: right; margin: 0px 5px 5px 30px;"}
+
 O recurso que nós utilizamos em nossos programas para
 escrever e ler dados da memória do computador é conhecido como
 **variável**, que é simplesmente **um espaço na memória o qual
@@ -42,22 +41,24 @@ armazenado neste espaço de memória pode ser alterado ao longo do tempo,
 ou seja, o valor ali alocado é “variável” ao longo do tempo. Diferente
 das **constantes**, que é um espaço reservado na memória para armazenar
 um valor que não muda com o tempo. Por exemplo, o valor PI
-(3.14159265359…) que nunca vai mudar!
+(3.14159265359…) que nunca vai mudar.
 
 ### Como funciona uma variável em um algoritmo
 
 Para não restar dúvidas quanto ao funcionamento de uma variável, vamos
 ver como elas funcionam em um algoritmo.
 
-> Algoritmo **Teste de Variável\
-> Declaração das variáveis**\
-> nome : Texto\
-> **Inicio**\
-> nome &lt;- “João”\
-> imprimir(nome)\
-> nome &lt;- “Maria”\
-> imprimir(nome)\
-> **Fim**
+```
+Algoritmo "Teste de Variável"
+Declaração das variáveis
+   nome : Texto
+Inicio
+   nome <- “João”
+   imprimir(nome)
+   nome <- “Maria”
+   imprimir(nome)
+Fim
+```
 
 Neste algoritmo, declaramos uma variável chamada *nome* do tipo “Texto”.
 Inicialmente armazenamos o texto “João” na variável nome, e mandamos
@@ -68,13 +69,13 @@ lugar é armazenado o texto “Maria”. Em seguida, mandamos imprimir na
 tela novamente o valor da variável, então aparece na tela o texto
 “Maria”.
 
-Percebeu como o valor da variável *nome* pode ser alterado com o tempo?
+Deu pra perceber como o valor da variável *nome* pode ser alterado com o tempo?
 
 ##Tipos de dados
 
 Para otimizar a utilização da memória, nós definimos um tipo de dados
 para cada variável.
-![Tipos de dados](/images/tipos-de-dados.jpg){:width="229" :height="220"}
+![Tipos de dados](/images/tipos-de-dados.jpg){:style="float: left; margin: 0px 30px 5px 5px;"}
 Por exemplo, a variável *nome*, deve armazenar textos, já a
 variável *idade* deve armazenar apenas números inteiros (sem casa
 decimal), na variável *sexo* podemos armazenar apenas um caractere (“M”
@@ -129,7 +130,7 @@ A partir dos tipos de dados primitivos podemos criar outros tipos de
 dados utilizando uma combinação de variáveis. São estruturas de dados,
 classes, vetores, matrizes, etc.
 
-![Classe Carro](/images/classe-carro.jpg){:width="221" :height="228"}
+![Classe Carro](/images/classe-carro.jpg){:style="float: right; margin: 0px 5px 5px 30px;"}
 Por exemplo, uma classe chamada *Carro* é um tipo de dados
 que agrupa outras variáveis básicas como **marca**, **cor**, **ano**,
 **modelo**, etc. Um *vetor* é um agrupamento de variáveis do mesmo tipo,
@@ -148,19 +149,23 @@ Diferente dos tipos de dados primitivos que já são implementados
 internamente pelas linguagens de programação, esses tipos de dados são
 criados pelo programador.
 
+Enfim, no nosso minicurso não vamos utilizar classes. Os tipos de dados customizados
+que vamos aprender serão vetores e matrizes, assuntos da lição #9.
+
 Espero que você tenha entendido esses dois assuntos, pois saber como
 funcionam as variáveis/constantes e os tipos de dados é de suma
 importância para você se tornar um bom programador.
+Releia quantas vezes forem necessárias para entender bem esse assunto.
 
 #Solução do exercício da aula \#2
 
 No final da aula passada eu pedi pra você tentar fazer um exercício. Se
 não conseguiu fazê-lo, não tem problema.
 
-Eu pedi para você solicitar 4 a notas do usuário, calcular a média e a
+Eu pedi para você solicitar as 4 notas do usuário, calcular a média e a
 presentar na tela. Nesta aula você aprendeu sobre variáveis e os tipos
 de dados. Para resolver este exercício você precisará criar 5 variáveis
-do tipo real, 4 variáveis para armazenar as notas e uma para armazenar a
+do tipo real, 4 variáveis para armazenar as 4 notas e uma para armazenar a
 média.
 
 Em seguida nós devemos solicitar ao usuário que digite as notas e
@@ -170,13 +175,15 @@ O passo seguinte é o cálculo da média, ou seja, a soma das 4 notas
 dividido por 4. Repare que precisamos colocar as somas entre
 parênteses, pois os operadores de multiplicação e divisão têm
 precedência quanto aos operadores de soma e subtração. Você vai aprender
-um pouco mais sobre os operadores na próxima aula.
+um pouco mais sobre os operadores na próxima lição.
 
 O resultado do cálculo é armazenado na variável "media".
 
 Por fim, apresentamos a média na tela para o usuário.
 
-``` {.lang:default .decode:true}
+Aqui está o meu algoritmo:
+
+```
 algoritmo "MédiaAnoLetivo"
 var
    nota1, nota2, nota3, nota4, media : real
@@ -202,10 +209,10 @@ Apresento abaixo o resultado da execução deste algoritmo.
 
 ##Continuando o minicurso
 
-Na próxima aula você vai aprender sobre os três tipos de operadores que
+Na próxima lição você vai aprender sobre os três tipos de operadores que
 são utilizados em programação. Ok?
 
-Mas antes Deixo um exercício para você pensar. Olhe para qualquer objeto
+Mas antes vou deixar um exercício mental para você pensar. Olhe para qualquer objeto
 que esteja perto de você e identifique as suas características, para
 cada uma delas pense no tipo de dados que você utilizaria se fosse
 utilizar essa informação no seus software.
@@ -219,4 +226,4 @@ desligado), etc.
 Esse é um exercício mental que vai facilitar a sua visão sobre
 manipulação de dados nos seus algoritmos.
 
-Até a próxima aula!
+Até a próxima lição!
