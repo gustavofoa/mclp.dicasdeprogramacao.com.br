@@ -21,7 +21,7 @@ programação.
 Bom, vamos à primeira lição. Hoje você vai aprender:
 
 -   Porquê você PRECISA aprender programação.
--   Você não precisa já saber inglês pra começar.
+-   Você não precisa saber inglês pra começar.
 -   Qual linguagem você deve escolher para aprender lógica
     de programação.
 
@@ -30,17 +30,15 @@ Bom, vamos à primeira lição. Hoje você vai aprender:
 > "I think everybody in this country should learn how to program a
 > computer because it teaches you how to think."
 >
-> <div style="text-align: right;">
->
 > — Steve Jobs, the Lost Interview
->
-> </div>
+
+**Tradução da frase**: *"Eu acho que todos neste país deveriam aprender como programar um computardor porque isto te ensina como pensar."*
 
 Assim como Steve Jobs disse a frase acima, eu também penso que todos
-deveriam aprender programar. A evolução tecnológica melhora a vida das
-pessoas como podemos perceber nos últimos tempos e o Software é um dos
-pilares da tecnologia do nosso tempo. Com softwares pode-se resolver
-muitos problemas do dia-a-dia. Então por que não aprender a criar
+deveriam aprender programar.
+
+Como podemos perceber nos últimos tempos a evolução tecnológica melhora a vida das
+pessoas e o Software é um dos pilares da tecnologia do nosso tempo. Com softwares pode-se resolver muitos problemas do dia-a-dia. Então por que não aprender a criar
 softwares para automatizar tarefas e assim economizar tempo e dinheiro?
 
 Vamos ver 4 motivos para você se convencer que precisa aprender programação o quanto antes!
@@ -57,7 +55,7 @@ de verdade.
 Quando uma pessoa aprende programar, ela desenvolve uma nova forma de
 pensar. Todas as decisões passam a ser tomadas levando em consideração
 pensamentos sistêmicos e racionais que convergem para o bom-senso da
-razão humana. Quando programação for uma disciplina básica da educação o
+razão humana. Quando programação for uma disciplina básica da educação, o
 mundo entrará na próxima era da evolução da humanidade.
 
 ### 2º Motivo: Programação é a nova disciplina básica da alfabetização
@@ -85,7 +83,7 @@ Calculadoras, computadores, celulares, smartphones, tablets, internet,
 TVs, micro-ondas, geladeiras, caixa eletrônicos, linhas de produção,
 satélites, carros, impressoras, letreiros digitais, drones, câmeras,
 semáforos, microcontroladores, pendrive e mais um monte de coisa que eu
-ficaria horas (dias?) enumerando.
+ficaria horas, talvez dias, enumerando.
 
 ![software na no agronegócio](/images/software-agricultura.jpg){:style="float: left; width: 376px; padding: 10px;"}
 
@@ -179,7 +177,7 @@ todas tem suas vantagens e desvantagens.
 
 Uma dica interessante é: não seja fanático por uma linguagem específica!
 Muitas pessoas defendem com unhas e dentes a linguagem de programação
-que têm mais afinidade. Basta olhar nos forums da internet as respostas
+que têm mais afinidade. Basta olhar nos foruns da internet as respostas
 para a pergunta: "Qual a melhor linguagem de programação para
 iniciantes?
 
@@ -224,7 +222,7 @@ pois vai direto ao ponto. Mas é em inglês.
 Não quero aqui entrar em discussão de linguagem X é melhor pra aprender
 que a linguagem Y, pois há muita discussão sobre isso na internet,
 principalmente entre pessoas que defendem a "linguagem preferida" ou que
-argumentam apenas qual é melhor para o o mercado de trabalho atual.
+argumentam apenas qual é melhor para o mercado de trabalho atual.
 
 O que eu quero deixar claro pra você é que **você deve escolher a
 linguagem a se aprender baseado no seu objetivo**.
@@ -236,18 +234,16 @@ Ou se você já domina lógica e quer aprender uma linguagem pra arrumar um
 emprego, pesquise no mercado a linguagem que está sendo mais pedida nas
 vagas de emprego atualmente e vá fundo nos estudos!
 
-Se você quer criar um software embarcado, procure uma linguagem
-apropriada e mais usada para softwares embarcados.
+Se você quer criar um software embarcado (para foguetes, sondas, satélites, mísseis, etc.), procure uma linguagem apropriada e mais usada para softwares embarcados.
 
 O mercado muda, a linguagem "da moda" hoje pode não estar tão em alta
-amanhã. Pense nisso. Por isso digo que sempre que você decidir aprender
+amanhã. Pense nisso. Por isso sempre que você decidir aprender
 uma linguagem nova de programação, pense no seu objetivo de curto, médio
 e longo prazo.
 
 Entendeu?
 
-Vamos em frente com a lição de hoje que tá interessante, mas já tá ficando bem grande.
-Me empolguei rsrs.
+Vamos em frente com a lição de hoje que tá interessante, mas já tá ficando bem grande. Me empolguei rsrs.
 
 ##Paradigma "Como" fazer e paradigma "O que" fazer
 
@@ -257,11 +253,11 @@ programação foram criadas para outros paradigmas de programação em que a
 forma de programar é completamente diferente.
 
 Linguagens como **Lisp**, **Prolog**, **IPL**, etc. utilizam paradigmas
-de programação que não trabalham a forma do "como" fazer e sim o "quê"
+de programação que não trabalham a forma de "como" fazer e sim "o que"
 fazer.
 
 Neste ponto, mantenho a minha opinião anterior.
-Se, para atingir o seu objetivo atual, você tenha que aprender alguma
+Se para atingir o seu objetivo atual, você tenha que aprender alguma
 dessas linguagens agora, talvez o melhor realmente não seja aprender
 lógica de programação neste momento.
 
