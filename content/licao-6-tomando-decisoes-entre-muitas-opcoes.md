@@ -1,23 +1,19 @@
-title: Aula 6/10 - Tomando decisões entre muitas opções
+title: 6/10 - Tomando decisões entre muitas opções
 author: Gustavo Furtado de Oliveira Alves
-slug: aula-6-tomando-decisoes-entre-muitas-opcoes
+slug: licao-6-tomando-decisoes-entre-muitas-opcoes
 date: 2016-10-27
 image: /images/.jpg
 order: 06
 
-<span style="text-decoration: underline;">Duração da
-aula: aproximadamente 15 minutos.</span>
+Olá querido aluno, conseguiu resolver o exercício da última lição? No final da lição de hoje você poderá ver a minha solução para você conferir com o seu algoritmo.
 
-Olá querido aluno, conseguiu resolver o exercício da última aula? Mandei
-a resposta no seu e-mail, você recebeu?
-
-Na última aula nós falamos da estrutura SE-ENTÃO-SENÃO, que é usada para
+Na última lição nós falamos da estrutura **SE-ENTÃO-SENÃO**, que é usada para
 fazer os nossos programas tomarem decisões por si só.
 
 Dei o exemplo do caixa eletrônico, em que o programa deveria verificar
 se o valor que desejamos sacar é menor que o saldo disponível.
 
-Na aula de hoje vamos ver qual estrutura de controle de fluxo devemos
+Na lição de hoje vamos ver qual estrutura de controle de fluxo devemos
 utilizar quando temos muitas opções para tomar decisão.
 
 Antes de aprender a estrutura ESCOLHA-CASO, vamos ver uma coisa que a
@@ -286,4 +282,55 @@ agora! É GRÁTIS! Basta clicar no botão laranja no topo. Você receberá as
 Na próxima aula que você receberá por e-mail, vou te ensinar a fazer
 estruturas de repetição.
 
-Até a próxima aula!
+##Minha solução para o exercício da lição #5
+
+No final da lição #5 do **minicurso de lógica de programação** eu pedi pra você tentar resolver um exercício de lógica para verificar se um aluno foi aprovado ou reprovado no final do ano.
+
+Você fez? Espero que sim! Teve alguma dificuldade? Bom, abaixo eu mostro como eu escrevi um algoritmo para resolver esse exercício. Compare com o que você fez. Se o seu não deu certo, continue lendo que eu explico cada parte do algoritmo.
+
+Esse é o algoritmo:
+
+```
+algoritmo "AprovacaoFinalDeAno"
+var
+   nota1, nota2, nota3, nota4, media: real
+inicio
+
+      escreva("Informe a nota (de 0 a 10) do primeiro bimestre: ")
+      leia(nota1)
+      escreva("Informe a nota (de 0 a 10) do segundo bimestre: ")
+      leia(nota2)
+      escreva("Informe a nota (de 0 a 10) do terceiro bimestre: ")
+      leia(nota3)
+      escreva("Informe a nota (de 0 a 10) do quarto bimestre: ")
+      leia(nota4)
+
+      media := (nota1 + nota2 + nota3 + nota4) / 4
+
+      escreval("Sua média foi: ", media)
+
+      se media >= 6 entao
+         escreva("Você foi APROVADO!")
+      senao
+         escreva("Você foi REPROVADO!")
+      fimse
+
+fimalgoritmo
+```
+
+Entendendo o algoritmo.
+Primeiro eu declarei 5 variáveis do tipo REAL. Elas têm que ser do tipo REAL porque as notas podem ter valores decimais, por exemplo 5.5.
+
+Depois eu escrevi na tela "Digite a nota (de 0 a 10) do primeiro bimestre: " e armazenei na variável nota1 o valor que o usuário digitou. Fiz o mesmo para as outras 3 notas.
+
+Na sequência e calculei a média das 4 notas e armazenei o resultado na variável "media". Importante colocar o parênteses para somar as notas ANTES de dividir por 4.
+
+Agora que vem a parte da decisão, o SE-ENTÃO-SENÃO.
+
+Eu verifiquei se a média é MAIOR OU IGUAL a 6. Se SIM ENTÃO imprimi na tela a mensagem informando que o aluno foi aprovado. SENÃO imprimi a mensagem informando que o aluno foi reprovado.
+
+Veja abaixo o resultado da execução do algoritmo no Visualg, quando a média era menor que 6 e quando foi maior.
+
+Viu como foi simples? Se você teve dificuldades para resolver, não se preocupe. No início parece difícil mesmo. Mas como sempre digo, é preciso praticar!
+
+Se conseguiu resolver sem dificuldades ótimo, mas continue praticando.

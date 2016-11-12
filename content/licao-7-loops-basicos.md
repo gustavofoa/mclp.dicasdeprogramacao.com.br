@@ -1,11 +1,11 @@
-title: Aula 7/10 - Loops básicos!
+title: 7/10 - Loops básicos!
 author: Gustavo Furtado de Oliveira Alves
-slug: aula-7-loops-basicos
+slug: licao-7-loops-basicos
 date: 2016-10-27
 image: /images/.jpg
 order: 07
 
-Seja bem vindo a 7ª aula do **minicurso GRÁTIS de lógica de
+Seja bem vindo a 7ª lição do **minicurso GRÁTIS de lógica de
 programação**!
 
 Até aqui aprendemos sobre escrever dados na tela e ler informações que o

@@ -1,11 +1,11 @@
-title: Aula 10/10 - Funções e Procedimentos
+title: 10/10 - Funções e Procedimentos
 author: Gustavo Furtado de Oliveira Alves
-slug: aula-10-funcoes-e-procedimentos
+slug: licao-10-funcoes-e-procedimentos
 date: 2016-10-27
 image: /images/.jpg
 order: 10
 
-Olá! Tudo bem? Chegamos à aula \#10 do **minicurso GRÁTIS de lógica de
+Olá! Tudo bem? Chegamos à lição \#10 do **minicurso GRÁTIS de lógica de
 programação**!
 
 Nesta aula vamos aprender uma forma de melhorar a sua

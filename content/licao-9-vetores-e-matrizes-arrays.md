@@ -1,11 +1,11 @@
-title: Aula 9/10 - Vetores e Matrizes (Arrays)
+title: 9/10 - Vetores e Matrizes (Arrays)
 author: Gustavo Furtado de Oliveira Alves
-slug: aula-9-vetores-e-matrizes-arrays
+slug: licao-9-vetores-e-matrizes-arrays
 date: 2016-10-27
 image: /images/.jpg
 order: 09
 
-Opa! Tudo bem? Esta é a 9ª aula do **minicurso GRÁTIS de lógica de
+Opa! Tudo bem? Esta é a 9ª lição do **minicurso GRÁTIS de lógica de
 programação**!
 
 Hoje vamos falar sobre Vetores e Matrizes. Você vai aprender para que

@@ -1,6 +1,6 @@
-title: Aula 4/10 - Operadores
+title: 4/10 - Operadores
 author: Gustavo Furtado de Oliveira Alves
-slug: aula-4-operadores
+slug: licao-4-operadores
 date: 2016-10-27
 image: /images/.jpg
 order: 04

@@ -1,11 +1,11 @@
-title: Aula 1/10 - Por que aprender programação?
+title: 1/10 - Por que aprender programação?
 author: Gustavo Furtado de Oliveira Alves
-slug: aula-1-porque-aprender-programacao
+slug: licao-1-porque-aprender-programacao
 date: 2016-10-27
 image: /images/imagem-criancas-programando.jpg
 order: 01
 
-Olá nobre amigo(a)! Seja bem vindo à primeira aula do Minicurso GRÁTIS
+Olá nobre amigo(a)! Seja bem vindo(a) à primeira lição do nosso Minicurso GRÁTIS
 de lógica de programação do blog **{ Dicas de Programação }**.
 
 [![Gustavo Furtado](/images/gustavo-furtado.jpg){:style="float: right; width: 200px; margin: 0px 5px 5px 30px;"}](http://gustavofurtado.com.br/)
@@ -18,15 +18,12 @@ Ao longo deste minicurso, você aprenderá os conceitos básicos por trás
 da programação e será capaz de criar pequenos programas usando lógica de
 programação.
 
-Bom, vamos à primeira aula deste minicurso. Nesta aula você vai
-aprender:
+Bom, vamos à primeira lição. Hoje você vai aprender:
 
 -   Porquê você PRECISA aprender programação.
 -   Você não precisa já saber inglês pra começar.
 -   Qual linguagem você deve escolher para aprender lógica
     de programação.
-
-<u>Leitura de aproximadamente 15 minutos.</u>
 
 ##4 Motivos para você começar aprender programação AGORA!
 
@@ -40,13 +37,15 @@ aprender:
 > </div>
 
 Assim como Steve Jobs disse a frase acima, eu também penso que todos
-deveriam aprender a programar. A evolução tecnológica melhora a vida das
+deveriam aprender programar. A evolução tecnológica melhora a vida das
 pessoas como podemos perceber nos últimos tempos e o Software é um dos
 pilares da tecnologia do nosso tempo. Com softwares pode-se resolver
 muitos problemas do dia-a-dia. Então por que não aprender a criar
 softwares para automatizar tarefas e assim economizar tempo e dinheiro?
 
-### 1º Você vai mudar a sua forma de pensar!
+Vamos ver 4 motivos para você se convencer que precisa aprender programação o quanto antes!
+
+### 1º Motivo: Você vai mudar a sua forma de pensar!
 
 Aprender programação ajuda muito a forma como as pessoas pensam,
 principalmente por desenvolver a disciplina da lógica, que é um campo da
@@ -55,13 +54,13 @@ do pensar correto, sendo portanto, um instrumento do pensar. A lógica
 guia o raciocínio humano através de argumentos para chegar a conclusões
 de verdade.
 
-Quando uma pessoa aprende a programar, ela desenvolve uma nova forma de
+Quando uma pessoa aprende programar, ela desenvolve uma nova forma de
 pensar. Todas as decisões passam a ser tomadas levando em consideração
 pensamentos sistêmicos e racionais que convergem para o bom-senso da
 razão humana. Quando programação for uma disciplina básica da educação o
 mundo entrará na próxima era da evolução da humanidade.
 
-### 2º Programação é a nova disciplina básica da alfabetização
+### 2º Motivo: Programação é a nova disciplina básica da alfabetização
 
 ![aprender programação](/images/imagem-criancas-programando.jpg){:style="float: right; width: 376px; padding: 10px;"}
 
@@ -78,10 +77,10 @@ programação é a nova disciplina básica para alfabetização. Tenho certeza
 que em poucos anos, programação será ensinado nas escolas de ensino
 fundamental.
 
-### 3º Os softwares estão em tudo!
+### 3º Motivo: Os softwares estão em tudo!
 
 Já parou pra pensar na quantidade de coisas que estamos direta e
-indiretamente em contato e que são controlados por softwares?
+indiretamente em contato e que são controladas por softwares?
 Calculadoras, computadores, celulares, smartphones, tablets, internet,
 TVs, micro-ondas, geladeiras, caixa eletrônicos, linhas de produção,
 satélites, carros, impressoras, letreiros digitais, drones, câmeras,
@@ -97,11 +96,11 @@ Agricultura, manufatura, logística, marketing, agropecuária, medicina,
 etc. Atividades onde você menos imagina têm software!
 
 Isso tudo falando só do presente, deixo a sua imaginação livre para
-pensar no que vem pela frente nos anos vindouros.
+pensar no que vem pela frente nos próximos anos.
 
 Você precisa estar preparado para participar dessa nova era!
 
-### 4º Você já sabe programar! Só não te contaram...
+### 4º Motivo: Você já sabe programar! Só não te contaram...
 
 Diferente do que muitos pensam, programação não é um monte de código que
 poucos conseguem entender. No fundo, programar é ensinar uma máquina a
@@ -115,7 +114,7 @@ todo, programar nada mais é do que ensinar uma máquina a fazer isso.
 Programação é uma forma de automatizar decisões e atividades através de
 instruções que um equipamento eletrônico pode seguir para executar uma
 tarefa autonomamente. Ao entender este conceito, códigos que você achava
-que era coisa de outro mundo começam a fazer sentido.
+que eram coisas de outro mundo começam a fazer sentido.
 
 ##Preciso saber inglês para aprender programação?
 
@@ -155,7 +154,7 @@ resolver problemas dos seus programas, e acredite, a maioria das
 respostas para as suas dúvidas estarão na sua cara, mas em inglês. Já
 passei por isso!
 
-Inglês não é um impeditivo para aprender a programar, mas certamente
+Inglês não é um impeditivo para aprender programar, mas certamente
 será uma pedra no seu sapato ao longo da sua carreira se você ainda não
 souber.
 
@@ -166,7 +165,7 @@ programação**.
 Eu escrevi um post sobre isso no blog **{ Dicas de Programação }**. Dê
 uma olhada depois.
 
-**[Quer ser programador? Aprenda inglês!](http://www.dicasdeprogramacao.com.br/quer-ser-programador-aprenda-ingles/)**
+**[Quer ser programador? Aprenda inglês!](http://www.dicasdeprogramacao.com.br/quer-ser-programador-aprenda-ingles/){:target="\_blank"}**
 
 ##Com qual linguagem começar
 
@@ -201,10 +200,12 @@ Muitas pessoas já começam aprendendo lógica de programação com
 linguagens como Java, C, Python, C\#, etc. É totalmente válido e muitos
 conseguem de fato aprender (especialmente se já souber inglês), mas
 algumas pessoas podem ter dificuldade de assimilar os conceitos básicos
-com essas linguagens.
+utilizando essas linguagens para começar no mundo da programação.
 
 Então, para quem nunca programou antes, indico fortemente que comece com
-uma linguagem que o ajude aprender a programar.
+uma linguagem que o ajude aprender **lógica de programação**.
+Aprendeu lógica de programação? Agora você está livre pra voar no mundo do desenvolvimento de softwares
+qual a linguagem que você quiser!
 
 Agora vou te confessar uma coisa. Foi difícil eu entender isso quando
 comecei a ensinar programação, queria logo que os alunos aprendessem
@@ -218,7 +219,7 @@ escreva palavras específicas de java como **class**, **public**,
 **static**, **void** e **main**.
 
 Nesse ponto aliás, Python é uma linguagem muito boa para se aprender,
-pois vai direto ao ponto.
+pois vai direto ao ponto. Mas é em inglês.
 
 Não quero aqui entrar em discussão de linguagem X é melhor pra aprender
 que a linguagem Y, pois há muita discussão sobre isso na internet,
@@ -233,7 +234,7 @@ linguagem que vai te ajudar a aprender lógica de programação! Pronto.
 
 Ou se você já domina lógica e quer aprender uma linguagem pra arrumar um
 emprego, pesquise no mercado a linguagem que está sendo mais pedida nas
-vagas de emprego atualmente.
+vagas de emprego atualmente e vá fundo nos estudos!
 
 Se você quer criar um software embarcado, procure uma linguagem
 apropriada e mais usada para softwares embarcados.
@@ -244,6 +245,9 @@ uma linguagem nova de programação, pense no seu objetivo de curto, médio
 e longo prazo.
 
 Entendeu?
+
+Vamos em frente com a lição de hoje que tá interessante, mas já tá ficando bem grande.
+Me empolguei rsrs.
 
 ##Paradigma "Como" fazer e paradigma "O que" fazer
 
@@ -256,7 +260,8 @@ Linguagens como **Lisp**, **Prolog**, **IPL**, etc. utilizam paradigmas
 de programação que não trabalham a forma do "como" fazer e sim o "quê"
 fazer.
 
-Se, para atingir o seu atual objetivo, você tenha que aprender alguma
+Neste ponto, mantenho a minha opinião anterior.
+Se, para atingir o seu objetivo atual, você tenha que aprender alguma
 dessas linguagens agora, talvez o melhor realmente não seja aprender
 lógica de programação neste momento.
 
@@ -282,12 +287,10 @@ desse minicurso em outra linguagem mais profissional, ÓTIMO! Fique a
 vontade, escolha a linguagem que você quer aprender (baseado no seu
 objetivo) e mãos a obra!
 
-Por hoje é só. Na próxima aula, vamos ver como instalar a ferramenta que
-vamos usar pra aprender programação e criar os nossos primeiros
-programas!
+Por hoje é só. Na próxima lição, vamos ver como instalar a ferramenta que vamos usar pra aprender programação e também criar os nossos primeiros programas!
 
-Se você se inscreveu neste minicurso, receberá a próxima aula por
-e-mail amanhã. Se ainda não está inscrito, não perca tempo. É GRÁTIS!
+Se você se inscreveu neste minicurso, receberá a próxima lição por
+e-mail amanhã. Se ainda não está inscrito, você pode se inscrever agora. É GRÁTIS!
 
 Até a próxima!
 

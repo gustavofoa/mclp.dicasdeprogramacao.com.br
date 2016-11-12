@@ -1,6 +1,6 @@
-title: Aula 5/10 - Tomando decisões!
+title: 5/10 - Tomando decisões!
 author: Gustavo Furtado de Oliveira Alves
-slug: aula-5-tomando-decisoes
+slug: licao-5-tomando-decisoes
 date: 2016-10-27
 image: /images/.jpg
 order: 05

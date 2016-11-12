@@ -1,6 +1,6 @@
-title: Aula 3/10 - Variáveis, constantes e tipos de dados
+title: 3/10 - Variáveis, constantes e tipos de dados
 author: Gustavo Furtado de Oliveira Alves
-slug: aula-3-variaveis-constantes-e-tipos-de-dados
+slug: licao-3-variaveis-constantes-e-tipos-de-dados
 date: 2016-10-27
 image: /images/.jpg
 order: 03
@@ -9,7 +9,7 @@ Quando começamos a nos aventurar neste mundo da programação, cometemos
 muitos erros básicos que podem ser evitados se aprendermos alguns
 conceitos básicos.
 
-Na aula de hoje você vai aprender:
+Na lição de hoje você vai aprender:
 
 -   O que são variáveis e constantes.
 -   Os tipos de dados que podemos usar em cada variável/constante.
