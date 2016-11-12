@@ -108,9 +108,7 @@ técnica. Se quiser saber mais clique no link abaixo e leia **depois que acabar 
 
 **[Clique AQUI para conhecer a técnica pomodoro!](http://www.dicasdeprogramacao.com.br/melhore-sua-produtividade-com-a-tecnica-pomodoro/){:target=\_blank}**
 
-Voltando ao minicurso, se não vai usar lápis e borracha e quiser utilizar um
-software para te ajudar a aprender programação. Neste minicurso vamos
-utilizar o Visualg para escrever códigos em português.
+Voltando ao minicurso, se não vai usar lápis e borracha e quiser utilizar um software para te ajudar a aprender programação. Sugiro que você utilize o Visualg, pois neste minicurso vamos utilizá-lo para escrever códigos em português.
 
 Na minha opinião o VisuAlg é a melhor IDE (Ambiente de desenvolvimento)
 para iniciantes em programação implementarem seus algoritmos.
@@ -182,7 +180,7 @@ usuário: **Olá! digite o seu nome:**
 
 Nós fizemos isso através da função **ESCREVA**.
 Também falarei sobre as funções mais pra frente neste minicurso, por hora,
-pensei que a função vai fazer uma coisa pra gente. No caso, escrever um texto na tela.
+pense que a função vai fazer alguma coisa pra gente. No caso, escrever um texto na tela.
 
 6º Na linha seguinte, nós capturamos o que o usuário digitou através da
 função **LEIA**. E armazenamos o texto que o usuário digitou na variável
