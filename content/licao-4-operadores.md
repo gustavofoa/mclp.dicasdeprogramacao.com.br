@@ -2,7 +2,7 @@ title: 4/10 - Operadores
 author: Gustavo Furtado de Oliveira Alves
 slug: licao-4-operadores
 date: 2016-10-27
-image: /images/.jpg
+image: /images/operadores-aritméticos.jpg
 order: 04
 
 Evidentemente você já resolveu alguma expressão matemática na escola.
@@ -429,13 +429,6 @@ Importante lembrar que do mesmo jeito que aprendemos os operadores
 aritméticos nas escola, para aprender os operadores relacionais e
 lógicos (menos comuns) é necessário bastante prática!
 
-Quer um exercício simples? Faça um algoritmo que solicite um número ao
-usuário e informe se este número é **par** ou **ímpar**.
-
-Outro exercício? Solicite a idade do usuário e informe se ele é maior de
-dade ou não, se ele pode votar (acima de 16 anos) e se ele
-é **obrigado** a votar (entre 18 e 65 anos).
-
-Vou te mostrar o meu algoritmo para estes dois algoritmos no final da próxima lição.
+Por isso, após a próxima lição que você vai aprender a estrutura SE-ENTÃO-SENÃO, você poderá praticar bastante o uso desses operadores com exercícios.
 
 Até lá!

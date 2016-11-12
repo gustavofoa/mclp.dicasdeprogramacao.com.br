@@ -2,7 +2,7 @@ title: 2/10 - Criando os seus primeiros programinhas.
 author: Gustavo Furtado de Oliveira Alves
 slug: licao-2-criando-os-seus-primeiros-programinhas
 date: 2016-10-27
-image: /images/.jpg
+image: /images/caderno-lapis-borracha.jpg
 order: 02
 
 Olá amigo(a)! Esta é a nossa segunda lição do Minicurso GRÁTIS de lógica

@@ -2,7 +2,7 @@ title: 3/10 - Variáveis, constantes e tipos de dados
 author: Gustavo Furtado de Oliveira Alves
 slug: licao-3-variaveis-constantes-e-tipos-de-dados
 date: 2016-10-27
-image: /images/.jpg
+image: /images/variável.jpg
 order: 03
 
 Quando começamos a nos aventurar neste mundo da programação, cometemos
