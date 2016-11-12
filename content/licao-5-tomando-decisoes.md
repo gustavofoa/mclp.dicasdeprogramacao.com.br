@@ -13,16 +13,14 @@ Vamos fazer os nossos algoritmos tomarem decisões!
 Para isso existem as estruturas de decisão, e a mais utilizada é a
 estrutura SE-ENTÃO-SENÃO (Em inglês IF-THEN-ELSE).
 
-<u>Leitura de aproximadamente 10 minutos.</u>
-
 ##Estrutura de decisão SE-ENTÃO-SENÃO
 
 O funcionamento é simples: com base no resultado de uma expressão lógica
-(lembra da nossa última aula quando falamos dos operadores lógicos?), o
+(lembra da nossa última lição quando falamos dos operadores lógicos?), o
 fluxo do algoritmo segue para um bloco de instruções ou não. Observe o
 esquema da estrutura SE-ENTÃO-SENÃO:
 
-``` {.toolbar-overlay:false .lang:default .decode:true .highlight:0}
+```
 SE <expressão lógica>
    ENTÃO
       <instruções a serem executadas caso a expressão booleana resulte em VERDADEIRO>
@@ -35,20 +33,21 @@ O bloco de código SENÃO é opcional. É comum encontrar instruções de
 decisão apenas com SE-ENTÃO sem o bloco SENÃO. Veja um esquema gráfico
 desta estrutura de decisão.
 
-![estrutura-IF](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/estrutura-IF.png){:style=".aligncenter .size-full .wp-image-240" :width="580" :height="515"}
+![estrutura-IF](/images/estrutura-IF.png){:style="text-align:center;" :width="100%"}
+
+Simples assim. Essa estrutura não tem segredos. Agora é hora de praticar! Vamos lá?
 
 ##SE-ENTÃO-SENÃO na prática!
 
-Vejamos um exemplo de utilização desta estrutura com um algoritmo, para
-isso vamos utilizar o
-[VisuAlg](http://www.dicasdeprogramacao.com.br/download-visualg/).
+Vejamos um exemplo de utilização desta estrutura com um algoritmo, você pode usar o
+[VisuAlg](http://www.dicasdeprogramacao.com.br/download-visualg/) para testar esse algoritmo e ver o resultado.
 
 Neste algoritmo, vamos simular um caixa eletrônico quando vamos sacar
 dinheiro. O caixa eletrônico verifica se o valor que desejamos sacar é
 menor que o saldo disponível. Assumiremos que há R\$ 1000 de saldo
-disponível para o saque.
+disponível para o saque. Se o valor que o usuário quer sacar é menor ou igual ao saldo disponível, então o algoritmo permite o saque, caso contrário, não.
 
-``` {.toolbar-overlay:false .lang:default .decode:true .highlight:0}
+```
 algoritmo "SacarDinheiro"
 var
    SaldoDisponivel : REAL
@@ -74,12 +73,12 @@ Abaixo a execução do algoritmo acima quando informamos valores menores
 que 1000.
 
 
-![Sacar-dinheiro-menor-que-10001](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/Sacar-dinheiro-menor-que-10001.png){:style=".aligncenter .size-full .wp-image-247" :width="681" :height="199"}
+![Sacar-dinheiro-menor-que-10001](/images/Sacar-dinheiro-menor-que-10001.png){:style=".aligncenter .size-full .wp-image-247" :width="681" :height="199"}
 
 Agora a execução do mesmo algoritmo, porém inserindo um valor maior que
 1000 para saque.
 
-![Sacar-dinheiro-maior-que-1000](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/Sacar-dinheiro-maior-que-1000.png){:style=".aligncenter .size-full .wp-image-248" :width="681" :height="228"}
+![Sacar-dinheiro-maior-que-1000](/images/Sacar-dinheiro-maior-que-1000.png){:style=".aligncenter .size-full .wp-image-248" :width="681" :height="228"}
 
 Perceba que o fluxo do algoritmo tomou rumos diferentes.
 
@@ -91,21 +90,18 @@ decisão.
 
 Para aprender você deve praticar bastante criando algoritmos.
 
-Como exercício, crie um algoritmo para verificar se um aluno foi
-aprovado ou reprovado no final do ano, assim: O usuário digita as 4
+Lembra do exercício que você fez na lição #2? Aquele que calcula a média de um aluno. Vamos incrementar ele e informar se ele foi aprovado ou reprovado.
+
+Então o algoritmo deve ser assim assim: O usuário digita as 4
 notas (de 0 a 10) bimestrais do aluno e o algoritmo deve calcular a
-média e verificar se é maior ou igual a 6. **Caso afirmativo**, exibe na
+média. Depois o algoritmo deve verificar se a média é maior ou igual a 6. **Caso afirmativo**, exibe na
 tela uma mensagem informando que o aluno foi aprovado, **caso
 contrário**, uma mensagem informando que ele foi reprovado.
 
-Amanhã vou enviar no seu e-mail a resposta. ;) Mas é muito importante
-que você tente fazer esse algoritmo sozinho antes de ver a resposta.
+Na lição de amanhã eu te mostro o meu algoritmo. Mas é muito importante
+que você tente fazer esse algoritmo sozinho antes de ver a resposta. Ok?
 
-Se você ainda não está inscrito neste minicurso, se inscreva agora! É
-GRÁTIS! Basta clicar no botão laranja no topo. Você receberá as 10 aulas
-no seu e-mail.
-
-Na próxima aula vamos ver como fazemos para nosso algoritmo tomar
+Na próxima lição vamos ver como fazemos para nosso algoritmo tomar
 decisão quanto tem MUITAS opções.
 
-Até a próxima aula!
+Até a próxima!
