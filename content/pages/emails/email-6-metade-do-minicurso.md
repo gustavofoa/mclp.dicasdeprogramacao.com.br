@@ -14,10 +14,12 @@ Pensando nisso eu criei um e-book repleto de exercícios para você colocar em p
 
 >> Saiba mais sobre o e-book!
 
-Ah! Neste e-book também tem um algoritmo escrito por mim para cada exercício.
+Ah! Neste e-book também tem um algoritmo escrito por mim para cada exercício, com explicações detalhadas.
 
-Mas não adianta você ir direto na minha solução heim! Você precisa forçar a sua mente para resolver os exercícios sozinho, só depois você vai lá conferir com o meu algoritmo.
+Mas não adianta você ir direto na minha solução heim! Você precisa forçar a sua mente para resolver os exercícios sozinho, só depois você vai lá conferir com o meu algoritmo e aprender mais como criar seus algoritmos.
 
 Tá bom, se estiver muito difícil, mas muito difícil mesmo, você pode ir lá consultar o meu algoritmo. Mas isso ficará por sua conta.
 
 >> Clique AQUI para mais informações!
+
+Hoje agradeço à minha primeira professora de lógica de programação por ter me ensinado que lógica de programação se aprende fazendo bastante exercícios. Foi como seu eu tivesse descoberto a passagem secreta para ultrapassar uma grande barreira e me tornar criador de tecnologia.
