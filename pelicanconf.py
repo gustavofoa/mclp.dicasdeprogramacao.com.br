@@ -42,6 +42,11 @@ SITEMAP = {
     }
 }
 
+ARTICLE_URL = '{slug}/'
+ARTICLE_SAVE_AS = '{slug}/index.html'
+PAGE_URL = '{slug}/'
+PAGE_SAVE_AS = '{slug}/index.html'
+
 # Theme
 THEME = 'theme'
 COURSE_DESCRIPTION = """Minicurso 100% GRÁTIS de Lógica de Programação.
@@ -65,3 +70,4 @@ FOOTER_PSS = """
 <p>Aqui você encontrará conteúdo simples, práticos e que vai te ensinar os conceitos básicos por trás da programação,
 ao final será capaz de criar pequenos programas e estará pronto para aprender qualquer linguagem de programação sem dificuldades.</p>
 """
+
