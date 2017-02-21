@@ -142,6 +142,8 @@ O professor **Antonio Carlos Nicolodi** reformulou o Visualg e lançou a
 versão 3.0 com uma interface nova e algumas melhorias. Para este
 minicurso você pode usar a versão 3.0 ou a 2.5. Como você preferir.
 
+**[Você pode baixar qualquer uma das duas versões clicando AQUI!](http://www.dicasdeprogramacao.com.br/download-visualg/){:target=\_blank}**
+
 ##Criando o seu primeiro programa!
 
 Agora que você já tem o Visualg, é hora de criar o seu primeiro
@@ -155,12 +157,12 @@ Vamos entender esse primeiro programa que você criou.
 1º Na primeira linha, nós colocamos o nome do algoritmo
 **"BoasVindas"**.
 
-2º As quatro linhas seguintes são comentário, ou seja, é ignorado pelo
+2º As quatro linhas seguintes são comentários, ou seja, é ignorado pelo
 compilador, não é um comando de algoritmo. Toda linguagem de programação
 tem alguma forma de fazer comentários no código. No Visualg os comentários
 começam com duas barras. Assim: //
 
->**Nota para o iniciante**: Embora os comentários não sejam interpretados
+>**Nota para o iniciante**: Embora os comentários não sejam interpretados como comandos
 na hora de executar o programa, eles são muito importantes quando se
 escreve software, pois através dos comentários a gente explica o que uma
 parte do código faz para um outro programador que trabalhará neste mesmo
