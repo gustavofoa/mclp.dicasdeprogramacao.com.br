@@ -86,7 +86,7 @@ Mas antes vamos ver a ferramenta que vamos usar ao longo deste minicurso.
 Sabe qual a melhor ferramenta de estudos para aprender lógica de
 programação?
 
-![Ferramenta para aprender programação](/images/caderno-lapis-borracha.jpg){:style="float: left; margin: 5px 30px 5px 0px;"}
+![Ferramenta para aprender programação](/images/caderno-lapis-borracha.jpg){:style="float: left; margin: 5px 30px 5px 0px; width:300px;"}
 
 **Caderno, lápis e borracha!** Sim, essa é a melhor ferramenta para
 aprender lógica de programação!
@@ -198,7 +198,7 @@ nome. Se o usuário digitou **José** o programa vai exibir na tela:
 Veja na imagem abaixo como acontece a execução do programa que acabamos
 de criar.
 
-![resultado algoritmo básico](/images/resultado-algoritmo_basico.png)
+![resultado algoritmo básico](/images/resultado-algoritmo_basico.png){width=100%}
 
 Entendendo o algoritmo da multiplicação
 ---------------------------------------
@@ -207,7 +207,7 @@ Agora que você criou o seu primeiro programa, vamos tentar entender
 aquele algoritmo da Multiplicação que eu falei no começo da lição de
 hoje. Antes vamos implementá-lo no Visualg.
 
-![algoritmo de multiplicação](/images/algoritmo_multiplicacao.png)
+![algoritmo de multiplicação](/images/algoritmo_multiplicacao.png){width=100%}
 
 Para entender o algoritmo, é importante definir algumas coisas:
 
@@ -227,7 +227,7 @@ Para entender o algoritmo, é importante definir algumas coisas:
 
 Vamos ver qual seria o resultado da execução deste algoritmo?
 
-![resultado do algoritmo de multiplicação](/images/resultado_algoritmo_multiplicacao.png)
+![resultado do algoritmo de multiplicação](/images/resultado_algoritmo_multiplicacao.png){width=100%}
 
 Este algoritmo eu não vou explicar aqui. Preferi dar as informações que
 você precisava para entender. Você precisa se esforçar um pouco pra

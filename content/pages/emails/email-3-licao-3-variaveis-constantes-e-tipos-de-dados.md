@@ -4,7 +4,7 @@ template: email
 
 Chegou o tão esperado e-mail da lição #3 do **minicurso de lógica de programação**. Hoje você aprenderá assuntos muito importantes para você se tornar um bom programador.
 
-[**>> Clique AQUI para acessar a lição #3**](http://mclp.dicasdeprogramacao.com.br/licao-3-variaveis-constantes-e-tipos-de-dados.html)
+[**>> Clique AQUI para acessar a lição #3**](http://mclp.dicasdeprogramacao.com.br/licao-3-variaveis-constantes-e-tipos-de-dados)
 
 Na lição de hoje você vai aprender:
 
@@ -13,7 +13,7 @@ Na lição de hoje você vai aprender:
 - O que são e como usar os tipos de dados.
 - A diferença entre os tipos de dados primitivos e os tipos de dados customizados.
 
-[**>> Acessar a terceira lição do minicurso!**](http://mclp.dicasdeprogramacao.com.br/licao-3-variaveis-constantes-e-tipos-de-dados.html)
+[**>> Acessar a terceira lição do minicurso!**](http://mclp.dicasdeprogramacao.com.br/licao-3-variaveis-constantes-e-tipos-de-dados)
 
 Ah já estava me esquecendo! Você também verá a Solução do exercício da lição #2 que está lá no final.
 

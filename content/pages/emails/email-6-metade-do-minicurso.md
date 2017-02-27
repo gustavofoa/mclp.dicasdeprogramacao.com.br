@@ -22,4 +22,6 @@ Tá bom, se estiver muito difícil, mas muito difícil mesmo, você pode ir lá 
 
 >> Clique AQUI para mais informações!
 
-Hoje agradeço à minha primeira professora de lógica de programação por ter me ensinado que lógica de programação se aprende fazendo bastante exercícios. Foi como seu eu tivesse descoberto a passagem secreta para ultrapassar uma grande barreira e me tornar criador de tecnologia.
+Se tem uma dica que sou muito grato é essa: Lógica de programação se aprende com prática!
+
+Hoje agradeço à minha primeira professora de lógica de programação por ter me ensinado que lógica de programação se aprende fazendo bastante exercícios. Foi como se eu tivesse descoberto a passagem secreta para ultrapassar uma grande barreira e me tornar criador de tecnologia.

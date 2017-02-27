@@ -33,7 +33,7 @@ O bloco de código SENÃO é opcional. É comum encontrar instruções de
 decisão apenas com SE-ENTÃO sem o bloco SENÃO. Veja um esquema gráfico
 desta estrutura de decisão.
 
-![estrutura-IF](/images/estrutura-IF.png){:style="text-align:center;" :width="100%"}
+![estrutura-IF](/images/estrutura-IF.png){:width="100%"}
 
 Simples assim. Essa estrutura não tem segredos. Agora é hora de praticar! Vamos lá?
 
@@ -44,7 +44,7 @@ Vejamos um exemplo de utilização desta estrutura com um algoritmo, você pode 
 
 Neste algoritmo, vamos simular um caixa eletrônico quando vamos sacar
 dinheiro. O caixa eletrônico verifica se o valor que desejamos sacar é
-menor que o saldo disponível. Assumiremos que há R\$ 1000 de saldo
+menor que o saldo disponível. Assumiremos que há R$ 1000 de saldo
 disponível para o saque. Se o valor que o usuário quer sacar é menor ou igual ao saldo disponível, então o algoritmo permite o saque, caso contrário, não.
 
 ```
@@ -73,12 +73,12 @@ Abaixo a execução do algoritmo acima quando informamos valores menores
 que 1000.
 
 
-![Sacar-dinheiro-menor-que-10001](/images/Sacar-dinheiro-menor-que-10001.png){:style=".aligncenter .size-full .wp-image-247" :width="681" :height="199"}
+![Sacar-dinheiro-menor-que-10001](/images/Sacar-dinheiro-menor-que-10001.png){:width="100%"}
 
 Agora a execução do mesmo algoritmo, porém inserindo um valor maior que
 1000 para saque.
 
-![Sacar-dinheiro-maior-que-1000](/images/Sacar-dinheiro-maior-que-1000.png){:style=".aligncenter .size-full .wp-image-248" :width="681" :height="228"}
+![Sacar-dinheiro-maior-que-1000](/images/Sacar-dinheiro-maior-que-1000.png){:width="100%"}
 
 Perceba que o fluxo do algoritmo tomou rumos diferentes.
 
@@ -98,10 +98,10 @@ média. Depois o algoritmo deve verificar se a média é maior ou igual a 6. **C
 tela uma mensagem informando que o aluno foi aprovado, **caso
 contrário**, uma mensagem informando que ele foi reprovado.
 
-Na lição de amanhã eu te mostro o meu algoritmo. Mas é muito importante
-que você tente fazer esse algoritmo sozinho antes de ver a resposta. Ok?
+Na próxima lição eu vou mostrar o meu algoritmo para solucionar este exercício.
+Mas é muito importante que você tente fazer esse algoritmo sozinho antes de ver a resposta. Ok?
 
-Na próxima lição vamos ver como fazemos para nosso algoritmo tomar
-decisão quanto tem MUITAS opções.
+Além disso você vai aprender como fazemos para nosso algoritmo tomar decisão quanto tem MUITAS opções.
+Fique atento ao seu e-mail.
 
 Até a próxima!

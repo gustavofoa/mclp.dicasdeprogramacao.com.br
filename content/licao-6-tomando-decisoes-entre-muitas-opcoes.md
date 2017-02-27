@@ -5,7 +5,8 @@ date: 2016-10-27
 image: /images/.jpg
 order: 06
 
-Olá querido aluno, conseguiu resolver o exercício da última lição? No final da lição de hoje você poderá ver a minha solução para você conferir com o seu algoritmo.
+Olá querido aluno, conseguiu resolver o exercício da última lição?
+No final da lição de hoje você poderá ver a minha solução para você conferir com o seu algoritmo.
 
 Na última lição nós falamos da estrutura **SE-ENTÃO-SENÃO**, que é usada para
 fazer os nossos programas tomarem decisões por si só.
@@ -30,7 +31,7 @@ Mas quero chamar a sua atenção para dois equipamentos utilizados nas
 redes de computadores. Um é o **HUB** e o outro é o **SWITCH**.
 
 ![hub e
-switch](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/hub-e-switch.png){:style=".size-full .wp-image-276 .aligncenter" :width="640" :height="233"}
+switch](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/hub-e-switch.png){:style="text-align:center;" width="100%"}
 
 Esses dois equipamentos são muito parecidos, algumas pessoas até pensam
 que são a mesma coisa. Mas há uma pequena diferença entre eles.
@@ -79,7 +80,7 @@ ponto do código. A ideia é a mesma!
 
 A propósito, como eu disse na primeira aula, inglês é essencial para
 trabalhar com programação, EMBORA NÃO SEJA IMPEDITIVO. E quando você
-estiver programando em inglês verá que ESCOLHA-CASO é traduzido como
+estiver programando em inglês verá que ESCOLHA-CASO é conhecido como
 SWITCH-CASE.
 
 ##A estrutura ESCOLHA-CASO
@@ -90,7 +91,7 @@ você identificaria qual opção o usuário digitou?
 
 Talvez você faria algo assim ...
 
-``` {.lang:default .decode:true}
+```
 SE opção = 1 ENTÃO
     “instruções a serem executadas caso opção = 1”
 SENÃO
@@ -106,15 +107,15 @@ SENÃO
 FIM-SE
 ```
 
-Ou seja, vários SE-ENTÃO-SENÃO aninhados.
+Ou seja, vários SE-ENTÃO-SENÃO aninhados, um no SENÃO do outro...
 
 A proposta do ESCOLHA-CASO é ser uma solução mais elegante para este
 caso. Levando o fluxo do programa direto ao bloco de código
-correto, dependendo do valor de uma variável de verificação.
+correto (igual o switch), dependendo do valor de uma variável de verificação.
 
 Essa é a estrutura ESCOLHA-CASO.
 
-``` {.lang:default .decode:true}
+```
 ESCOLHA <variável de verificação>
     CASO <valor1> FAÇA
         “instruções a serem executadas caso <variável de verificação> = <valor1>”
@@ -128,7 +129,7 @@ FIM-ESCOLHA
 
 O esquema visual do fluxograma desta estrutura é como a figura abaixo.
 
-![estrutura-ESCOLHA-CASO](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/estrutura-ESCOLHA-CASO.png){:style=".aligncenter .size-full .wp-image-284" :width="687" :height="513"}
+![estrutura-ESCOLHA-CASO](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/estrutura-ESCOLHA-CASO.png){:style="text-align:center;" width="100%"}
 
 ##ESCOLHA-CASO na prática!
 
@@ -149,7 +150,7 @@ multiplicação ou divisão).
 
 Vejamos como seria este algoritmo utilizando a estrutura SE-ENTÃO-SENÃO.
 
-``` {.lang:default .decode:true}
+```
 algoritmo "CalculadoraBasicaComSE"
 var
    numero1 : REAL
@@ -190,7 +191,7 @@ Veja como os SEs aninhados (dentro dos SENÃOs) deixam o código mais
 complexo. Dá pra entender a lógica, mas não é muito elegante. Agora
 vamos ver como ficaria a mesma lógica com a estrutura ESCOLHA-CASO.
 
-``` {.lang:default .decode:true}
+```
 algoritmo "CalculadoraBasicaComESCOLHA_CASO"
 var
    numero1 : REAL
@@ -237,7 +238,7 @@ um valor diferente de “+”, “-“, “\*” e “/”. Caso quiséssemos ap
 uma mensagem para o usuário informando que ele digitou uma opção
 inválida, utilizaríamos esse recurso da estrutura ESCOLHA-CASO. Veja.
 
-``` {.lang:default .decode:true}
+```
 ESCOLHA operacao
    CASO "+"
       resultado := numero1 + numero2
@@ -256,31 +257,6 @@ Como você pôde observar, em termos de organização de código a estrutura
 ESCOLHA-CASO é uma opção muito elegante quando se tem muitos
 SE-ENTÃO-SENÃO para verificar a mesma variável. Facilita a leitura do
 algoritmo e a manutenção do código.
-
-##Sua vez de praticar!
-
-Aprender programação é como aprender matemática, tem que praticar
-fazendo exercícios. Portanto vou deixar um exercício para você resolver
-sozinho.
-
-\* Crie um algoritmo em que o usuário digita uma letra qualquer e o
-programa verifica qual a ordem dessa letra no alfabeto, por exemplo: se
-o usuário digitar a letra ‘G’ o programa deve imprimir na tela, “A letra
-G está na posição 7 do alfabeto”.Implemente com a estrutura ESCOLHA-CASO
-e depois com a estrutura SE-ENTÃO-SENÃO para perceber a diferença
-gritante no código.
-
-Amanhã enviarei um e-mail para você com uma solução para exercício. Mas
-é muito importante que você tente fazer os algoritmos sozinho antes de
-ver a resposta.
-
-**Você só receberá a resposta se estiver inscrito neste minicurso
-grátis.** Se você ainda não está inscrito neste minicurso, se inscreva
-agora! É GRÁTIS! Basta clicar no botão laranja no topo. Você receberá as
-10 aulas no seu e-mail.
-
-Na próxima aula que você receberá por e-mail, vou te ensinar a fazer
-estruturas de repetição.
 
 ##Minha solução para o exercício da lição #5
 
@@ -334,3 +310,25 @@ Veja abaixo o resultado da execução do algoritmo no Visualg, quando a média e
 Viu como foi simples? Se você teve dificuldades para resolver, não se preocupe. No início parece difícil mesmo. Mas como sempre digo, é preciso praticar!
 
 Se conseguiu resolver sem dificuldades ótimo, mas continue praticando.
+
+##Exercício da lição de hoje!
+
+Aprender programação é como aprender matemática, tem que praticar muito
+fazendo exercícios. Portanto vou deixar mais um exercício para você resolver
+sozinho, com o assunto que vimos hoje.
+
+\* Crie um algoritmo em que o usuário digita uma letra qualquer e o
+programa verifica qual a ordem dessa letra no alfabeto, por exemplo: se
+o usuário digitar a letra ‘G’ o programa deve imprimir na tela, “A letra
+G está na posição 7 do alfabeto”. Implemente com a estrutura ESCOLHA-CASO
+e depois com a estrutura SE-ENTÃO-SENÃO para perceber a diferença
+gritante no código.
+
+Amanhã enviarei um e-mail para você com uma solução para exercício. Mas
+é muito importante que você tente fazer os algoritmos sozinho antes de
+ver a resposta. Ok?
+
+Na próxima aula que você receberá por e-mail, vou te ensinar a fazer
+**estruturas de repetição**. Fique atento à caixa de entrada do seu e-mail.
+
+Bons estudos!

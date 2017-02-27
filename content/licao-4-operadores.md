@@ -257,7 +257,7 @@ public class TesteBitwise {
 
 Abaixo o resultado deste programa.
 
-![resultado-bitwise](/images/resultado-bitwise.png)
+![resultado-bitwise](/images/resultado-bitwise.png){:width="100%"}
 
 Essas operações lógicas são realizadas com os bits dos números de
 entrada. Assim:
@@ -386,7 +386,7 @@ relacionais com 3 possibilidades de valores: um número menor que o
 outro, dois números iguais e um número maior que outro. Abaixo o
 resultado da execução.
 
-![resultado-operadores-relacionais](/images/resultado-operadores-relacionais.png){:style=".aligncenter .size-full .wp-image-220" :width="681" :height="333"}
+![resultado-operadores-relacionais](/images/resultado-operadores-relacionais.png){:width="100%"}
 
 #### Operadores lógicos em programação
 

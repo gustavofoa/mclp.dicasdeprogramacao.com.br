@@ -11,7 +11,7 @@ slug: emails
 
 [5 - Lição (5/10) Tomando decisões!](/pages/email-5-licao-5-tomando-decisoes.html){:target="\_blank"}
 
-[6 - ](/pages/.html){:target="\_blank"}
+[6 - Praticar praticar praticar! Esse é o Segredo!](/pages/email-6-metade-do-minicurso.html){:target="\_blank"}
 
 [7 - Lição (6/10) Tomando decisões entre muitas opções.](/pages/email-7-licao-6-tomando-decisoes-entre-muitas-opcoes.html){:target="\_blank"}
 

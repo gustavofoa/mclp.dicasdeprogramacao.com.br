@@ -205,7 +205,7 @@ fimalgoritmo
 
 Apresento abaixo o resultado da execução deste algoritmo.
 
-![resultado média](/images/resultado-media.png){:class="".aligncenter .size-full .wp-image-460" :width="681" :height="462"}
+![resultado média](/images/resultado-media.png){:width="100%"}
 
 ##Continuando o minicurso
 

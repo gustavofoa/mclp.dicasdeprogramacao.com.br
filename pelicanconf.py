@@ -68,6 +68,5 @@ SHARE_ON_GPLUS = "https://plus.google.com/share?url=http://www.dicasdeprogramaca
 SHARE_ON_LINKEDIN = "https://www.linkedin.com/cws/share?url=http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/"
 FOOTER_PSS = """
 <p>Aqui você encontrará conteúdo simples, práticos e que vai te ensinar os conceitos básicos por trás da programação,
-ao final será capaz de criar pequenos programas e estará pronto para aprender qualquer linguagem de programação sem dificuldades.</p>
+ao final você será capaz de criar pequenos programas e estará pronto para aprender qualquer linguagem de programação sem dificuldades.</p>
 """
-

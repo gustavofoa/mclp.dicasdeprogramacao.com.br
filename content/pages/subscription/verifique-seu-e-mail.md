@@ -2,7 +2,7 @@ Title: Verifique seu e-mail
 Author: Gustavo Furtado de Oliveira Alves
 Slug: verifique-seu-e-mail
 
-![](http://www.dicasdeprogramacao.com.br/wp-content/uploads/2013/03/Logo2.png){.alignnone
+![{ Dicas de Programação }](http://www.dicasdeprogramacao.com.br/wp-content/uploads/2013/03/Logo2.png){.alignnone
 width="390" height="83"}
 
 Espere Um Minuto ... {#espere-um-minuto-... style="text-align: center; font-size: 50px;"}

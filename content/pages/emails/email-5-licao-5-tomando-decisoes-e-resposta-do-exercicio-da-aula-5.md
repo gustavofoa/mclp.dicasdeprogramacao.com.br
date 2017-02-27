@@ -4,7 +4,7 @@ template: email
 
 Na lição de hoje do **minicurso de lógica de programação** vamos aprender a deixar os nossos programas tomando decisões sozinhos.
 
-[**>> Clique AQUI para acessar a lição #5!**](http://mclp.dicasdeprogramacao.com.br/licao-5-tomando-decisoes.html)
+[**>> Clique AQUI para acessar a lição #5!**](http://mclp.dicasdeprogramacao.com.br/licao-5-tomando-decisoes)
 
 Você vai aprender a utilizar a estrutura de decisão SE-ENTÃO-SENÃO.
 
@@ -12,6 +12,6 @@ Esta é a estrutura de controle de fluxo mais básica da lógica de programaçã
 
 Para aprender bem, é preciso praticar bastante. Ao final desta lição você terá um exercício prático. Na próxima lição você poderá ver a minha solução para conferir, mas é muito importante que você tente resolvê-lo sozinho antes de ver a minha solução. Ok?
 
-[**>> Acessar a quinta lição do minicurso!**](http://mclp.dicasdeprogramacao.com.br/licao-5-tomando-decisoes.html)
+[**>> Acessar a quinta lição do minicurso!**](http://mclp.dicasdeprogramacao.com.br/licao-5-tomando-decisoes)
 
 Bons estudos!

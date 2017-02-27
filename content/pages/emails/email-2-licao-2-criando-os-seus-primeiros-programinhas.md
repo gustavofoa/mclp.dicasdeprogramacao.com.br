@@ -5,7 +5,7 @@ template: email
 E aí, pronto pra nossa segunda lição? Ansioso para criar o seu primeiro algoritmo?
 Aliás, nem te expliquei o que é algoritmo né? Esse é um dos assuntos que vamos tratar hoje.
 
-[**>> Clique AQUI para acessar a lição #2**](http://mclp.dicasdeprogramacao.com.br/licao-2-criando-os-seus-primeiros-programinhas.html)
+[**>> Clique AQUI para acessar a lição #2**](http://mclp.dicasdeprogramacao.com.br/licao-2-criando-os-seus-primeiros-programinhas)
 
 Nesta lição #2 do **minicurso de lógica de programação** você irá aprender:
 
@@ -13,7 +13,7 @@ Nesta lição #2 do **minicurso de lógica de programação** você irá aprende
 - A melhor ferramenta para aprender lógica de programação
 - Como criar os seus primeiros programas
 
-[**>> Acessar a segunda lição do minicurso!**](http://mclp.dicasdeprogramacao.com.br/licao-2-criando-os-seus-primeiros-programinhas.html)
+[**>> Acessar a segunda lição do minicurso!**](http://mclp.dicasdeprogramacao.com.br/licao-2-criando-os-seus-primeiros-programinhas)
 
 Espero que goste desta segunda lição.
 
