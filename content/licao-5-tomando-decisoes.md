@@ -2,7 +2,7 @@ title: 5/10 - Tomando decisões!
 author: Gustavo Furtado de Oliveira Alves
 slug: licao-5-tomando-decisoes
 date: 2016-10-27
-image: /images/.jpg
+image: /images/estrutura-IF.png
 order: 05
 
 Olá nobre amigo(a)! Hoje vamos colocar a mão na massa e aprender a forma

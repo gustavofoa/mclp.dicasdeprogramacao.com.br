@@ -2,7 +2,7 @@ title: 6/10 - Tomando decisões entre muitas opções
 author: Gustavo Furtado de Oliveira Alves
 slug: licao-6-tomando-decisoes-entre-muitas-opcoes
 date: 2016-10-27
-image: /images/.jpg
+image: /images/hub-e-switch.png
 order: 06
 
 Olá querido aluno, conseguiu resolver o exercício da última lição?
@@ -31,7 +31,7 @@ Mas quero chamar a sua atenção para dois equipamentos utilizados nas
 redes de computadores. Um é o **HUB** e o outro é o **SWITCH**.
 
 ![hub e
-switch](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/hub-e-switch.png){:style="text-align:center;" width="100%"}
+switch](/images/hub-e-switch.png){:style="text-align:center;" width="100%"}
 
 Esses dois equipamentos são muito parecidos, algumas pessoas até pensam
 que são a mesma coisa. Mas há uma pequena diferença entre eles.
@@ -71,21 +71,21 @@ vários pacotes na rede paralelamente.
 ##Lembra que inglês é importante?
 
 Talvez você esteja se perguntando o que tem a ver o HUB e o SWITCH com a
-aula de hoje. Tudo!
+lição de hoje. Tudo!
 
 A estrutura ESCOLHA-CASO funciona da mesma forma que o SWITCH das redes
 de computadores só que ao invés de enviar um pacote de dados para uma
 determinada porta, vamos enviar o fluxo do algoritmo para um determinado
 ponto do código. A ideia é a mesma!
 
-A propósito, como eu disse na primeira aula, inglês é essencial para
+A propósito, como eu disse na primeira lição, inglês é essencial para
 trabalhar com programação, EMBORA NÃO SEJA IMPEDITIVO. E quando você
 estiver programando em inglês verá que ESCOLHA-CASO é conhecido como
 SWITCH-CASE.
 
 ##A estrutura ESCOLHA-CASO
 
-Lembra do SE-ENTÃO-SENÃO da aula passada? Imagine que você tem um menu
+Lembra do SE-ENTÃO-SENÃO da lição passada? Imagine que você tem um menu
 de opções e o usuário deve escolher uma opção, dentre várias. Como
 você identificaria qual opção o usuário digitou?
 
@@ -129,7 +129,7 @@ FIM-ESCOLHA
 
 O esquema visual do fluxograma desta estrutura é como a figura abaixo.
 
-![estrutura-ESCOLHA-CASO](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/estrutura-ESCOLHA-CASO.png){:style="text-align:center;" width="100%"}
+![estrutura-ESCOLHA-CASO](/images/estrutura-ESCOLHA-CASO.png){:style="text-align:center;" width="100%"}
 
 ##ESCOLHA-CASO na prática!
 
@@ -328,7 +328,7 @@ Amanhã enviarei um e-mail para você com uma solução para exercício. Mas
 é muito importante que você tente fazer os algoritmos sozinho antes de
 ver a resposta. Ok?
 
-Na próxima aula que você receberá por e-mail, vou te ensinar a fazer
+Na próxima lição que você receberá por e-mail, vou te ensinar a fazer
 **estruturas de repetição**. Fique atento à caixa de entrada do seu e-mail.
 
 Bons estudos!
