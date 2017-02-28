@@ -17,9 +17,9 @@ slug: emails
 
 [8 - RESPOSTA do exercício da lição 6.](/email-8-resposta-do-exercicio-da-licao-6){:target="\_blank"}
 
-[9 - Lição (7/10) Loops Básicos!](/email-10-licao-7-loops-basicos){:target="\_blank"}
+[9 - Lição (7/10) Loops Básicos!](/email-9-licao-7-loops-basicos){:target="\_blank"}
 
-[10 - ](/){:target="\_blank"}
+[10 - Lição (8/10) Loops Pré-definidos.](/email-10-licao-8-loops-pre-definidos){:target="\_blank"}
 
 [11 - ](/){:target="\_blank"}
 

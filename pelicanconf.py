@@ -50,7 +50,7 @@ PAGE_SAVE_AS = '{slug}/index.html'
 # Theme
 THEME = 'theme'
 COURSE_DESCRIPTION = """Minicurso 100% GRÁTIS de Lógica de Programação.
-São 10 aulas super explicadas com a melhor didática para ensinar programação do ZERO para qualquer pessoa!
+São 10 lições super explicadas com a melhor didática para ensinar programação do ZERO para qualquer pessoa!
 Agora aprender programação está acessível a qualquer um!"""
 COURSE_AUTHOR = "Gustavo"
 LP_LINK = "http://mclp.dicasdeprogramacao.com.br/"

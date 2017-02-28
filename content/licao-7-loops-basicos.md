@@ -244,6 +244,6 @@ FAÇA-ENQUANTO (o teste der verdadeiro).
 Gostou da dica?
 
 Agora é com você! Faça o algoritmo para calcular a múltiplicação através de somas.
-Amanhã eu mando o meu algoritmo no seu e-mail.
+Amanhã eu te envio o meu algoritmo para este problema e também o link para a próxima lição.
 
 Bons estudos!

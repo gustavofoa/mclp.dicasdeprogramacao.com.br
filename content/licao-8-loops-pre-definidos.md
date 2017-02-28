@@ -8,25 +8,23 @@ order: 08
 Olá! Bem vindo a 8ª lição do **minicurso GRÁTIS de lógica de
 programação**!
 
-Na última aula você aprendeu a fazer LOOPs. Você descobriu que é
+Na última lição você aprendeu a fazer LOOPs. Você descobriu que é
 possível fazer loops no seu algoritmo através de duas estruturas de
 repetição ENQUANTO-FAÇA e REPITA-ATÉ e aprendeu a diferença entre estas
 duas estruturas.
 
 *Caso não esteja inscrito neste minicurso, clique no botão laranja no
-topo desta página e se inscreva para receber todas as aulas
+topo desta página e se inscreva para receber todas as lições
 gratuitamente.*
 
 Hoje nós vamos ver a estrutura de LOOP mais utilizada na programação: A
 estrutura de repetição PARA-FAÇA.
 
 Entender bem esta estrutura determinará se você será um bom ou um mau
-programador, portanto preste bastante atenção nesta aula. Releia quantas
-vezes forem necessárias. No final tem um exercício para você resolver.
+programador, portanto preste bastante atenção nesta lição. Releia quantas
+vezes forem necessárias. No final tem a solução do exercício da última lição
+e um novo exercício para você resolver.
 Vamos lá?
-
-<span style="text-decoration: underline;">Duração da
-aula: aproximadamente 15 minutos.</span>
 
 ##O que é um LOOP Pré-definido?
 
@@ -37,7 +35,7 @@ vezes.
 
 O caso mais usado deste tipo de LOOP na programação é quando você deve
 acessar todos os itens de um vetor, matriz ou lista. (Veremos o que
-são vetores e matrizes na próxima aula)
+são vetores e matrizes na próxima lição)
 
 Por exemplo, uma situação muito comum para programadores. Imagine que
 você deve enviar um e-mail para todos os clientes cadastrados no seu
@@ -53,7 +51,7 @@ repetição utilizada para este caso.
 ##A estrutura PARA-FAÇA
 
 Você deve estar imaginando que é possível implementar loop pré-definido
-utilizando as estruturas de repetição que você aprendeu na aula passada.
+utilizando as estruturas de repetição que você aprendeu na lição passada.
 Sim, é perfeitamente possível! Para isto você precisaria utilizar uma
 variável que na programação chamamos de "contador".
 
@@ -67,7 +65,7 @@ todos os números de 1 a 100.
 Um algoritmo com a estrutura ENQUANTO-FAÇA para este problema ficaria
 assim.
 
-``` {.toolbar:1 .lang:default .decode:true}
+```
 Algoritmo "Soma1A100ComEnquanto"
 Var
   contador : INTEIRO
@@ -116,7 +114,7 @@ valor de incremento, por exemplo de 2 em 2 ou de 3 em 3.
 Para o nosso problema de somar todos os números de 1 a 100, um algoritmo
 com a a estrutura PARA-FAÇA ficaria assim.
 
-``` {.toolbar:1 .lang:default .decode:true}
+```
 Algoritmo "Soma1A100ComPara"
 Var
   contador : INTEIRO
@@ -135,7 +133,7 @@ a estrutura mais utilizada é a PARA-FAÇA.
 
 Vejamos um fluxograma desta estrutura de repetição.
 
-![estrutura-PARA](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/estrutura-PARA.png){:style=".aligncenter .size-full .wp-image-347" :width="440" :height="608"}
+![estrutura-PARA](/images/estrutura-PARA.png){:style="text-align:center;" width="100%"}
 
 ##Hora de praticar!
 
@@ -148,7 +146,7 @@ até ao número que se está calculando. Por exemplo: Fatorial de 5 (5!) =
 
 Primeiro vamos fazer um algoritmo utilizando o ENQUANTO.
 
-``` {.toolbar:1 .lang:default .decode:true}
+```
 algoritmo "FatorialComENQUANTO"
 
 var
@@ -176,7 +174,7 @@ Veja que foi necessário incrementar o contador explicitamente (linha
 16). Com a estrutura de repetição PARA, isso não é necessário. Vejamos
 agora o mesmo algoritmo implementado com o PARA.
 
-``` {.toolbar:1 .lang:default .decode:true}
+```
 algoritmo "FatorialComPARA"
 
 var
@@ -202,7 +200,7 @@ Nesta estrutura, não é necessário incrementar nem inicializar o
 contador, isso é feito automaticamente. O resultado dos dois algoritmos
 é o mesmo, veja um exemplo de execução deste algoritmo.
 
-![Resultado-Fatorial](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/Resultado-Fatorial.png){:style=".aligncenter .size-full .wp-image-349" :width="681" :height="138"}
+![Resultado-Fatorial](/images/Resultado-Fatorial.png){:style="text-align:center;" width="100%"}
 
 LOOPs podem ser implementados com qualquer estrutura de repetição,
 porém, em alguns casos uma estrutura se mostra mais adequada que outras,
@@ -212,27 +210,68 @@ programas melhores.
 
 Como eu disse, a estrutura de repetição PARA-FAÇA é muito utilizada para
 acessar os valores de vetores, matrizes e listas. E esse é o assunto da
-nossa próxima aula!
+nossa próxima lição!
 
-##Exercício para você resolver!
+##Solução para o exercício da lição #7
+
+No final da lição #7 eu pedi pra você resolver um exercício criando uma algoritmo
+capaz de fazer multiplicação de dois números positivo.
+
+Espero que você tenha tentado fazer sozinho heim!
+Se não fez, tente fazer primeiro pra depois olhar a resposta que apresento abaixo.
+
+Eu mostrei esse algoritmo na primeira lição deste minicurso. Lembra?
+Talvez naquele momento você não tenha compreendido direito,
+mas agora você já tem o conhecimento mínimo para fazer um algoritmo de multiplicação
+
+Chega de enrolação, né? Aqui está o meu algoritmo de multiplicação entre números positivos.
+
+```
+algoritmo "Multiplicação"
+var
+   numero1, numero2, resultado, contador: INTEIRO
+inicio
+      ESCREVA("Informe o primeiro número: ")
+      LEIA(numero1)
+      ESCREVA("Informe o segundo número: ")
+      LEIA(numero2)
+
+      contador <- 0
+      resultado <- 0
+
+      ENQUANTO ( contador < numero2 ) FACA
+          resultado <- resultado + numero1
+          contador <- contador + 1
+      FIMENQUANTO
+
+      ESCREVA("Resultado: ", resultado)
+
+fimalgoritmo
+```
+
+Aqui um resultado da execução deste algoritmo.
+
+![Resultado multiplicação](/images/resultado-multiplicacao.png){:style="text-align:center;" width="100%"}
+
+##Novo exercício para você resolver com a estrutura PARA-FAÇA!
 
 Como sempre digo, lógica de programação só se aprende praticando. Então
-é a sua vez de tentar resolver um problema utilizando algoritmos. O
+é a sua vez de tentar resolver um novo problema utilizando algoritmos. O
 exercício de hoje é o seguinte:
 
 **Faça um algoritmo para informar se um determinado número é primo ou
 não.**
 
 Número primo é todo número que só é divisível por 1 e por ele mesmo sem
-deixar resto. Exemplos e números primos são: 2, 3, 7, 13, 17, 5, 11, ...
+deixar resto. Exemplos e números primos são: 2, 3, 5, 7, 11, 13, 17 ...
 
 Fácil né!? Dica, você precisará criar um LOOP (de preferência utilizando
 o PARA) e verificar se o resto das divisões é 0 utilizando o operador
-**mod**,. Por exemplo, a expressão "6 MOD 4" resulta 2, pois é o resto
+**mod**. Por exemplo, a expressão "6 MOD 4" resulta 2, pois é o resto
 da divisão de 6 por 4.
 
-Amanhã eu te envio o meu algoritmo para este problema. Assim, você
-poderá comparar o seu algoritmo com o meu. Mas tente resolver antes
-heim!
+No final da próxima lição (que você receberá por e-mail)
+você poderá conferir o meu algoritmo para este problema. Assim, você
+poderá comparar o seu algoritmo com o meu. Mas tente resolver antes heim!
 
-Até amanhã!
+Até a próxima lição!

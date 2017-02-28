@@ -1,5 +1,5 @@
 title: Lição (7/10) Loops Básicos!
-slug: email-10-licao-7-loops-basicos
+slug: email-9-licao-7-loops-basicos
 template: email
 
 Nesta lição #7 do **minicurso de lógica de programação** vamos aprender uma estrutura MUITO utilizada na programação.
