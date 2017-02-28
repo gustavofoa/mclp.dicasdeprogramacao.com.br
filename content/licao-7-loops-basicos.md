@@ -24,11 +24,8 @@ Mas hoje vamos aprender um recurso MUITO usado na programação: Os
 Entender como funcionam os LOOPs na programação fará você mudar a forma
 de pensar em algoritmos.
 
-*Obs: Se você não teve acesso às outras aulas, clique no botão no topo
+*Obs: Se você não teve acesso às outras lições, clique no botão no topo
 da página e se inscreva gratuitamente neste minicurso.*
-
-<span style="text-decoration: underline;">Duração da
-aula: aproximadamente 15 minutos.</span>
 
 ##O que é LOOP?
 
@@ -52,7 +49,7 @@ sendo X o segundo valor.
 Os loops são muito utilizados no mundo da programação. Eles vêem em 3
 sabores: ENQUANTO-FAÇA, REPITA-ATÉ e PARA-FAÇA.
 
-Na aula de hoje vamos estudar os dois primeiros: ENQUANTO-FAÇA e
+Na lição de hoje vamos estudar os dois primeiros: ENQUANTO-FAÇA e
 REPITA-ATÉ.
 
 ##Estrutura de repetição ENQUANTO-FAÇA
@@ -63,7 +60,7 @@ passos dentro deste bloco são repetidos <span
 style="text-decoration: underline;">enquanto</span> a expressão booleana
 resultar VERDADEIRO.
 
-*Obs: Lembrando os tipos de dados da aula 3, o tipo de dados
+*Obs: Lembrando os tipos de dados da lição 3, o tipo de dados
 **booleano** só pode assumir dois valores: VERDADEIRO ou FALSO.*
 
 Voltando ao ENQUANTO ... Vejamos como ficaria o pseudo-código desta
@@ -84,7 +81,7 @@ bloco não são executadas nenhuma vez.
 Este é o fluxograma desta estrutura de repetição. Repare que testamos a
 condição antes de entrar no LOOP.
 
-![estrutura-ENQUATO](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/estrutura-ENQUATO.png){:style=".size-full .wp-image-308 .aligncenter" :width="400" :height="515"}
+![estrutura-ENQUATO](/images/estrutura-ENQUATO.png){:style="text-align:center;" width="100%"}
 
 ### Hora de praticar
 
@@ -97,7 +94,7 @@ valor 0. Ou seja, vamos somar todos os valores que o usuário digitar,
 porém quando ele digitar 0 o “loop” acaba, a cada iteração do loop vamos
 apresentar o resultado atual da soma.
 
-``` {.toolbar:1 .lang:default .decode:true}
+```
 algoritmo "SomaEnquantoValorDiferenteDe0"
 var
    valorDigitado : REAL
@@ -124,7 +121,7 @@ fimalgoritmo
 
 O resultado deste algoritmo é algo assim:
 
-![Resultado-algoritmo-ENQUANTO](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/07/Resultado-algoritmo-ENQUANTO.png){:style=".aligncenter .size-full .wp-image-318" :width="682" :height="292"}
+![Resultado-algoritmo-ENQUANTO](/images/Resultado-algoritmo-ENQUANTO.png){:style="text-align:center;" width="100%"}
 
 ##Estrutura de repetição REPITA-ATÉ
 
@@ -154,7 +151,7 @@ booleana resultar VERDADEIRO, o fluxo do algoritmo sairá do LOOP.
 
 Veja o funcionamento no fluxograma.
 
-￼![estrutura-REPITA](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/07/estrutura-REPITA.png){:style=".aligncenter .wp-image-316 .size-full" :width="397" :height="507"}
+￼![estrutura-REPITA](/images/estrutura-REPITA.png){:style="text-align:center;" width="100%"}
 
 Não sei se você também percebeu, enquanto na estrutura ENQUANTO-FAÇA o
 bloco do LOOP pode não ser executado nenhuma vez, **na estrutura
@@ -166,7 +163,7 @@ Que tal fazer o mesmo exercício que fizemos acima com a estrutura
 ENQUANTO-FAÇA, mas desta fez utilizando a estrutura REPITA-ATÉ? Vamos
 ver como ficaria?
 
-``` {.toolbar:1 .lang:default .decode:true}
+```
 algoritmo "SomaAteValorIgualA0"
 var
    valorDigitado : REAL
@@ -191,7 +188,7 @@ Se você prestar atenção, vai perceber que na estrutura ENQUANTO-FAÇA
 tivemos que repetir uma parte do código antes do LOOP e dentro do LOOP.
 Repetimos a seguinte parte:
 
-``` {.toolbar:1 .lang:default .decode:true}
+```
       ESCREVA ("Digite um valor para a soma: ")
       LEIA (valorDigitado)
 ```
@@ -230,7 +227,7 @@ repetidas vezes. Acredite, existem muitos!
 
 Para praticar a utilização da estrutura ENQUANTO, um exercício!
 
-Lembra da multiplicação do começo da aula? Quero que você faça um
+Lembra da multiplicação do começo da lição? Quero que você faça um
 algoritmo para calcular multiplicação através de somas consecutivas,
 para facilitar assuma que os dois fatores da multiplicação são <span
 style="text-decoration: underline;">positivos</span>.
@@ -243,3 +240,10 @@ linguagem JAVA, não existe a estrutura REPITA-ATÉ. Mas existe a
 DO-WHILE, ou seja FAÇA-ENQUANTO. Esta também é pós-testada, mas o teste
 da condição não é o contrário da WHILE-DO. Pelo motivo óbvio.
 FAÇA-ENQUANTO (o teste der verdadeiro).
+
+Gostou da dica?
+
+Agora é com você! Faça o algoritmo para calcular a múltiplicação através de somas.
+Amanhã eu mando o meu algoritmo no seu e-mail.
+
+Bons estudos!

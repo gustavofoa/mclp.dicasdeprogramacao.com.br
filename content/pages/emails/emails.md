@@ -15,9 +15,9 @@ slug: emails
 
 [7 - Lição (6/10) Tomando decisões entre muitas opções.](/email-7-licao-6-tomando-decisoes-entre-muitas-opcoes){:target="\_blank"}
 
-[8 - ](/){:target="\_blank"}
+[8 - RESPOSTA do exercício da lição 6.](/email-8-resposta-do-exercicio-da-licao-6){:target="\_blank"}
 
-[9 - ](/){:target="\_blank"}
+[9 - Lição (7/10) Loops Básicos!](/email-10-licao-7-loops-basicos){:target="\_blank"}
 
 [10 - ](/){:target="\_blank"}
 
