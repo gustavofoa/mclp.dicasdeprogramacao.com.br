@@ -53,7 +53,7 @@ repetição utilizada para este caso.
 Você deve estar imaginando que é possível implementar loop pré-definido
 utilizando as estruturas de repetição que você aprendeu na lição passada.
 Sim, é perfeitamente possível! Para isto você precisaria utilizar uma
-variável que na programação chamamos de "contador".
+variável que chamamos de "contador".
 
 Esta variável nada mais é do que uma simples variável do tipo inteiro
 que é responsável por contar quantas iterações (execuções do loop) foram
@@ -91,7 +91,7 @@ implicitamente. Ou seja, as operações de inicializar o contador
 verificar se o LOOP deve continuar (contador &lt;= 100) é realizada
 implicitamente pela estrutura PARA-FAÇA.
 
-O esquema de utilização esta estrutura é assim:
+O esquema de utilização eesta estrutura é assim:
 
 > **PARA** &lt;contador&gt; **DE** &lt;valor inicial&gt; **ATE**
 > &lt;valor final&gt; \[**PASSO** &lt;valor de incremento&gt;\] **FAÇA**
@@ -105,11 +105,21 @@ A inicialização do contador é realizado implicitamente com o informado
 na declaração da estrutura. A condição para executar a iteração é que o
 valor da variável contadora não tenha atingido o &lt;valor final&gt;. E
 ao final de cada iteração, o valor da variável contadora é incrementado
-em 1 (ou o valor declarado como PASSO ou &lt;valor de incremento&gt;).
+em 1 (ou o valor declarado como PASSO).
 
 Repare que o passo de incremento é opcional, por padrão o contador é
 incrementado de 1 em 1, mas você pode especificar que quer um outro
 valor de incremento, por exemplo de 2 em 2 ou de 3 em 3.
+
+Se for usar o incremento padrão de 1 em 1, você pode ignorar o PASSO.
+
+> **PARA** &lt;contador&gt; **DE** &lt;valor inicial&gt; **ATE**
+> &lt;valor final&gt; **FAÇA**
+>
+> &lt;instruções a serem executadas repetidamente até a &lt;contador&gt;
+> atingir o valor final&gt;
+>
+> **FIM-PARA**
 
 Para o nosso problema de somar todos os números de 1 a 100, um algoritmo
 com a a estrutura PARA-FAÇA ficaria assim.
@@ -141,8 +151,10 @@ Pra dar mais um exemplo de LOOP pré-definido. Vamos fazer um algoritmo
 para resolver um problema matemático: O fatorial de um número.
 
 Se você não sabe, fatorial é a multiplicação de todos os números de 1
-até ao número que se está calculando. Por exemplo: Fatorial de 5 (5!) =
+até o número que se está calculando. Por exemplo: Fatorial de 5 =
 1 \* 2 \* 3 \* 4 \* 5 = 120. Fácil né?
+
+> Na matemática a notação de fatorial o número e uma exclamação. Por exemplo 5! significa **fatorial de 5**.
 
 Primeiro vamos fazer um algoritmo utilizando o ENQUANTO.
 
@@ -170,9 +182,8 @@ inicio
 fimalgoritmo
 ```
 
-Veja que foi necessário incrementar o contador explicitamente (linha
-16). Com a estrutura de repetição PARA, isso não é necessário. Vejamos
-agora o mesmo algoritmo implementado com o PARA.
+Veja que foi necessário incrementar o _contador_ explicitamente, ou seja, iniciar a variável contador com 1 e incrementar o seu valor no final de cada iteração do LOOP. Com a estrutura de repetição PARA-FAÇA, isso não é necessário. Vejamos
+agora o mesmo algoritmo implementado com o PARA-FAÇA.
 
 ```
 algoritmo "FatorialComPARA"
@@ -253,6 +264,37 @@ Aqui um resultado da execução deste algoritmo.
 
 ![Resultado multiplicação](/images/resultado-multiplicacao.png){:style="text-align:center;" width="100%"}
 
+Nesse algoritmo nós definimos como realizar uma multiplicação
+somando o _número1_ a quantidade de vezes do _número2_.
+Exatamente como aprendemos na escola!
+
+A gente controla a execução do loop com a variável _contador_.
+Nós também podemos implementar esse algoritmo utilizando a estrutura PARA-FAÇA,
+que aprendemos na lição de hoje.
+
+Com a estrutura PARA-FAÇA, esse algoritmo ficaria assim:
+
+```
+algoritmo "MultiplicaçãoComParaFaca"
+var
+   numero1, numero2, resultado, contador: INTEIRO
+inicio
+      ESCREVA("Informe o primeiro número: ")
+      LEIA(numero1)
+      ESCREVA("Informe o segundo número: ")
+      LEIA(numero2)
+
+      resultado <- 0
+
+      PARA contador DE 1 ATE numero2 FACA
+          resultado <- resultado + numero1
+      FIMPARA
+
+      ESCREVA("Resultado: ", resultado)
+
+fimalgoritmo
+```
+
 ##Novo exercício para você resolver com a estrutura PARA-FAÇA!
 
 Como sempre digo, lógica de programação só se aprende praticando. Então
@@ -274,4 +316,4 @@ No final da próxima lição (que você receberá por e-mail)
 você poderá conferir o meu algoritmo para este problema. Assim, você
 poderá comparar o seu algoritmo com o meu. Mas tente resolver antes heim!
 
-Até a próxima lição!
+Até a próxima!
