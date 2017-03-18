@@ -1,5 +1,19 @@
-title: Emails
+title: Todos os e-mails do minicurso de lógica de programação!
 slug: emails
+template: email
+
+Ah a caixa de spams!
+
+As vezes recebo e-mail de um aluno do minicurso relatando que ele não está recebendo os e-mails do minicurso regularmente.
+
+O motivo disso é que o seu provedor de e-mails enviou o e-mail do minicurso para a caixa de spams,
+que frequentemente é apagada.
+
+Pensando em nesses alunos eu coloquei nesta página, todos os e-mails do nosso minicurso.
+
+Então se esse é o seu caso, confira todos os e-mails nos links abaixo.
+
+Bons estudos!
 
 [1 - Lição (1/10) Por que aprender programação?](/email-1-licao-1-por-que-aprender-programacao){:target="\_blank"}
 
