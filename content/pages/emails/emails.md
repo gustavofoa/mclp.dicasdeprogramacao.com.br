@@ -37,4 +37,4 @@ Bons estudos!
 
 [11 - Lição (9/10) Vetores e Matrizes.](/email-11-licao-9-vetores-e-matrizes-arrays){:target="\_blank"}
 
-[12 - ](/){:target="\_blank"}
+[13 - ](/){:target="\_blank"}
