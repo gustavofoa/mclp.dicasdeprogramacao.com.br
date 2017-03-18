@@ -2,11 +2,11 @@ title: Lição (8/10) Loops Pré-definidos.
 slug: email-10-licao-8-loops-pre-definidos
 template: email
 
-[**>> Clique AQUI para acessar a lição #8!**](http://mclp.dicasdeprogramacao.com.br/licao-8-loops-pre-definidos)
-
 Nesta lição #8 do **minicurso de lógica de programação** vamos aprender a estrutura de repetição mais utilizada na programação.
 
 A estrutura **PARA-FAÇA**!
+
+[**>> Clique AQUI para acessar a lição #8!**](http://mclp.dicasdeprogramacao.com.br/licao-8-loops-pre-definidos)
 
 Na lição de hoje você vai entender como ela funciona e porque ela é a mais usada.
 
