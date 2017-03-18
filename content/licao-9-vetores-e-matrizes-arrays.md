@@ -5,16 +5,13 @@ date: 2016-10-27
 image: /images/.jpg
 order: 09
 
-Opa! Tudo bem? Esta é a 9ª lição do **minicurso GRÁTIS de lógica de
+Opa! Tudo bem? Bem vindo à 9ª lição do **minicurso GRÁTIS de lógica de
 programação**!
 
 Hoje vamos falar sobre Vetores e Matrizes. Você vai aprender para que
 serve, como usar e, claro, fazer exercícios para fixar o aprendizado. Ao
-final desta aula você estará craque nesta estrutura de dados tão usada
+final desta lição você estará craque nesta estrutura de dados tão usada
 na programação. Vamos lá?
-
-<span style="text-decoration: underline;">Duração da
-aula: aproximadamente 10 minutos.</span>
 
 ##O que são Vetores e Matrizes
 
@@ -22,7 +19,7 @@ aula: aproximadamente 10 minutos.</span>
 podem nos ajudar muito quando temos um grande número de variáveis do
 mesmo tipo em um algoritmo.
 
-Bom ... Imagine o seguinte problema: Você precisa criar um algoritmo que
+Imagine o seguinte problema: Você precisa criar um algoritmo que
 lê o nome e as 4 notas de 50 alunos, calcular a média de cada aluno e
 informar quais foram aprovados e quais foram reprovados. Conseguiu
 imaginar quantas variáveis você vai precisar pra fazer este algoritmo?
@@ -31,9 +28,11 @@ Muitas né?
 Vamos fazer uma continha rápida aqui: são 50 variáveis para armazenar os
 nomes dos alunos, 200 variáveis para armazenar as 4 notas de cada aluno
 (4 \* 50) e por fim, 50 variáveis para armazenar as médias de cada
-aluno. 300 variáveis no total, sem contar a quantidade de linhas de
+aluno.
+
+São 300 variáveis no total, sem contar a quantidade de linhas de
 código que você vai precisar para ler todos os dados, calcular as médias
-de cada aluno e apresentar todos resultados.
+de cada aluno e apresentar todos os resultados.
 
 Mas eu tenho uma boa notícia pra você! Nós não precisamos criar 300
 variáveis! Podemos utilizar **Vetores** e **Matrizes** (também
@@ -55,11 +54,11 @@ Cada item do vetor (ou matriz) é acessado por um número chamado de
 **índice**. Ou **index** em inglês.
 
 Uma bela forma de pensar software é pensar graficamente... Então vamos
-imaginar no nosso exemplo dos nomes, notas e médias dos 50 alunos  como
+imaginar no nosso exemplo dos nomes, notas e médias dos 50 alunos como
 seriam os vetores e matrizes graficamente para facilitar o entendimento
 do conceito.
 
-![vetor-e-matriz](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/vetor-e-matriz.png){:style="".aligncenter .size-full .wp-image-357" :width="593" :height="623"}
+![vetor-e-matriz](/images/vetor-e-matriz.png){:style="text-align:center;" width="100%"}
 
 Podemos ver na imagem acima que cada posição do vetor é identificado por
 um número (chamado de **índice**), no caso da matriz são dois números
@@ -72,35 +71,46 @@ No Visualg os vetores são declarados da seguinte maneira.
 
 > **&lt; nome da variável&gt;** vetor \[1..**&lt;tamanho&gt;**\] de
 > **&lt;tipo de dados&gt;**
+>
+> Exemplo:
+>
+> nomesDosAlunos vetor \[1..50\] de caractere
+
 
 E as matrizes assim:
 
 > **&lt; nome da variável&gt;** vetor \[1..**&lt;tamanho
 > 1&gt;**,1..**&lt;tamanho 2&gt;**\] de **&lt;tipo de dados&gt;**
+>
+> Exemplo:
+>
+> notas vetor \[1..50,1..4\] de real
 
 Pronto, agora você já sabe o que são **arrays**. Então vamos ver como
 implementá-los em um algoritmo.
 
 ##Vetores e Matrizes na prática!
 
+Nada como praticar para fixar um aprendizado, concorda?
+
 Continuando com o nosso exemplo, vamos implementar um algoritmo para o
-cálculo das médias. Nele, vamos usar algumas estruturas básicas já
-apresentadas nas aulas anteriores, tais como a <span
+cálculo das médias.
+
+Neste algoritmo vamos usar algumas estruturas básicas já
+apresentadas nas lições anteriores, tais como a <span
 style="text-decoration: underline;">estrutura de repetição PARA</span>
-(aula passada) e a <span style="text-decoration: underline;">estrutura
-de decisão SE-ENTÃO-SENÃO</span>.
+(lição passada) e a <span style="text-decoration: underline;">estrutura
+de decisão SE-ENTÃO-SENÃO</span> (lição #5).
 
 *OBS: Neste exemplo vamos reduzir o número de alunos de 50 para 5, para
 facilitar a visualização do resultado.*
 
 **Preste muita atenção no modo como é criado o Vetor e a Matriz e também
-a forma como é acessada cada posição.**
+a forma como cada posição é acessada.**
 
-``` {.toolbar:1 .lang:default .decode:true}
+```
 algoritmo "MediaDe5Alunos"
-// Função : Calcular a média das notas de 10 alunos e apresentar quem foi aprovado ou reprovado
-// Autor : Gustavo
-// Seção de Declarações
+
 var
 
    nomes: vetor [1..5] de caractere
@@ -140,7 +150,7 @@ variáveis do mesmo tipo.
 
 Um resultado do algoritmo acima pode ser observado a seguir:
 
-``` {.lang:default .decode:true}
+```
 Digite o nome do aluno(a) número 1 de 5: Gustavo
 Digite a nota 1 do aluno(a) Gustavo: 9
 Digite a nota 2 do aluno(a) Gustavo: 10
@@ -186,11 +196,11 @@ acrescentar um novo valor em um array e ele já estiver cheio, você
 deverá criar um novo array maior e realocar os valores do array antigo.
 
 Mas pode ficar tranquilo que existem outras estruturas de dados que
-crescem dinamicamente, mas isso é assunto para uma aula futura ...
+crescem dinamicamente, mas isso é assunto para uma lição futura ...
 
 ##Conclusão
 
-Como você pode perceber nesta aula, Vetores e Matrizes são, na verdade,
+Como você pode perceber nesta lição, Vetores e Matrizes são, na verdade,
 a mesma coisa: **ARRAY**
 
 A diferença é que o vetor é um <span
@@ -203,15 +213,86 @@ Os arrays também são conhecidos por **variáveis indexadas**.
 **Array** é uma das estruturas de dados mais simples que existe e uma
 das mais utilizadas também. Acho que todas as linguagens de programação
 têm **arrays**, pelo menos ainda não conheço uma linguagem que não
-tenha. Porém, os índices podem mudar dependendo da linguagem, algumas
-começam os índices do array com 1 e outras com 0, essa é a grande
-diferença que geralmente encontramos entre linguagens. No caso das
+tenha.
+
+Porém, os índices podem mudar dependendo da linguagem, algumas linguagens
+começam os índices do array com 1 e outras com 0, essa é uma diferença muito
+comum que encontramos entre linguagens. No caso das
 linguagens que começam os arrays com o índice 0, o último elemento do
 array recebe o índice (&lt;tamanho do array&gt; – 1).
 
+Esta foi a lição de hoje.
+
 Gostou de conhecer os Arrays (Vetores e Matrizes)?
 
-##Tenho um desafio para você!
+Agora vamos ver o meu algoritmo para o exercício que deixei pra você no final
+da lição passada. Depois eu tenho um **desafio** pra você.
+
+##Algoritmo de identificação de números primos
+
+Ontem eu enviei pra você a lição #8 do minicurso de lógica de programação.
+No final eu pedi pra você resolver um exercício.
+
+**Fazer um algoritmo para dizer se um determinado número é primo ou não.**
+
+E aí, conseguiu fazer? Espero que você tenha tentado e conseguido fazer sozinho!
+
+Se não conseguiu, tudo bem, com a prática você vai ficando craque na lógica de programção.
+Abaixo você vai ver o algoritmo que eu fiz para este problema.
+
+```
+Algoritmo "NumeroPrimo"
+Var
+  contador : INTEIRO
+  numero : INTEIRO
+  eprimo : LOGICO
+Inicio
+      ESCREVA("Informe um número para verificar se ele é primo: ")
+      LEIA(numero)
+      eprimo := VERDADEIRO
+      PARA contador DE 2 ATÉ numero-1 FAÇA
+           SE (numero MOD contador) = 0 ENTAO
+              eprimo := FALSO
+           FIMSE
+      FIMPARA
+      SE eprimo = VERDADEIRO ENTAO
+            ESCREVA("O número ", numero, " é primo!")
+      SENAO
+            ESCREVA("O número ", numero, " NÃO é primo!")
+      FIMSE
+Fimalgoritmo
+```
+
+Neste algoritmo eu faço um *loop* de 2 até o número imediatamente anterior
+ao número que estou verificado se é primo. Por quê?
+
+Bom, eu já expliquei que um número primo só é divisivel (resto 0) por 1 e por ele mesmo.
+Ele não deve ser divisível por qualquer outro número.
+
+Então, caso algum número entre 2 e "numero-1" seja capaz de dividir
+o número verificado com resto zero (SE (numero MOD contador) = 0 ENTÃO ...),
+significa que ele **não** é primo (eprimo = FALSO).
+
+Aqui um resultado da execução deste algoritmo.
+
+```
+Início da execução
+Informe um número para verificar se ele é primo: 53
+O número  53 é primo!
+Fim da execução.
+```
+
+O que você achou? Gostou da minha resolução?
+O seu algoritmo pode ter sido diferente. Não tem problema.
+Há várias formas de se fazer algoritmos. Não precisa estar igual o meu.
+Só precisa funcionar corretamente. ;)
+
+Aliás essa é a beleza da lógica de programação.
+
+Agora eu tenho um desafio para você que vai te ajudar a fixar o conteúdo
+de todo o minicurso até aqui, incluindo a lição de hoje (arrays).
+
+##Te desafio a criar um jogo da velha!
 
 Nossa vida é cheia de desafios e eles são muito importantes para
 evoluirmos e ultrapassar os nossos limites.
@@ -233,17 +314,21 @@ Não precisa ser um jogo muito elaborado. Vamos ver alguns requisitos.
 1.  As jogadas do jogo da velha deverão ser armazenadas numa
     matriz (3x3) de caractere, chamada "tabuleiro", cada posição desta
     matriz armazenará um dos valores: " ", "\_", "X" ou "O". Abaixo uma
-    representação gráfica desta matriz.\
-          ­1      2     3\
-    1  \_\_\_|\_\_\_|\_\_\_\
-    2  \_\_\_|\_\_\_|\_\_\_\
-    3        |      |      
+    representação gráfica desta matriz.
+```
+        1   2   3
+    1  ___|___|___
+    2  ___|___|___
+    3     |   |      
+```
 2.  A cada jogada o programa deverá mostrar na tela a situação atual
-    do "tabuleiro". Por exemplo:\
-          1      2     3\
-    1  \_\_\_|\_\_\_|\_\_\_\
-    2  \_\_\_|\_X\_|\_\_\_\
-    3    O |      |  O
+    do "tabuleiro". Por exemplo:
+```
+        1   2   3
+    1  ___|___|___
+    2  ___|_X_|___
+    3   O |   | O
+```
 3.  Terão dois jogadores no jogo. O programa deve solicitar o nome dos
     dois jogadores antes de começar o jogo.
 4.  A cada jogada o programa deverá perguntar separadamente as posições
@@ -252,7 +337,8 @@ Não precisa ser um jogo muito elaborado. Vamos ver alguns requisitos.
     vencedor e a situação do "tabuleiro".
 
 Este exercício não é trivial, mas com um pouquinho de esforço e
-persistência tenho certeza que você consegue fazer esse jogo.\
+persistência tenho certeza que você consegue fazer esse jogo.
+
 Vou dar dois dias para você fazer. Daqui a dois dias eu envio o meu
 algoritmo para o seu e-mail. A sua solução não precisa estar igual a
 minha, basta funcionar corretamente.
