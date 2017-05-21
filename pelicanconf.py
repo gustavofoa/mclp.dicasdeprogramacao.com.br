@@ -62,10 +62,10 @@ LP_ACTION = "http://mail.gustavofurtado.com.br/subscribe"
 LP_HIDDEN_FIELDS = '<input type="hidden" name="list" value="oiJK0j8gmAdoxtJtv2pSxA" />'
 TITLEBAR_TEXT = "Receba este minicurso de lógica de programação GRÁTIS!"
 TOTAL_LESSONS = 10
-SHARE_ON_TWITTER = "http://ctt.ec/4Rq9f"
-SHARE_ON_FACEBOOK = "http://www.facebook.com/sharer.php?u=http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/"
-SHARE_ON_GPLUS = "https://plus.google.com/share?url=http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/"
-SHARE_ON_LINKEDIN = "https://www.linkedin.com/cws/share?url=http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/"
+SHARE_ON_TWITTER = "http://twitter.com/share?url=http://mclp.dicasdeprogramacao.com.br/&text=Estou fazendo o minicurso de lógica de programação TOTALMENTE GRÁTIS do @dicasprog."
+SHARE_ON_FACEBOOK = "http://www.facebook.com/sharer.php?u=http://mclp.dicasdeprogramacao.com.br/"
+SHARE_ON_GPLUS = "https://plus.google.com/share?url=http://mclp.dicasdeprogramacao.com.br/"
+SHARE_ON_LINKEDIN = "https://www.linkedin.com/cws/share?url=http://mclp.dicasdeprogramacao.com.br/"
 FOOTER_PSS = """
 <p>Aqui você encontrará conteúdo simples, práticos e que vai te ensinar os conceitos básicos por trás da programação,
 ao final você será capaz de criar pequenos programas e estará pronto para aprender qualquer linguagem de programação sem dificuldades.</p>

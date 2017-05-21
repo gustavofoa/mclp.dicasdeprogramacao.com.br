@@ -24,15 +24,16 @@ lógica de programação.
 Basta clicar nos botões abaixo para compartilhar o curso 100% grátis com
 seus amigos.
 
+
 <center>
 <table style="text-align:center;">
 <tr style="border: 30px solid white;">
-<td style="border: 30px solid white;"><a class="btn btn-twitter btn-block" href="http://ctt.ec/4Rq9f" target="\_blank"><i class="fa fa-twitter"></i> | Divulge no Twitter!</a></td>
-<td style="border: 30px solid white;"><a class="btn btn-facebook btn-block" href="http://www.facebook.com/sharer.php?u=http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/" target="\_blank"><i class="fa fa-facebook"></i> | Compartilhe no Facebook!</a></td>
+<td style="border: 30px solid white;"><a class="btn btn-twitter btn-block" href="http://twitter.com/share?url=http://mclp.dicasdeprogramacao.com.br/&text=Estou fazendo o minicurso de lógica de programação TOTALMENTE GRÁTIS do @dicasprog." target="\_blank"><i class="fa fa-twitter"></i> | Divulge no Twitter!</a></td>
+<td style="border: 30px solid white;"><a class="btn btn-facebook btn-block" href="http://www.facebook.com/sharer.php?u=http://mclp.dicasdeprogramacao.com.br/&text=Estou fazendo o minicurso de lógica de programação TOTALMENTE GRÁTIS do blog Dicas de Programação" target="\_blank"><i class="fa fa-facebook"></i> | Compartilhe no Facebook!</a></td>
 </tr>
 <tr>
-<td style="border: 30px solid white;"><a class="btn btn-google-plus btn-block" href="https://plus.google.com/share?url=http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/" target="\_blank"><i class="fa fa-google-plus"></i> | Compartilhe no Google+!</a></td>
-<td style="border: 30px solid white;"><a class="btn btn-linkedin btn-block" href="https://www.linkedin.com/cws/share?url=http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/" target="\_blank"><i class="fa fa-linkedin"></i> | Compartilhe no LinkedIn!</a></td>
+<td style="border: 30px solid white;"><a class="btn btn-google-plus btn-block" href="https://plus.google.com/share?url=http://mclp.dicasdeprogramacao.com.br/&text=Estou fazendo o minicurso de lógica de programação TOTALMENTE GRÁTIS do blog Dicas de Programação" target="\_blank"><i class="fa fa-google-plus"></i> | Compartilhe no Google+!</a></td>
+<td style="border: 30px solid white;"><a class="btn btn-linkedin btn-block" href="https://www.linkedin.com/cws/share?url=http://mclp.dicasdeprogramacao.com.br/&text=Estou fazendo o minicurso de lógica de programação TOTALMENTE GRÁTIS do blog Dicas de Programação" target="\_blank"><i class="fa fa-linkedin"></i> | Compartilhe no LinkedIn!</a></td>
 </tr>
 </table>
 </center>
