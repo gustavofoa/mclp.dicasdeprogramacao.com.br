@@ -17,7 +17,7 @@ do minicurso de lógica de programação.
 Basta clicar no botão abaixo para acessar a lição 1 do minicurso de
 lógica de programação.
 
-**[Lição 1/10 - Por que aprender programação?](http://mclp.dicasdeprogramacao.com.br/licao-1-porque-aprender-programacao/){.btn .btn-success .navbar-btn}**
+**[Lição 1/10 - Por que aprender programação?](http://mclp.dicasdeprogramacao.com.br/licao-1-porque-aprender-programacao/){.btn .btn-success .navbar-btn :target=\_blank}**
 
 ### Passo 2: Compartilhe este curso 100% grátis com seus amigos
 

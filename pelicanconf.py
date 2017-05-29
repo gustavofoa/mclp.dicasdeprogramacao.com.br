@@ -58,8 +58,9 @@ OG_IMAGE = "/images/gustavo-furtado.jpg"
 LP_IMAGE = "/images/Logo.png"
 LP_TITLE = "Quer aprender lógica de programação GRÁTIS?"
 LP_DESCRIPTION = "Coloque seu e-mail abaixo e receba GRATUITAMENTE o minicurso de lógica de programação."
-LP_ACTION = "http://mail.gustavofurtado.com.br/subscribe"
-LP_HIDDEN_FIELDS = '<input type="hidden" name="list" value="oiJK0j8gmAdoxtJtv2pSxA" />'
+LP_ACTION = "http://mautic.dicasdeprogramacao.com.br/form/submit?formId=1"
+LP_EMAIL_FIELD = "mauticform[email]"
+LP_HIDDEN_FIELDS = '<input type="hidden" name="mauticform[formId]" id="mauticform_formdominicursologicadeprogramacao_id" value="1"/><input type="hidden" name="mauticform[return]" id="mauticform_formdominicursologicadeprogramacao_return" value=""/><input type="hidden" name="mauticform[formName]" id="mauticform_formdominicursologicadeprogramacao_name" value="formdominicursologicadeprogramacao"/>'
 TITLEBAR_TEXT = "Receba este minicurso de lógica de programação GRÁTIS!"
 TOTAL_LESSONS = 10
 SHARE_ON_TWITTER = "http://twitter.com/share?url=http://mclp.dicasdeprogramacao.com.br/&text=Estou fazendo o minicurso de lógica de programação TOTALMENTE GRÁTIS do @dicasprog."

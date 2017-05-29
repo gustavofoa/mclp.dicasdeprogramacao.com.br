@@ -16,11 +16,11 @@ template: subscription
 Acesse a sua caixa de entrada. Se preferir pode acessar algum dos links
 abaixo.
 
-#### [Acessar Gmail](http://gmail.com)
+#### [Acessar Gmail](http://gmail.com){:target=\_blank}
 
-#### [Acessar Hotmail](http://login.live.com/)
+#### [Acessar Hotmail](http://login.live.com/){:target=\_blank}
 
-#### [Acessar Yahoo](http://login.yahoo.com/)
+#### [Acessar Yahoo](http://login.yahoo.com/){:target=\_blank}
 
 ### Passo 2
 
