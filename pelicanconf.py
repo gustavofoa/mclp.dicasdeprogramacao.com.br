@@ -58,7 +58,7 @@ OG_IMAGE = "/images/gustavo-furtado.jpg"
 LP_IMAGE = "/images/Logo.png"
 LP_TITLE = "Quer aprender lógica de programação GRÁTIS?"
 LP_DESCRIPTION = "Coloque seu e-mail abaixo e receba GRATUITAMENTE o minicurso de lógica de programação."
-LP_ACTION = "http://mautic.dicasdeprogramacao.com.br/form/submit?formId=1"
+LP_ACTION = "http://mautic.dicasdeprogramacao.com.br/form/submit?formId=2"
 LP_EMAIL_FIELD = "mauticform[email]"
 LP_HIDDEN_FIELDS = '<input type="hidden" name="mauticform[formId]" id="mauticform_formdominicursologicadeprogramacao_id" value="1"/><input type="hidden" name="mauticform[return]" id="mauticform_formdominicursologicadeprogramacao_return" value=""/><input type="hidden" name="mauticform[formName]" id="mauticform_formdominicursologicadeprogramacao_name" value="formdominicursologicadeprogramacao"/>'
 TITLEBAR_TEXT = "Receba este minicurso de lógica de programação GRÁTIS!"
