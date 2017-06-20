@@ -305,7 +305,7 @@ exercício de hoje é o seguinte:
 não.**
 
 Número primo é todo número que só é divisível por 1 e por ele mesmo sem
-deixar resto. Exemplos e números primos são: 2, 3, 5, 7, 11, 13, 17 ...
+deixar resto. Exemplos de números primos são: 2, 3, 5, 7, 11, 13, 17 ...
 
 Fácil né!? Dica, você precisará criar um LOOP (de preferência utilizando
 o PARA) e verificar se o resto das divisões é 0 utilizando o operador

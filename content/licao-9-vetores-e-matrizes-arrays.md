@@ -23,6 +23,7 @@ Imagine o seguinte problema: Você precisa criar um algoritmo que
 lê o nome e as 4 notas de 50 alunos, calcular a média de cada aluno e
 informar quais foram aprovados e quais foram reprovados. Conseguiu
 imaginar quantas variáveis você vai precisar pra fazer este algoritmo?
+
 Muitas né?
 
 Vamos fazer uma continha rápida aqui: são 50 variáveis para armazenar os
@@ -106,7 +107,7 @@ de decisão SE-ENTÃO-SENÃO</span> (lição #5).
 facilitar a visualização do resultado.*
 
 **Preste muita atenção no modo como é criado o Vetor e a Matriz e também
-a forma como cada posição é acessada.**
+a forma como cada posição é acessada, utilizando os contadores.**
 
 ```
 algoritmo "MediaDe5Alunos"
@@ -215,6 +216,12 @@ das mais utilizadas também. Acho que todas as linguagens de programação
 têm **arrays**, pelo menos ainda não conheço uma linguagem que não
 tenha.
 
+É importante falar que estruturas de dados é o assunto seguinte a se aprender,
+depois de aprender lógica de programação.
+Existem muitos tipos de estruturas de dados, o array é o mais simples.
+Conhecer bem as estruturas de dados é o que vai determinar a sua facilidade
+em aprender qualquer linguagem de programação.
+
 Porém, os índices podem mudar dependendo da linguagem, algumas linguagens
 começam os índices do array com 1 e outras com 0, essa é uma diferença muito
 comum que encontramos entre linguagens. No caso das
@@ -230,14 +237,20 @@ da lição passada. Depois eu tenho um **desafio** pra você.
 
 ##Algoritmo de identificação de números primos
 
-Ontem eu enviei pra você a lição #8 do minicurso de lógica de programação.
-No final eu pedi pra você resolver um exercício.
+No final da lição #8 do minicurso de lógica de programação que eu te enviei anteriormente,
+eu pedi pra você resolver um exercício.
 
 **Fazer um algoritmo para dizer se um determinado número é primo ou não.**
 
 E aí, conseguiu fazer? Espero que você tenha tentado e conseguido fazer sozinho!
 
-Se não conseguiu, tudo bem, com a prática você vai ficando craque na lógica de programção.
+Se não conseguiu, tudo bem, com a prática você vai ficando craque na lógica de programação.
+
+O problema é simples, como eu disse na lição anterior,
+um número primo só pode ser divisível (resto = 0) por 1 e por ele mesmo,
+ou seja, se ele for divisível por qualquer outro número entre 2 e ele mesmo menos 1,
+ele não é primo. Sacou?
+
 Abaixo você vai ver o algoritmo que eu fiz para este problema.
 
 ```
@@ -313,22 +326,23 @@ Não precisa ser um jogo muito elaborado. Vamos ver alguns requisitos.
 
 1.  As jogadas do jogo da velha deverão ser armazenadas numa
     matriz (3x3) de caractere, chamada "tabuleiro", cada posição desta
-    matriz armazenará um dos valores: " ", "\_", "X" ou "O". Abaixo uma
-    representação gráfica desta matriz.
-```
-        1   2   3
-    1  ___|___|___
-    2  ___|___|___
-    3     |   |      
-```
+    matriz armazenará um dos valores: " ", "\_", "X" ou "O",
+    onde " " e "\_" são posições _vazias_ e "X" e "O" são _jogadas_.
+    Abaixo uma representação gráfica desta matriz.
+<pre>
+    1   2   3
+1  \_\_\_|\_\_\_|\_\_\_
+2  \_\_\_|\_\_\_|\_\_\_
+3     |   |      
+</pre>
 2.  A cada jogada o programa deverá mostrar na tela a situação atual
     do "tabuleiro". Por exemplo:
-```
-        1   2   3
-    1  ___|___|___
-    2  ___|_X_|___
-    3   O |   | O
-```
+<pre>
+     1   2   3
+1  \_\_\_|\_\_\_|\_\_\_
+2  \_\_\_|\_X\_|\_\_\_
+3   O |   | O
+</pre>
 3.  Terão dois jogadores no jogo. O programa deve solicitar o nome dos
     dois jogadores antes de começar o jogo.
 4.  A cada jogada o programa deverá perguntar separadamente as posições
@@ -336,7 +350,7 @@ Não precisa ser um jogo muito elaborado. Vamos ver alguns requisitos.
 5.  Quando um jogador vencer o programa deve apresentar imediatamente o
     vencedor e a situação do "tabuleiro".
 
-Este exercício não é trivial, mas com um pouquinho de esforço e
+Este exercício não é simples, mas com um pouquinho de esforço e
 persistência tenho certeza que você consegue fazer esse jogo.
 
 Vou dar dois dias para você fazer. Daqui a dois dias eu envio o meu

@@ -19,7 +19,7 @@ O array é um tipo de dados de agrupa variáveis de qualquer tipo de dados (desd
 
 São muito conhecidos como **vetores** ou **matrizes**.
 
-Ah, vamos logo pra lição de hoje, né ...?
+Aqui está o link para a lição de hoje:
 
 [**>> Acessar a nona lição do minicurso!**](http://mclp.dicasdeprogramacao.com.br/licao-9-vetores-e-matrizes-arrays)
 
