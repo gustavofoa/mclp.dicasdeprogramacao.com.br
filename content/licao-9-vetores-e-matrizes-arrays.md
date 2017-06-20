@@ -338,7 +338,7 @@ Não precisa ser um jogo muito elaborado. Vamos ver alguns requisitos.
 2.  A cada jogada o programa deverá mostrar na tela a situação atual
     do "tabuleiro". Por exemplo:
 <pre>
-     1   2   3
+    1   2   3
 1  \_\_\_|\_\_\_|\_\_\_
 2  \_\_\_|\_X\_|\_\_\_
 3   O |   | O
