@@ -187,7 +187,7 @@ O aluno(a) Augusto foi aprovado com as notas ( 5, 5.5, 7.5, 6) e média: 6
 ```
 
 Para você que é um iniciante em programação, este algoritmo pode parecer
-um pouco complexo, mas se prestar atenção, que os vetores e matrizes
+um pouco complexo, mas se prestar atenção, perceberá que os vetores e matrizes
 podem ser utilizados em muitos problemas. Por exemplo, armazenar os
 nomes dos funcionários de uma empresa.
 
@@ -222,7 +222,7 @@ Existem muitos tipos de estruturas de dados, o array é o mais simples.
 Conhecer bem as estruturas de dados é o que vai determinar a sua facilidade
 em aprender qualquer linguagem de programação.
 
-Porém, os índices podem mudar dependendo da linguagem, algumas linguagens
+Os índices dos arrays podem mudar dependendo da linguagem, algumas linguagens
 começam os índices do array com 1 e outras com 0, essa é uma diferença muito
 comum que encontramos entre linguagens. No caso das
 linguagens que começam os arrays com o índice 0, o último elemento do
@@ -237,7 +237,7 @@ da lição passada. Depois eu tenho um **desafio** pra você.
 
 ##Algoritmo de identificação de números primos
 
-No final da lição #8 do minicurso de lógica de programação que eu te enviei anteriormente,
+No final da lição #8 deste minicurso de lógica de programação que eu te enviei anteriormente,
 eu pedi pra você resolver um exercício.
 
 **Fazer um algoritmo para dizer se um determinado número é primo ou não.**
@@ -277,7 +277,7 @@ Fimalgoritmo
 ```
 
 Neste algoritmo eu faço um *loop* de 2 até o número imediatamente anterior
-ao número que estou verificado se é primo. Por quê?
+ao número que estou verificando se é primo. Por quê?
 
 Bom, eu já expliquei que um número primo só é divisivel (resto 0) por 1 e por ele mesmo.
 Ele não deve ser divisível por qualquer outro número.
