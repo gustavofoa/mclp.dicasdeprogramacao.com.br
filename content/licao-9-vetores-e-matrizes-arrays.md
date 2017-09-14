@@ -353,8 +353,8 @@ Não precisa ser um jogo muito elaborado. Vamos ver alguns requisitos.
 Este exercício não é simples, mas com um pouquinho de esforço e
 persistência tenho certeza que você consegue fazer esse jogo.
 
-Vou dar dois dias para você fazer. Daqui a dois dias eu envio o meu
+Vou dar uma semana para você fazer. Daqui a 7 dias eu envio o meu
 algoritmo para o seu e-mail. A sua solução não precisa estar igual a
-minha, basta funcionar corretamente.
+minha, basta funcionar corretamente. OK?
 
 Bons estudos e até a próxima lição!
