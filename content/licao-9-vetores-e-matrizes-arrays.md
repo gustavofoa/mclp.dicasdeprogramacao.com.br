@@ -357,4 +357,4 @@ Vou dar dois dias para você fazer. Daqui a dois dias eu envio o meu
 algoritmo para o seu e-mail. A sua solução não precisa estar igual a
 minha, basta funcionar corretamente.
 
-Até lá!
+Bons estudos e até a próxima lição!
