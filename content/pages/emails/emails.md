@@ -37,4 +37,6 @@ Bons estudos!
 
 [11 - Lição (9/10) Vetores e Matrizes.](/email-11-licao-9-vetores-e-matrizes-arrays){:target="\_blank"}
 
-[13 - Meu algoritmo do Jogo da Velha](/email-13-jogo-da-velha-o-meu-algoritmo){:target="\_blank"}
+[14 - SUPER DICAS! Exercício do Jogo da Velha](/email-14-super-dica-exercicio-jogo-da-velha){:target="\_blank"}
+
+[18 - EXERCÍCIO Jogo da Velha: Superdica!](/email-18-jogo-da-velha-o-meu-algoritmo){:target="\_blank"}
