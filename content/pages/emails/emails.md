@@ -40,3 +40,10 @@ Bons estudos!
 [14 - SUPER DICAS! Exercício do Jogo da Velha](/email-14-super-dica-exercicio-jogo-da-velha){:target="\_blank"}
 
 [18 - EXERCÍCIO Jogo da Velha: Superdica!](/email-18-jogo-da-velha-o-meu-algoritmo){:target="\_blank"}
+
+[20 - Lição (10/10) Funções e Procedimentos.](/email-20-licao-10-funcoes-e-procedimentos){:target="\_blank"}
+
+[22 - Jogo da Velha com funções e procedimentos](/email-22-jogo-da-velha-com-funcoes-e-procedimentos){:target="\_blank"}
+
+[30 - LIÇÃO BÔNUS! Recursividade](/email-30-licao-bonus-recursividade){:target="\_blank"}
+

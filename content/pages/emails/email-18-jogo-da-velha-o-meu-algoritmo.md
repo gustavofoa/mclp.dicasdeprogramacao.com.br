@@ -9,7 +9,10 @@ Na lição #9 eu prometi te enviar o meu algoritmo do jogo da velha após uma se
 Não é um algoritmo facinho, mas já estamos chegando ao final deste minicurso 
 e sei que você tem capacidade de criar este algoritmo sozinho.
 
-Mas tinha que quebrar a cabeça um pouquinho.
+Além disso, a poucos dias atrás eu te enviei um e-mail cheio de dicas para te ajudar
+a fazer esse algoritmo.
+
+Mas você tinha que quebrar a cabeça um pouquinho.
 Neste exercício, que passei como um desafio para você, 
 é necessário utilizar várias estruturas, operadores, variáveis, etc.
 Tudo que já aprendemos nas lições anteriores.
@@ -184,4 +187,4 @@ Vamos ver como podemos melhorar este algoritmo do jogo da velha utilizando funç
 
 Até lá!
 
--Gustavo
+Gustavo
