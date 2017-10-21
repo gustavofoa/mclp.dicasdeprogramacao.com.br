@@ -8,21 +8,19 @@ order: 10
 Olá! Tudo bem? Chegamos à lição \#10 do **minicurso GRÁTIS de lógica de
 programação**!
 
-Nesta aula vamos aprender uma forma de melhorar a sua
+Nesta lição vamos aprender uma forma de melhorar a sua
 programação. Utilizando **funções** e **procedimentos** nós podemos
 reaproveitar código, melhorar a leitura dos algoritmos e criar códigos
 mais limpos e legíveis.
 
-Nesta aula vamos ver um pouquinho de geometria básica. Só pra
+Nesta lição vamos ver um pouquinho de geometria básica. Só pra
 relembrar um pouquinho a escola. Mas não se assuste, vai ser fácil.
 
-<span style="text-decoration: underline;">Duração da
-aula: aproximadamente 25 minutos.</span>
+Vamos lá?
 
 ##O que são Funções e Procedimentos
 
-A primeira coisa que você tem que entender é o que eu estou
-falando. Afinal, que raios são funções e procedimentos?
+A primeira coisa que você tem que entender é, afinal, que raios são funções e procedimentos?
 
 Bom, já adianto que você já usou procedimentos e nem percebeu!
 
@@ -49,16 +47,16 @@ dentro do nosso algoritmo.
 
 ##Qual a diferença entre função e procedimento?
 
-A única diferença entre uma função (function) e um procedimento
-(procedure) é que a função retorna um valor (por exemplo uma função que
+A única diferença entre uma função (_function_) e um procedimento
+(_procedure_) é que a função retorna um valor (por exemplo uma função que
 calcula raiz quadrada retorna um número) e o procedimento não
-retorna nada (por exemplo o procedimento escreva que já falei).
+retorna nada (por exemplo o procedimento '_escreva_' que já falei).
 
 A figura abaixo exemplifica como acontece a utilização de uma função, o
 procedimento é a mesma coisa, menos na atribuição do resultado à
 variável "a".
 
-![função](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/função.png){:style=".aligncenter .size-full .wp-image-385" :width="503" :height="332"}
+![função](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/função.png){:style="width: 100%"}
 
 **Funções** (e **procedimentos**) podem ou não receber parâmetros. No
 caso da função de raiz quadrada, é necessário passar como parâmetro o
@@ -71,21 +69,21 @@ Agora que já sabemos o que são e pra quê servem. Vamos para a prática!
 
 Você lembra como calcular a hipotenusa de um triângulo retângulo?
 
+![triangulo-retangulo](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/triangulo-retangulo-1024x670.gif){:style="float: right; width: 300px; margin: 0px 5px 5px 30px;"}
+
 Primeiro, vou te relembrar o que é um triângulo-retângulo. Um
 triângulo em que um dos ângulos tem 90º. Ou seja, dois lados do
 triângulo são perpendiculares entre si. Esses lados que formam o
 ângulo de 90º (ou ângulo reto) são chamados de "catetos". E o lado
 oposto ao angulo reto é a hipotenusa.
 
-![triangulo-retangulo](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/triangulo-retangulo-1024x670.gif){:style=".aligncenter .wp-image-388 .size-large" :width="660" :height="432"}
-
 Quando conhecemos o tamanho dos catetos nós conseguimos calcular o
-tamanho da hipotenusa. Estou falando do famoso **teorema de Pitágoras**
+tamanho da hipotenusa. Este é o famoso **teorema de Pitágoras**
 que diz: **A soma dos quadrados dos catetos equivale ao quadrado da
 hipotenusa**. A imagem abaixo ilustra bem isso.
 
 ![teorema de
-pitágoras](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/teorema-de-pitágoras.jpg){:style=".aligncenter .size-full .wp-image-391" :width="471" :height="446"}
+pitágoras](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/teorema-de-pitágoras.jpg){:style="float: left; width: 100%; padding: 20px;"}
 
 Então para descobrir o valor da hipotenusa, temos que encontrar a raiz
 quadrada de ( b² + c² ).
@@ -95,7 +93,7 @@ o valor dos dois catetos, calcula e apresenta na tela o valor da
 hipotenusa do triângulo retângulo. Para isso precisaremos usar a
 função RAIZQ do Visualg para calcular a raiz quadrada pra gente.
 
-``` {.lang:default .decode:true}
+```
 algoritmo "Hipotenusa"
 var
     a, b, c : REAL
@@ -128,7 +126,7 @@ fluxo principal do seu algoritmo e remove repetição de código.
 Abaixo a sintaxe para criação das suas próprias funções e procedimentos
 no Visualg.
 
-``` {.lang:default .decode:true}
+```
 funcao <nome-de-função> [(<seqüência-de-declarações-de-parâmetros>)]: <tipo-de-dado>
 // Seção de Declarações Internas
 inicio
@@ -154,32 +152,32 @@ Exemplo: Fatorial de 5 (ou 5!) corresponde a: 1 \* 2 \* 3 \* 4 \* 5 =
 
 Então vamos ver como ficaria esta função.
 
-``` {.lang:default .decode:true}
-   funcao calculaFatorial(numero: inteiro): inteiro
-   var
-          fatorial: inteiro
-          contador: inteiro
-   inicio
-         fatorial <- 1
-         ENQUANTO numero > 1 FACA
-                  fatorial <- fatorial * numero
-                  numero <- numero - 1
-         FIMENQUANTO
-         retorne fatorial
-   fimfuncao
+```
+funcao calculaFatorial(numero: inteiro): inteiro
+var
+      fatorial: inteiro
+      contador: inteiro
+inicio
+     fatorial <- 1
+     ENQUANTO numero > 1 FACA
+              fatorial <- fatorial * numero
+              numero <- numero - 1
+     FIMENQUANTO
+     retorne fatorial
+fimfuncao
 ```
 
 O fluxo principal do nosso Algoritmo poderia ser assim.
 
-``` {.lang:default .decode:true}
-      ESCREVA("Informe o número para o cálculo do Fatorial: ")
-      LEIA(numeroParaFatorial)
-      ESCREVA("O fatorial de ", numeroParaFatorial, " é: ", calculaFatorial(numeroParaFatorial))
+```
+ESCREVA("Informe o número para o cálculo do Fatorial: ")
+LEIA(numeroParaFatorial)
+ESCREVA("O fatorial de ", numeroParaFatorial, " é: ", calculaFatorial(numeroParaFatorial))
 ```
 
 Esse é o algoritmo completo, com a função e o fluxo principal.
 
-``` {.lang:default .decode:true}
+```
 algoritmo "Cacula Fatorial"
 var
 
@@ -209,7 +207,7 @@ fimalgoritmo
 
 ##Resumindo
 
-Vimos nesta aula que **Funções** e **procedimentos** são "subalgoritmos"
+Vimos nesta lição que **Funções** e **procedimentos** são "subalgoritmos"
 que podem ser chamados dentro de outros algoritmos.
 
 São utilizados com muita frequência em desenvolvimento de softwares.
@@ -219,13 +217,12 @@ do algoritmo mais intuitivo, pois tiramos a parte complexa do código do
 fluxo principal do algoritmo, etc.
 
 **Importante**: em linguagens orientada a objeto como java, C++ e C\#,
-funções e procedimentos são chamados de **MÉTODO**. Mais por uma questão
+funções e procedimentos são chamados de **MÉTODOS**. Mais por uma questão
 de conceito de Orientação a Objetos, mas no fundo é a mesma coisa, podem
 receber parâmetros e retornam ou não um resultado.
 
-Para finalizar, lembra do Jogo da Velha que fizemos na aula passada e eu
-te mandei o meu algoritmo (somente se você estiver inscrito neste
-minicurso gratuito). Pense como você poderia criar funções e
+Para finalizar, lembra do Jogo da Velha que fizemos na lição passada e eu
+te mandei o meu algoritmo. Pense como você poderia criar funções e
 procedimentos para melhorar ele. Amanhã eu vou mandar o mesmo algoritmo,
 só que utilizando funções e procedimentos para melhorar a legibilidade
 do algoritmo e tirar uma duplicação de código que tem nele. Mas

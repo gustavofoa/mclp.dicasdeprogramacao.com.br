@@ -24,7 +24,7 @@ na sua carreira!
 [**>> Clique AQUI para acessar a lição #10!**](http://mclp.dicasdeprogramacao.com.br/licao-10-funcoes-e-procedimentos)
 
 Nesta lição #10 do minicurso de lógica de programação você vai aprender
-o que são **funções e procedimentos* e como usá-los para melhorar os nossos algoritmos.
+o que são **funções e procedimentos** e como usá-los para melhorar os nossos algoritmos.
 
 Além de ver algumas funções e procedimentos que são nativas
 em qualquer linguagem de programação, você vai aprender a criar

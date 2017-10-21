@@ -157,13 +157,13 @@ funcionam as variáveis/constantes e os tipos de dados é de suma
 importância para você se tornar um bom programador.
 Releia quantas vezes forem necessárias para entender bem esse assunto.
 
-#Solução do exercício da aula \#2
+#Solução do exercício da lição \#2
 
-No final da aula passada eu pedi pra você tentar fazer um exercício. Se
+No final da lição passada eu pedi pra você tentar fazer um exercício. Se
 não conseguiu fazê-lo, não tem problema.
 
 Eu pedi para você solicitar as 4 notas do usuário, calcular a média e a
-presentar na tela. Nesta aula você aprendeu sobre variáveis e os tipos
+presentar na tela. Nesta lição você aprendeu sobre variáveis e os tipos
 de dados. Para resolver este exercício você precisará criar 5 variáveis
 do tipo real, 4 variáveis para armazenar as 4 notas e uma para armazenar a
 média.
