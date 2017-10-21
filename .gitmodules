@@ -1,3 +1,6 @@
 [submodule "theme"]
 	path = theme
 	url = https://github.com/gustavofoa/minicurso-theme.git
+[submodule "pelican-plugins"]
+	path = pelican-plugins
+	url = https://github.com/gustavofoa/pelican-plugins.git
