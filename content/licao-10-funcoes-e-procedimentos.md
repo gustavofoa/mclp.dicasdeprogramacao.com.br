@@ -56,7 +56,7 @@ A figura abaixo exemplifica como acontece a utilização de uma função, o
 procedimento é a mesma coisa, menos na atribuição do resultado à
 variável "a".
 
-![função](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/função.png){:style="width: 100%"}
+![função](https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/função.png){:style="width: 100%"}
 
 **Funções** (e **procedimentos**) podem ou não receber parâmetros. No
 caso da função de raiz quadrada, é necessário passar como parâmetro o
@@ -69,7 +69,7 @@ Agora que já sabemos o que são e pra quê servem. Vamos para a prática!
 
 Você lembra como calcular a hipotenusa de um triângulo retângulo?
 
-![triangulo-retangulo](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/triangulo-retangulo-1024x670.gif){:style="float: right; width: 300px; margin: 0px 5px 5px 30px;"}
+![triangulo-retangulo](https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/triangulo-retangulo-1024x670.gif){:style="float: right; width: 300px; margin: 0px 5px 5px 30px;"}
 
 Primeiro, vou te relembrar o que é um triângulo-retângulo. Um
 triângulo em que um dos ângulos tem 90º. Ou seja, dois lados do
@@ -83,7 +83,7 @@ que diz: **A soma dos quadrados dos catetos equivale ao quadrado da
 hipotenusa**. A imagem abaixo ilustra bem isso.
 
 ![teorema de
-pitágoras](http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/teorema-de-pitágoras.jpg){:style="float: left; width: 100%; padding: 20px;"}
+pitágoras](https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/teorema-de-pitágoras.jpg){:style="float: left; width: 100%; padding: 20px;"}
 
 Então para descobrir o valor da hipotenusa, temos que encontrar a raiz
 quadrada de ( b² + c² ).

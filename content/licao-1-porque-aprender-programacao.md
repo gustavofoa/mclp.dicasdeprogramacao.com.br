@@ -163,7 +163,7 @@ programação**.
 Eu escrevi um post sobre isso no blog **{ Dicas de Programação }**. Dê
 uma olhada depois.
 
-**[Quer ser programador? Aprenda inglês!](http://www.dicasdeprogramacao.com.br/quer-ser-programador-aprenda-ingles/){:target="\_blank"}**
+**[Quer ser programador? Aprenda inglês!](https://dicasdeprogramacao.com.br/quer-ser-programador-aprenda-ingles/){:target="\_blank"}**
 
 ##Com qual linguagem começar
 

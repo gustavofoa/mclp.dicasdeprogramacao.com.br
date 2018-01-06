@@ -46,9 +46,9 @@ Por exemplo:
 Abaixo você encontra o meu algoritmo do jogo, você pode copiar e colocar o algoritmo no VisuAlg.
 
 Para baixar o Visualg Acesse: 
-[http://dicasdeprogramacao.com.br/download-visualg/](http://www.dicasdeprogramacao.com.br/download-visualg/){:target=blank}
+[https://dicasdeprogramacao.com.br/download-visualg/](https://dicasdeprogramacao.com.br/download-visualg/){:target=blank}
 
-Veja o algoritmo, entenda, [execute-o](http://www.dicasdeprogramacao.com.br/download-visualg/){:target=blank},
+Veja o algoritmo, entenda, [execute-o](https://dicasdeprogramacao.com.br/download-visualg/){:target=blank},
 observe porque usei cada estrutura PARA-FAÇA, REPIRA-ATÉ, SE-ENTÃO-SENÃO,
 cada variável, operadores lógicos (E e OU) etc.
 

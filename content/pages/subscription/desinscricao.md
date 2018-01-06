@@ -15,4 +15,4 @@ Obrigado por ter nos dado a oportunidade de compartilhar um pouco do nosso conhe
 Esperamos ter contribuído contigo e pedimos desculpas se alguma coisa não te agradou.
 
 Você pode continuar em contato conosco através do nosso blog:
-[**{ Dicas de Programação }**](http://dicasdeprogramacao.com.br)
+[**{ Dicas de Programação }**](https://dicasdeprogramacao.com.br)

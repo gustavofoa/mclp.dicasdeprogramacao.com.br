@@ -40,7 +40,7 @@ Simples assim. Essa estrutura não tem segredos. Agora é hora de praticar! Vamo
 ##SE-ENTÃO-SENÃO na prática!
 
 Vejamos um exemplo de utilização desta estrutura com um algoritmo, você pode usar o
-[VisuAlg](http://www.dicasdeprogramacao.com.br/download-visualg/) para testar esse algoritmo e ver o resultado.
+[VisuAlg](https://dicasdeprogramacao.com.br/download-visualg/) para testar esse algoritmo e ver o resultado.
 
 Neste algoritmo, vamos simular um caixa eletrônico quando vamos sacar
 dinheiro. O caixa eletrônico verifica se o valor que desejamos sacar é

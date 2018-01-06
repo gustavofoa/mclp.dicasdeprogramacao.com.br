@@ -21,7 +21,7 @@ no fantástico mundo da programação. Vamos lá?
 
 Programas de computador utilizam os recursos de hardware mais básicos
 para executar
-[algoritmos](http://www.dicasdeprogramacao.com.br/o-que-e-algoritmo/).
+[algoritmos](https://dicasdeprogramacao.com.br/o-que-e-algoritmo/).
 Enquanto o processador executa os cálculos, a memória é responsável por
 armazenar dados e servi-los ao processador.
 

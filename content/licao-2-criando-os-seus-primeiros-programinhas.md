@@ -106,7 +106,7 @@ produtividade é a **Técnica Pomodoro**.
 Não é o foco deste minicurso, mas eu escrevi um artigo sobre essa
 técnica. Se quiser saber mais clique no link abaixo e leia **depois que acabar de ler a lição de hoje**:
 
-**[Clique AQUI para conhecer a técnica pomodoro!](http://www.dicasdeprogramacao.com.br/melhore-sua-produtividade-com-a-tecnica-pomodoro/){:target=\_blank}**
+**[Clique AQUI para conhecer a técnica pomodoro!](https://dicasdeprogramacao.com.br/melhore-sua-produtividade-com-a-tecnica-pomodoro/){:target=\_blank}**
 
 Voltando ao minicurso, se não vai usar lápis e borracha e quiser utilizar um software para te ajudar a aprender programação. Sugiro que você utilize o Visualg, pois neste minicurso vamos utilizá-lo para escrever códigos em português.
 
@@ -124,7 +124,7 @@ em Windows 95 ou posterior. Para instalar o o Visualg basta baixá-lo
 através do link abaixo, extrair o executável e rodar. Pronto.
 
 **[Clique AQUI para fazer o download do
-Visualg](http://www.dicasdeprogramacao.com.br/download-visualg/){:target=\_blank}**
+Visualg](https://dicasdeprogramacao.com.br/download-visualg/){:target=\_blank}**
 
 Obs: Quem usa linux, o Visualg funciona perfeitamente no Wine. Eu mesmo
 uso o Visualg no Linux.
@@ -142,7 +142,7 @@ O professor **Antonio Carlos Nicolodi** reformulou o Visualg e lançou a
 versão 3.0 com uma interface nova e algumas melhorias. Para este
 minicurso você pode usar a versão 3.0 ou a 2.5. Como você preferir.
 
-**[Você pode baixar qualquer uma das duas versões clicando AQUI!](http://www.dicasdeprogramacao.com.br/download-visualg/){:target=\_blank}**
+**[Você pode baixar qualquer uma das duas versões clicando AQUI!](https://dicasdeprogramacao.com.br/download-visualg/){:target=\_blank}**
 
 ##Criando o seu primeiro programa!
 

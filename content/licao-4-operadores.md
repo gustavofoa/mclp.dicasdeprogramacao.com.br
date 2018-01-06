@@ -304,7 +304,7 @@ bases numéricas para aprender lógica de programação, mas se quiser
 aprender um pouco mais sobre isso, leia este post que escrevi no blog
 **{ Dicas de Programação }**:
 
-[As 10 conversões numéricas mais utilizadas na computação](http://www.dicasdeprogramacao.com.br/as-10-conversoes-numericas-mais-utilizadas-na-computacao/){:target=\blank}
+[As 10 conversões numéricas mais utilizadas na computação](https://dicasdeprogramacao.com.br/as-10-conversoes-numericas-mais-utilizadas-na-computacao/){:target=\blank}
 
 ### Operadores Relacionais
 
@@ -320,7 +320,7 @@ diferença entre linguagens de programação.
 
 Os operadores relacionais são diferente dependendo da linguagem de
 programação, mas conhecendo os símbolos mais comuns fica mais fácil aprender. No
-[VisuAlg](http://www.dicasdeprogramacao.com.br/download-visualg/), os
+[VisuAlg](https://dicasdeprogramacao.com.br/download-visualg/), os
 símbolos dos operadores relacionais são: =, &lt;&gt;, &gt;, &lt;, &gt;=,
 &lt;=. Vamos testar esses operadores no Visualg com o algoritmo abaixo que
 compara dois números com cada um dos operadores e mostra o resultado na tela.

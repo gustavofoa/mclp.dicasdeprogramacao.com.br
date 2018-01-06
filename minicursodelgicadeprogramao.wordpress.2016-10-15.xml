@@ -27,13 +27,13 @@
 
 <channel>
 	<title>Minicurso de Lógica de Programação</title>
-	<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao</link>
+	<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao</link>
 	<description>Just another WordPress site</description>
 	<pubDate>Sat, 15 Oct 2016 13:20:10 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao</wp:base_site_url>
-	<wp:base_blog_url>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao</wp:base_blog_url>
+	<wp:base_site_url>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao</wp:base_site_url>
+	<wp:base_blog_url>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao</wp:base_blog_url>
 
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[gustavo.foa]]></wp:author_login><wp:author_email><![CDATA[gustavo.foa@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[gustavo.foa]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -55,10 +55,10 @@
 
 	<item>
 		<title>gustavo-furtado</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-1-porque-aprender-programacao/gustavo-furtado/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-1-porque-aprender-programacao/gustavo-furtado/</link>
 		<pubDate>Fri, 29 May 2015 21:42:43 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/gustavo-furtado.jpg</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/gustavo-furtado.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -74,7 +74,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/gustavo-furtado.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/gustavo-furtado.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/gustavo-furtado.jpg]]></wp:meta_value>
@@ -86,10 +86,10 @@
 	</item>
 	<item>
 		<title>aprender-ingles</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-1-porque-aprender-programacao/aprender-ingles/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-1-porque-aprender-programacao/aprender-ingles/</link>
 		<pubDate>Fri, 29 May 2015 21:43:06 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/aprender-ingles.gif</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/aprender-ingles.gif</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -105,7 +105,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/aprender-ingles.gif]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/aprender-ingles.gif]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/aprender-ingles.gif]]></wp:meta_value>
@@ -117,10 +117,10 @@
 	</item>
 	<item>
 		<title>caderno-lapis-borracha</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-1-porque-aprender-programacao/caderno-lapis-borracha/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-1-porque-aprender-programacao/caderno-lapis-borracha/</link>
 		<pubDate>Fri, 29 May 2015 21:43:06 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/caderno-lapis-borracha.jpg</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/caderno-lapis-borracha.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -136,7 +136,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/caderno-lapis-borracha.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/caderno-lapis-borracha.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/caderno-lapis-borracha.jpg]]></wp:meta_value>
@@ -148,10 +148,10 @@
 	</item>
 	<item>
 		<title>codigo inglês</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-1-porque-aprender-programacao/codigo-ingles/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-1-porque-aprender-programacao/codigo-ingles/</link>
 		<pubDate>Fri, 29 May 2015 21:43:13 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/codigo-inglês.jpg</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/codigo-inglês.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -167,7 +167,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/codigo-inglês.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/codigo-inglês.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/codigo-inglês.jpg]]></wp:meta_value>
@@ -179,10 +179,10 @@
 	</item>
 	<item>
 		<title>fluxograma-lampada</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-1-porque-aprender-programacao/fluxograma-lampada/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-1-porque-aprender-programacao/fluxograma-lampada/</link>
 		<pubDate>Fri, 29 May 2015 21:43:14 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/fluxograma-lampada.gif</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/fluxograma-lampada.gif</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -198,7 +198,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/fluxograma-lampada.gif]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/fluxograma-lampada.gif]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/fluxograma-lampada.gif]]></wp:meta_value>
@@ -210,10 +210,10 @@
 	</item>
 	<item>
 		<title>Hello World</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-1-porque-aprender-programacao/hello-world/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-1-porque-aprender-programacao/hello-world/</link>
 		<pubDate>Fri, 29 May 2015 21:43:14 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/Hello-World.png</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/Hello-World.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -229,7 +229,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/Hello-World.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/Hello-World.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/Hello-World.png]]></wp:meta_value>
@@ -241,10 +241,10 @@
 	</item>
 	<item>
 		<title>imagem-criancas-programando</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-1-porque-aprender-programacao/imagem-criancas-programando/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-1-porque-aprender-programacao/imagem-criancas-programando/</link>
 		<pubDate>Fri, 29 May 2015 21:43:21 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/imagem-criancas-programando.jpg</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/imagem-criancas-programando.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -260,7 +260,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/imagem-criancas-programando.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/imagem-criancas-programando.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/imagem-criancas-programando.jpg]]></wp:meta_value>
@@ -272,10 +272,10 @@
 	</item>
 	<item>
 		<title>linguagens</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-1-porque-aprender-programacao/linguagens/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-1-porque-aprender-programacao/linguagens/</link>
 		<pubDate>Fri, 29 May 2015 21:43:22 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/linguagens.jpg</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/linguagens.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -291,7 +291,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/linguagens.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/linguagens.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/linguagens.jpg]]></wp:meta_value>
@@ -303,10 +303,10 @@
 	</item>
 	<item>
 		<title>output-hello-world</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-1-porque-aprender-programacao/output-hello-world/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-1-porque-aprender-programacao/output-hello-world/</link>
 		<pubDate>Fri, 29 May 2015 21:43:23 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/output-hello-world.png</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/output-hello-world.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -322,7 +322,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/output-hello-world.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/output-hello-world.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/output-hello-world.png]]></wp:meta_value>
@@ -334,10 +334,10 @@
 	</item>
 	<item>
 		<title>software-agricultura</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-1-porque-aprender-programacao/software-agricultura/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-1-porque-aprender-programacao/software-agricultura/</link>
 		<pubDate>Fri, 29 May 2015 21:43:25 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/software-agricultura.jpg</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/software-agricultura.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -353,7 +353,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/software-agricultura.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/software-agricultura.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/software-agricultura.jpg]]></wp:meta_value>
@@ -365,10 +365,10 @@
 	</item>
 	<item>
 		<title>visualg-pagina-inicial</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-1-porque-aprender-programacao/visualg-pagina-inicial/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-1-porque-aprender-programacao/visualg-pagina-inicial/</link>
 		<pubDate>Fri, 29 May 2015 21:43:26 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/visualg-pagina-inicial.png</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/visualg-pagina-inicial.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -384,7 +384,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/visualg-pagina-inicial.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/visualg-pagina-inicial.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/visualg-pagina-inicial.png]]></wp:meta_value>
@@ -396,10 +396,10 @@
 	</item>
 	<item>
 		<title>variável</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-3-variaveis-constantes-operadores-e-tipos-de-dados/variavel/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-3-variaveis-constantes-operadores-e-tipos-de-dados/variavel/</link>
 		<pubDate>Sat, 30 May 2015 21:09:45 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/variável.jpg</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/variável.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -415,7 +415,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/variável.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/variável.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/variável.jpg]]></wp:meta_value>
@@ -427,10 +427,10 @@
 	</item>
 	<item>
 		<title>tipos-de-dados</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-3-variaveis-constantes-operadores-e-tipos-de-dados/tipos-de-dados/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-3-variaveis-constantes-operadores-e-tipos-de-dados/tipos-de-dados/</link>
 		<pubDate>Sun, 31 May 2015 11:45:05 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/tipos-de-dados.jpg</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/tipos-de-dados.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -446,7 +446,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/tipos-de-dados.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/tipos-de-dados.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/tipos-de-dados.jpg]]></wp:meta_value>
@@ -458,10 +458,10 @@
 	</item>
 	<item>
 		<title>classe-carro</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-3-variaveis-constantes-operadores-e-tipos-de-dados/classe-carro/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-3-variaveis-constantes-operadores-e-tipos-de-dados/classe-carro/</link>
 		<pubDate>Sun, 31 May 2015 11:51:50 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/classe-carro.jpg</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/classe-carro.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -477,7 +477,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/classe-carro.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/classe-carro.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/classe-carro.jpg]]></wp:meta_value>
@@ -489,10 +489,10 @@
 	</item>
 	<item>
 		<title>operadores-aritméticos</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-3-variaveis-constantes-operadores-e-tipos-de-dados/operadores-aritmeticos/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-3-variaveis-constantes-operadores-e-tipos-de-dados/operadores-aritmeticos/</link>
 		<pubDate>Sun, 31 May 2015 12:38:14 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/operadores-aritméticos.jpg</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/operadores-aritméticos.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -508,7 +508,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/operadores-aritméticos.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/operadores-aritméticos.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/operadores-aritméticos.jpg]]></wp:meta_value>
@@ -520,10 +520,10 @@
 	</item>
 	<item>
 		<title>portas-lógicas-AND</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-4-operadores/portas-logicas-and/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-4-operadores/portas-logicas-and/</link>
 		<pubDate>Tue, 02 Jun 2015 02:24:51 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-AND.jpg</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-AND.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -539,7 +539,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-AND.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-AND.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/06/portas-lógicas-AND.jpg]]></wp:meta_value>
@@ -551,10 +551,10 @@
 	</item>
 	<item>
 		<title>portas-lógicas-OR</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-4-operadores/portas-logicas-or/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-4-operadores/portas-logicas-or/</link>
 		<pubDate>Tue, 02 Jun 2015 02:24:54 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-OR.jpg</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-OR.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -570,7 +570,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-OR.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-OR.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/06/portas-lógicas-OR.jpg]]></wp:meta_value>
@@ -582,10 +582,10 @@
 	</item>
 	<item>
 		<title>portas-lógicas-NOT</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-4-operadores/portas-logicas-not/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-4-operadores/portas-logicas-not/</link>
 		<pubDate>Tue, 02 Jun 2015 02:24:56 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-NOT.jpg</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-NOT.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -601,7 +601,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-NOT.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-NOT.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/06/portas-lógicas-NOT.jpg]]></wp:meta_value>
@@ -613,10 +613,10 @@
 	</item>
 	<item>
 		<title>portas-lógicas-NAND</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-4-operadores/portas-logicas-nand/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-4-operadores/portas-logicas-nand/</link>
 		<pubDate>Tue, 02 Jun 2015 02:24:58 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-NAND.jpg</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-NAND.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -632,7 +632,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-NAND.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-NAND.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/06/portas-lógicas-NAND.jpg]]></wp:meta_value>
@@ -644,10 +644,10 @@
 	</item>
 	<item>
 		<title>pórtas-lógicas-NOR</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-4-operadores/portas-logicas-nor/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-4-operadores/portas-logicas-nor/</link>
 		<pubDate>Tue, 02 Jun 2015 02:25:01 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/pórtas-lógicas-NOR.jpg</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/pórtas-lógicas-NOR.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -663,7 +663,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/pórtas-lógicas-NOR.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/pórtas-lógicas-NOR.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/06/pórtas-lógicas-NOR.jpg]]></wp:meta_value>
@@ -675,10 +675,10 @@
 	</item>
 	<item>
 		<title>portas-lógicas-XOR</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-4-operadores/portas-logicas-xor/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-4-operadores/portas-logicas-xor/</link>
 		<pubDate>Tue, 02 Jun 2015 02:25:05 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-XOR.jpg</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-XOR.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -694,7 +694,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-XOR.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-XOR.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/06/portas-lógicas-XOR.jpg]]></wp:meta_value>
@@ -706,10 +706,10 @@
 	</item>
 	<item>
 		<title>portas-lógicas-XNOR</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-4-operadores/portas-logicas-xnor/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-4-operadores/portas-logicas-xnor/</link>
 		<pubDate>Tue, 02 Jun 2015 02:25:07 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-XNOR.jpg</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-XNOR.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -725,7 +725,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-XNOR.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-XNOR.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/06/portas-lógicas-XNOR.jpg]]></wp:meta_value>
@@ -737,10 +737,10 @@
 	</item>
 	<item>
 		<title>resultado-bitwise</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-4-operadores/resultado-bitwise/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-4-operadores/resultado-bitwise/</link>
 		<pubDate>Tue, 02 Jun 2015 02:31:27 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/resultado-bitwise.png</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/resultado-bitwise.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -756,7 +756,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/resultado-bitwise.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/resultado-bitwise.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/06/resultado-bitwise.png]]></wp:meta_value>
@@ -768,10 +768,10 @@
 	</item>
 	<item>
 		<title>resultado-operadores-relacionais</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-4-operadores/resultado-operadores-relacionais/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-4-operadores/resultado-operadores-relacionais/</link>
 		<pubDate>Tue, 02 Jun 2015 02:57:21 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/resultado-operadores-relacionais.png</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/resultado-operadores-relacionais.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -787,7 +787,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/resultado-operadores-relacionais.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/resultado-operadores-relacionais.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/06/resultado-operadores-relacionais.png]]></wp:meta_value>
@@ -799,10 +799,10 @@
 	</item>
 	<item>
 		<title>estrutura-IF</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-5-tomando-decisoes/estrutura-if/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-5-tomando-decisoes/estrutura-if/</link>
 		<pubDate>Tue, 02 Jun 2015 15:51:21 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/estrutura-IF.png</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/estrutura-IF.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -818,7 +818,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/estrutura-IF.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/estrutura-IF.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/06/estrutura-IF.png]]></wp:meta_value>
@@ -830,10 +830,10 @@
 	</item>
 	<item>
 		<title>Sacar-dinheiro-menor-que-10001</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-5-tomando-decisoes/sacar-dinheiro-menor-que-10001/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-5-tomando-decisoes/sacar-dinheiro-menor-que-10001/</link>
 		<pubDate>Tue, 02 Jun 2015 15:59:23 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/Sacar-dinheiro-menor-que-10001.png</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/Sacar-dinheiro-menor-que-10001.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -849,7 +849,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/Sacar-dinheiro-menor-que-10001.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/Sacar-dinheiro-menor-que-10001.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/06/Sacar-dinheiro-menor-que-10001.png]]></wp:meta_value>
@@ -861,10 +861,10 @@
 	</item>
 	<item>
 		<title>Sacar-dinheiro-maior-que-1000</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-5-tomando-decisoes/sacar-dinheiro-maior-que-1000/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-5-tomando-decisoes/sacar-dinheiro-maior-que-1000/</link>
 		<pubDate>Tue, 02 Jun 2015 15:59:52 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/Sacar-dinheiro-maior-que-1000.png</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/Sacar-dinheiro-maior-que-1000.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -880,7 +880,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/Sacar-dinheiro-maior-que-1000.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/Sacar-dinheiro-maior-que-1000.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/06/Sacar-dinheiro-maior-que-1000.png]]></wp:meta_value>
@@ -892,10 +892,10 @@
 	</item>
 	<item>
 		<title>resultado algoritmo_basico</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-2-criando-os-primeiros-programas/resultado-algoritmo_basico/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-2-criando-os-primeiros-programas/resultado-algoritmo_basico/</link>
 		<pubDate>Tue, 02 Jun 2015 17:54:27 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/resultado-algoritmo_basico.png</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/resultado-algoritmo_basico.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -911,7 +911,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/resultado-algoritmo_basico.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/resultado-algoritmo_basico.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/resultado-algoritmo_basico.png]]></wp:meta_value>
@@ -923,10 +923,10 @@
 	</item>
 	<item>
 		<title>algoritmo_multiplicacao</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-2-criando-os-primeiros-programas/algoritmo_multiplicacao/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-2-criando-os-primeiros-programas/algoritmo_multiplicacao/</link>
 		<pubDate>Tue, 02 Jun 2015 19:09:45 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/algoritmo_multiplicacao.png</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/algoritmo_multiplicacao.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -942,7 +942,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/algoritmo_multiplicacao.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/algoritmo_multiplicacao.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/algoritmo_multiplicacao.png]]></wp:meta_value>
@@ -954,10 +954,10 @@
 	</item>
 	<item>
 		<title>resultado_algoritmo_multiplicacao</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-2-criando-os-primeiros-programas/resultado_algoritmo_multiplicacao/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-2-criando-os-primeiros-programas/resultado_algoritmo_multiplicacao/</link>
 		<pubDate>Tue, 02 Jun 2015 19:10:40 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/resultado_algoritmo_multiplicacao.png</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/resultado_algoritmo_multiplicacao.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -973,7 +973,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/resultado_algoritmo_multiplicacao.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/resultado_algoritmo_multiplicacao.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/resultado_algoritmo_multiplicacao.png]]></wp:meta_value>
@@ -985,10 +985,10 @@
 	</item>
 	<item>
 		<title>HUB</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-6-tomando-decisoes-entre-muitas-opcoes/hub/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-6-tomando-decisoes-entre-muitas-opcoes/hub/</link>
 		<pubDate>Tue, 30 Jun 2015 11:31:35 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/HUB.jpg</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/HUB.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1004,7 +1004,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/HUB.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/HUB.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/06/HUB.jpg]]></wp:meta_value>
@@ -1016,10 +1016,10 @@
 	</item>
 	<item>
 		<title>hub e switch</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-6-tomando-decisoes-entre-muitas-opcoes/hub-e-switch/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-6-tomando-decisoes-entre-muitas-opcoes/hub-e-switch/</link>
 		<pubDate>Tue, 30 Jun 2015 11:36:20 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/hub-e-switch.png</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/hub-e-switch.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1035,7 +1035,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/hub-e-switch.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/hub-e-switch.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/06/hub-e-switch.png]]></wp:meta_value>
@@ -1047,10 +1047,10 @@
 	</item>
 	<item>
 		<title>estrutura-ESCOLHA-CASO</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-6-tomando-decisoes-entre-muitas-opcoes/estrutura-escolha-caso/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-6-tomando-decisoes-entre-muitas-opcoes/estrutura-escolha-caso/</link>
 		<pubDate>Tue, 30 Jun 2015 12:26:15 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/estrutura-ESCOLHA-CASO.png</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/estrutura-ESCOLHA-CASO.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1066,7 +1066,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/estrutura-ESCOLHA-CASO.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/estrutura-ESCOLHA-CASO.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/06/estrutura-ESCOLHA-CASO.png]]></wp:meta_value>
@@ -1078,10 +1078,10 @@
 	</item>
 	<item>
 		<title>estrutura-ENQUATO</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-7-loops-basicos/estrutura-enquato/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-7-loops-basicos/estrutura-enquato/</link>
 		<pubDate>Tue, 01 Sep 2015 00:53:47 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/estrutura-ENQUATO.png</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/estrutura-ENQUATO.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1097,7 +1097,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/estrutura-ENQUATO.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/estrutura-ENQUATO.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/estrutura-ENQUATO.png]]></wp:meta_value>
@@ -1109,10 +1109,10 @@
 	</item>
 	<item>
 		<title>estrutura-REPITA</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-7-loops-basicos/estrutura-repita/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-7-loops-basicos/estrutura-repita/</link>
 		<pubDate>Tue, 01 Sep 2015 01:49:03 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/07/estrutura-REPITA.png</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/07/estrutura-REPITA.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1128,7 +1128,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/07/estrutura-REPITA.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/07/estrutura-REPITA.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/07/estrutura-REPITA.png]]></wp:meta_value>
@@ -1140,10 +1140,10 @@
 	</item>
 	<item>
 		<title>Resultado-algoritmo-ENQUANTO</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-7-loops-basicos/resultado-algoritmo-enquanto/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-7-loops-basicos/resultado-algoritmo-enquanto/</link>
 		<pubDate>Tue, 01 Sep 2015 02:01:05 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/07/Resultado-algoritmo-ENQUANTO.png</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/07/Resultado-algoritmo-ENQUANTO.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1159,7 +1159,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/07/Resultado-algoritmo-ENQUANTO.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/07/Resultado-algoritmo-ENQUANTO.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/07/Resultado-algoritmo-ENQUANTO.png]]></wp:meta_value>
@@ -1171,10 +1171,10 @@
 	</item>
 	<item>
 		<title>estrutura-PARA</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/aula-8-loops-pre-definidos/estrutura-para/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/aula-8-loops-pre-definidos/estrutura-para/</link>
 		<pubDate>Mon, 28 Sep 2015 19:46:58 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/estrutura-PARA.png</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/estrutura-PARA.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1190,7 +1190,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/estrutura-PARA.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/estrutura-PARA.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/estrutura-PARA.png]]></wp:meta_value>
@@ -1202,10 +1202,10 @@
 	</item>
 	<item>
 		<title>Resultado-Fatorial</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/aula-8-loops-pre-definidos/resultado-fatorial/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/aula-8-loops-pre-definidos/resultado-fatorial/</link>
 		<pubDate>Mon, 28 Sep 2015 20:03:34 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/Resultado-Fatorial.png</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/Resultado-Fatorial.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1221,7 +1221,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/Resultado-Fatorial.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/Resultado-Fatorial.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/Resultado-Fatorial.png]]></wp:meta_value>
@@ -1233,10 +1233,10 @@
 	</item>
 	<item>
 		<title>vetor-e-matriz</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/aula-9-vetores-e-matrizes-arrays/vetor-e-matriz/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/aula-9-vetores-e-matrizes-arrays/vetor-e-matriz/</link>
 		<pubDate>Mon, 28 Sep 2015 23:28:54 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/vetor-e-matriz.png</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/vetor-e-matriz.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1252,7 +1252,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/vetor-e-matriz.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/vetor-e-matriz.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/vetor-e-matriz.png]]></wp:meta_value>
@@ -1264,10 +1264,10 @@
 	</item>
 	<item>
 		<title>função</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/aula-10-funcoes-e-procedimentos/funcao/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/aula-10-funcoes-e-procedimentos/funcao/</link>
 		<pubDate>Fri, 04 Dec 2015 22:07:37 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/função.png</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/função.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1283,7 +1283,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/função.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/função.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/12/função.png]]></wp:meta_value>
@@ -1295,14 +1295,14 @@
 	</item>
 	<item>
 		<title>Aula 1/10 - Por que aprender programação?</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-1-porque-aprender-programacao/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-1-porque-aprender-programacao/</link>
 		<pubDate>Fri, 29 May 2015 21:51:50 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=6</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=6</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h1>Aula (1/10) Por que aprender programação?</h1>
 Olá nobre amigo(a)! Seja bem vindo à primeira aula do Minicurso GRÁTIS de lógica de programação do blog <b>{ Dicas de Programação }</b>.<a href="http://gustavofurtado.com.br/" target="_blank">
-<img style="float: right; margin: 5px 5px 5px 30px;" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/gustavo-furtado.jpg" alt="Gustavo Furtado" width="200px" height="200px" /></a>
+<img style="float: right; margin: 5px 5px 5px 30px;" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/gustavo-furtado.jpg" alt="Gustavo Furtado" width="200px" height="200px" /></a>
 
 Meu nome é <b>Gustavo Furtado de Oliveira Alves</b> e eu vou te ajudar a criar uma base sólida de conhecimento que te permitirá criar programas em qualquer linguagem de programação que o mercado de trabalho requisitar.
 
@@ -1325,7 +1325,7 @@ Aprender programação ajuda muito a forma como as pessoas pensam, principalment
 
 Quando uma pessoa aprende a programar, ela desenvolve uma nova forma de pensar. Todas as decisões passam a ser tomadas levando em consideração pensamentos sistêmicos e racionais que convergem para o bom-senso da razão humana. Quando programação for uma disciplina básica da educação o mundo entrará na próxima era da evolução da humanidade.
 <h3>2º Programação é a nova disciplina básica da alfabetização</h3>
-<img style="float: right; margin: 5px 5px 5px 30px;" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/imagem-criancas-programando.jpg" alt="aprender programação" width="376" height="250" />
+<img style="float: right; margin: 5px 5px 5px 30px;" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/imagem-criancas-programando.jpg" alt="aprender programação" width="376" height="250" />
 
 Muitas pessoas pensam que programação é só pra quem fica o dia inteiro na frente do computador e tem facilidade para mexer na máquina. Isso é natural, principalmente entre as pessoas mais velhas que cresceram sem o contato com a tecnologia atual.
 
@@ -1335,7 +1335,7 @@ Na verdade, da mesma forma como ler, escrever e fazer cálculos básicos, progra
 <h3>3º Os softwares estão em tudo!</h3>
 Já parou pra pensar na quantidade de coisas que estamos direta e indiretamente em contato e que são controlados por softwares? Calculadoras, computadores, celulares, smartphones, tablets, internet, TVs, micro-ondas, geladeiras, caixa eletrônicos, linhas de produção, satélites, carros, impressoras, letreiros digitais, drones, câmeras, semáforos, microcontroladores, pendrive e mais um monte de coisa que eu ficaria horas (dias?) enumerando.
 
-<img style="float: left; margin: 5px 30px 5px 5px;" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/software-agricultura.jpg" alt="software na no agronegócio" width="376" height="250" />
+<img style="float: left; margin: 5px 30px 5px 5px;" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/software-agricultura.jpg" alt="software na no agronegócio" width="376" height="250" />
 
 Hoje em dia muitas coisas a nossa volta tem uma espécie de vida própria. E tudo é controlado por ... Softwares! Dispositivos que são controlados por softwares estão por toda parte, em todos os seguimentos industriais. Agricultura, manufatura, logística, marketing, agropecuária, medicina, etc. Atividades onde você menos imagina têm software!
 
@@ -1355,7 +1355,7 @@ Eu acredito que este seja o maior predador de iniciantes em programação.
 
 Quando ingressei no ensino médio e técnico em informática na ETPC (uma escola técnica em Volta Redonda-RJ) eu só sabia o inglês que me foi ensinado no ensino fundamental de uma escola pública, ou seja, quase nada. Importante ressaltar que não desmereço em momento algum os professores de escola pública, são guerreiros, mas todos sabemos como é o sistema público brasileiro de educação. Não é mesmo?
 
-<img style="float: right; margin: 5px 5px 5px 30px;" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/aprender-ingles.gif" alt="preciso aprender inglês?" width="376" height="250" />
+<img style="float: right; margin: 5px 5px 5px 30px;" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/aprender-ingles.gif" alt="preciso aprender inglês?" width="376" height="250" />
 
 Lembro das minhas primeiras aulas de programação, como era difícil entender o significado dos comandos que o professor ensinava em sala de aula, juro que sentia dificuldade para decorar palavras básicas em inglês como IF, THEN, ELSE, WHILE, FOR, REPEAT, UNTIL, BEGIN, etc. Bom, acho que deu para perceber que eu não sabia nada mesmo de inglês. Ah! Não tenho um pingo de vergonha disso! Foi só um obstaculo-zinho que estava no meu caminho. Mas já ultrapassado. E se você não sabe inglês, não tenha medo! Basta querer e se esforçar.
 
@@ -1369,7 +1369,7 @@ Mas não se preocupe, você pode aprender inglês junto com programação. Porta
 
 Eu escrevi um post sobre isso no blog <strong>{ Dicas de Programação }</strong>. Dê uma olhada depois.
 
-<strong><a href="http://www.dicasdeprogramacao.com.br/quer-ser-programador-aprenda-ingles/" target="_blank">Quer ser programador? Aprenda inglês!</a></strong>
+<strong><a href="https://dicasdeprogramacao.com.br/quer-ser-programador-aprenda-ingles/" target="_blank">Quer ser programador? Aprenda inglês!</a></strong>
 <h2>Com qual linguagem começar</h2>
 A pergunta que é feita por todo mundo que está aprendendo a programar é: Que linguagem de programação devo aprender? A resposta é óbvia: <b>Uma linguagem de programação para iniciantes!</b>
 
@@ -1379,7 +1379,7 @@ Uma dica interessante é: não seja fanático por uma linguagem específica! Mui
 
 Mas isso não é bom! <b>Para cada projeto, cada trabalho, uma linguagem é mais indicada ou não.</b> Você deve decidir qual usar não com base no seu gosto pessoal, mas nas vantagens que a linguagem oferece para o software que você pretende desenvolver.
 
-<img style="float: right; margin: 5px 5px 5px 30px;" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/linguagens.jpg" alt="Qual linguagem escolher?" width="376" height="250" />
+<img style="float: right; margin: 5px 5px 5px 30px;" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/linguagens.jpg" alt="Qual linguagem escolher?" width="376" height="250" />
 
 Se você é iniciante e não sabe nada de programação, procure uma linguagem de programação que te ajude a aprender lógica de programação.
 
@@ -1456,10 +1456,10 @@ Gustavo]]></content:encoded>
 	</item>
 	<item>
 		<title>Aula 2/10 - Criando os seus primeiros programinhas.</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-2-criando-os-primeiros-programas/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-2-criando-os-primeiros-programas/</link>
 		<pubDate>Sat, 30 May 2015 00:03:47 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=38</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=38</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h1>Aula(2/10) Criando os seus primeiros programinhas.</h1>
 Olá amigo(a)! Esta é a nossa segunda aula do Minicurso GRÁTIS de lógica de programação do blog <b>{ Dicas de Programação }</b>.
@@ -1476,7 +1476,7 @@ Bom, vamos à segunda aula deste mini-curso. Nesta aula você vai aprender:
 <h2>O que é um Algoritmo?</h2>
 O primeiro passo para se aprender a programar não envolve computador, envolve educar a sua mente a explicar em detalhes os passos necessários para executar uma tarefa.
 
-<img style="float: right; margin: 5px 5px 5px 30px;" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/fluxograma-lampada.gif" alt="Ferramenta para aprender programação" />
+<img style="float: right; margin: 5px 5px 5px 30px;" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/fluxograma-lampada.gif" alt="Ferramenta para aprender programação" />
 
 Você deve aprender a modelar um roteiro que explica quando tomar decisões e quando realizar determinadas tarefas, esse roteiro é chamado de "algoritmo".
 
@@ -1509,7 +1509,7 @@ Talvez este algoritmo possa ser um pouco complicado para você entender agora, s
 <h2>A melhor ferramenta para aprender lógica de programação</h2>
 Sabe qual a melhor ferramenta de estudos para aprender lógica de programação?
 
-<img style="float: right; margin: 5px 5px 5px 30px;" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/caderno-lapis-borracha.jpg" alt="Ferramenta para aprender programação" width="376" height="250" />
+<img style="float: right; margin: 5px 5px 5px 30px;" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/caderno-lapis-borracha.jpg" alt="Ferramenta para aprender programação" width="376" height="250" />
 
 <b>Caderno, lápis e borracha!</b> Sim, essa é a melhor ferramenta para aprender lógica de programação!
 
@@ -1521,7 +1521,7 @@ Uma técnica que gosto muito para me ajudar na concentração e ter mais produti
 
 Não é o foco deste minicurso, mas eu escrevi um artigo sobre essa técnica. Se quiser saber mais clique no link abaixo e leia <strong>depois desta aula</strong>:
 
-<b><a href="http://www.dicasdeprogramacao.com.br/melhore-sua-produtividade-com-a-tecnica-pomodoro/" target="_blank">Clique AQUI para conhecer a técnica pomodoro!</a></b>
+<b><a href="https://dicasdeprogramacao.com.br/melhore-sua-produtividade-com-a-tecnica-pomodoro/" target="_blank">Clique AQUI para conhecer a técnica pomodoro!</a></b>
 
 Voltando ao curso, se não vai usar lápis e borracha e quiser utilizar um software para te ajudar a aprender programação. Neste minicurso vamos utilizar o Visualg para escrever códigos em português.
 
@@ -1531,11 +1531,11 @@ O Visualg foi criado por um brasileiro (Claudio Morgado de Souza), é fácil de 
 <h3>Instalando o Visualg no seu computador</h3>
 A instalação do VisuAlg é muito simples e o software pode ser instalado em Windows 95 ou posterior. Para instalar o o Visualg basta baixá-lo através do link abaixo, extrair o executável e rodar. Pronto.
 
-<b><a href="http://www.dicasdeprogramacao.com.br/download-visualg/" target="_blank">Clique AQUI para fazer o download do Visualg</a></b>
+<b><a href="https://dicasdeprogramacao.com.br/download-visualg/" target="_blank">Clique AQUI para fazer o download do Visualg</a></b>
 
 Obs: Quem usa linux, o Visualg funciona perfeitamente no Wine. Eu mesmo uso o Visualg no Linux.
 
-<img style="margin: 5px 5px 5px 5px; width: 100%;" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/visualg-pagina-inicial.png" alt="Visualg" />
+<img style="margin: 5px 5px 5px 5px; width: 100%;" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/visualg-pagina-inicial.png" alt="Visualg" />
 
 A tela do VisuAlg compõe-se da barra de menu, barra de tarefas, barra de ferramentas, do editor de textos (que toma toda a sua metade superior), do quadro de variáveis (no lado esquerdo da metade inferior), do simulador de saída (no correspondente lado direito) e da barra de status. O programa já inicia com o "esqueleto" de um algoritmo. Como você pode ver na figura acima.
 
@@ -1543,7 +1543,7 @@ O professor <strong>Antonio Carlos Nicolodi</strong> reformulou o Visualg e la
 <h2>Criando o seu primeiro programa!</h2>
 Agora que você já tem o Visualg, é hora de criar o seu primeiro programa. O famoso "Hello World". Abra o visualg e escreva o algoritmo abaixo:
 
-<img style="margin: 5px 5px 5px 5px; width: 100%;" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/Hello-World.png" alt="Hello World Visualg" />
+<img style="margin: 5px 5px 5px 5px; width: 100%;" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/Hello-World.png" alt="Hello World Visualg" />
 
 Vamos entender esse primeiro programa que você criou.
 
@@ -1571,11 +1571,11 @@ Note que nós juntamos ao texto <b>Seja bem vindo</b> o valor da variável nome.
 
 Veja na imagem abaixo como acontece a execução do programa que acabamos de criar.
 
-<img src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/resultado-algoritmo_basico.png" alt="resultado algoritmo básico" />
+<img src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/resultado-algoritmo_basico.png" alt="resultado algoritmo básico" />
 <h2>Entendendo o algoritmo da multiplicação</h2>
 Agora que você criou o seu primeiro programa, vamos tentar entender aquele algoritmo da Multiplicação que eu falei no começo da aula de hoje. Antes vamos implementá-lo no Visualg.
 
-<img src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/algoritmo_multiplicacao.png" alt="algoritmo de multiplicação" />
+<img src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/algoritmo_multiplicacao.png" alt="algoritmo de multiplicação" />
 
 Para entender o algoritmo, é importante definir algumas coisas:
 
@@ -1590,7 +1590,7 @@ Para entender o algoritmo, é importante definir algumas coisas:
 
 Vamos ver qual seria o resultado da execução deste algoritmo?
 
-<img src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/resultado_algoritmo_multiplicacao.png" alt="resultado do algoritmo de multiplicação" />
+<img src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/resultado_algoritmo_multiplicacao.png" alt="resultado do algoritmo de multiplicação" />
 
 Este algoritmo eu não vou explicar aqui. Preferi dar as informações que você precisava para entender. Você precisa se esforçar um pouco pra entender o algoritmo.
 
@@ -1637,12 +1637,12 @@ Nos vemos na próxima aula!]]></content:encoded>
 	</item>
 	<item>
 		<title>Verifique seu e-mail</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/verifique-seu-e-mail/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/verifique-seu-e-mail/</link>
 		<pubDate>Sat, 30 May 2015 14:56:38 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=43</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=43</guid>
 		<description></description>
-		<content:encoded><![CDATA[<p style="text-align: center;"><img class="alignnone" src="http://www.dicasdeprogramacao.com.br/wp-content/uploads/2013/03/Logo2.png" alt="" width="390" height="83" /></p>
+		<content:encoded><![CDATA[<p style="text-align: center;"><img class="alignnone" src="https://dicasdeprogramacao.com.br/wp-content/uploads/2013/03/Logo2.png" alt="" width="390" height="83" /></p>
 
 <h1 style="text-align: center; font-size: 50px;">Espere Um Minuto ...</h1>
 <h2 style="text-align: center;">Você precisa confirmar o seu e-mail.</h2>
@@ -1689,12 +1689,12 @@ Nos vemos na próxima aula!]]></content:encoded>
 	</item>
 	<item>
 		<title>Assinatura confirmada</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/assinatura-confirmada/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/assinatura-confirmada/</link>
 		<pubDate>Sat, 30 May 2015 16:50:18 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=57</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=57</guid>
 		<description></description>
-		<content:encoded><![CDATA[<center><img class="aligncenter" src="http://www.dicasdeprogramacao.com.br/wp-content/uploads/2013/03/Logo2.png" alt="" width="390" height="83" /></center>
+		<content:encoded><![CDATA[<center><img class="aligncenter" src="https://dicasdeprogramacao.com.br/wp-content/uploads/2013/03/Logo2.png" alt="" width="390" height="83" /></center>
 <h1 class="entry-title" style="font-size: 50px; text-align: center;">ASSINATURA CONFIRMADA!</h1>
 <p style="text-align: center;">Sua assinatura foi confirmada! É uma honra ter você participando do minicurso de lógica de programação.</p>
 
@@ -1702,7 +1702,7 @@ Nos vemos na próxima aula!]]></content:encoded>
 <h2 style="text-align: center;">Aqui estão os próximos passos:</h2>
 <h3 style="text-align: center; padding-top:40px;">Passo 1: Acesse a 1ª lição do minicurso 100% grátis</h3>
 <p style="text-align: center;">Basta clicar no botão abaixo para acessar a lição 1 do minicurso de lógica de programação.</p>
-<p style="text-align: center;font-size:20px;"><strong><a class="btn btn-success navbar-btn" href="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-1-porque-aprender-programacao/" target="_blank">Lição 1/10 - Por que aprender programação?</a></strong></p>
+<p style="text-align: center;font-size:20px;"><strong><a class="btn btn-success navbar-btn" href="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-1-porque-aprender-programacao/" target="_blank">Lição 1/10 - Por que aprender programação?</a></strong></p>
 
 <h3 style="text-align: center; padding-top:40px;">Passo 2: Compartilhe este curso 100% grátis com seus amigos</h3>
 <p style="text-align: center;">Basta clicar nos botões abaixo para compartilhar o curso 100% grátis com seus amigos.</p>
@@ -1710,9 +1710,9 @@ Nos vemos na próxima aula!]]></content:encoded>
 <center>
 <table style="text-align:center;"><tr style="border: 30px solid white;">
 <td style="border: 30px solid white;"><a class="btn btn-twitter btn-block" href="http://ctt.ec/4Rq9f" target="_blank"><i class="fa fa-twitter"></i> | Divulge no Twitter!</a></td>
-<td style="border: 30px solid white;"><a class="btn btn-facebook btn-block" href="http://www.facebook.com/sharer.php?u=http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/" target="_blank"><i class="fa fa-facebook"></i> | Compartilhe no Facebook!</a></td></tr><tr>
-<td style="border: 30px solid white;"><a class="btn btn-google-plus btn-block" href="https://plus.google.com/share?url=http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/" target="_blank"><i class="fa fa-google-plus"></i> | Compartilhe no Google+!</a></td>
-<td style="border: 30px solid white;"><a class="btn btn-linkedin btn-block" href="https://www.linkedin.com/cws/share?url=http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/" target="_blank"><i class="fa fa-linkedin"></i> | Compartilhe no LinkedIn!</a></td>
+<td style="border: 30px solid white;"><a class="btn btn-facebook btn-block" href="http://www.facebook.com/sharer.php?u=https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/" target="_blank"><i class="fa fa-facebook"></i> | Compartilhe no Facebook!</a></td></tr><tr>
+<td style="border: 30px solid white;"><a class="btn btn-google-plus btn-block" href="https://plus.google.com/share?url=https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/" target="_blank"><i class="fa fa-google-plus"></i> | Compartilhe no Google+!</a></td>
+<td style="border: 30px solid white;"><a class="btn btn-linkedin btn-block" href="https://www.linkedin.com/cws/share?url=https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/" target="_blank"><i class="fa fa-linkedin"></i> | Compartilhe no LinkedIn!</a></td>
 </tr>
 </table>
 </center>
@@ -1764,10 +1764,10 @@ Nos vemos na próxima aula!]]></content:encoded>
 	</item>
 	<item>
 		<title>Aula 3/10 - Variáveis, constantes e tipos de dados</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-3-variaveis-constantes-operadores-e-tipos-de-dados/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-3-variaveis-constantes-operadores-e-tipos-de-dados/</link>
 		<pubDate>Sat, 30 May 2015 20:51:21 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=135</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=135</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h1>Aula (3/10) Variáveis, constantes e tipos de dados</h1>
 Quando começamos a nos aventurar neste mundo da programação, cometemos muitos erros básicos que podem ser evitados se aprendermos alguns conceitos básicos.
@@ -1781,9 +1781,9 @@ Entender esses assuntos é muito importante para você mergulhar de cabeça no f
 
 <span style="text-decoration: underline;">Leitura de aproximadamente 10 minutos</span>
 <h2>O que são variáveis e constantes?</h2>
-Programas de computador utilizam os recursos de hardware mais básicos para executar <a title="O que é Algoritmo?" href="http://www.dicasdeprogramacao.com.br/o-que-e-algoritmo/" target="_blank">algoritmos</a>. Enquanto o processador executa os cálculos, a memória é responsável por armazenar dados e servi-los ao processador.
+Programas de computador utilizam os recursos de hardware mais básicos para executar <a title="O que é Algoritmo?" href="https://dicasdeprogramacao.com.br/o-que-e-algoritmo/" target="_blank">algoritmos</a>. Enquanto o processador executa os cálculos, a memória é responsável por armazenar dados e servi-los ao processador.
 
-<img style="float: right; margin: 5px 5px 5px 30px;" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/variável.jpg" alt="variável" width="249" height="202" />O recurso que nós utilizamos em nossos programas para escrever e ler dados da memória do computador é conhecido como <strong>variável</strong>, que é simplesmente <strong>um espaço na memória o qual reservamos e damos um nome</strong>. Por exemplo, podemos criar uma variável chamada “idade” para armazenar a idade de uma pessoa.
+<img style="float: right; margin: 5px 5px 5px 30px;" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/variável.jpg" alt="variável" width="249" height="202" />O recurso que nós utilizamos em nossos programas para escrever e ler dados da memória do computador é conhecido como <strong>variável</strong>, que é simplesmente <strong>um espaço na memória o qual reservamos e damos um nome</strong>. Por exemplo, podemos criar uma variável chamada “idade” para armazenar a idade de uma pessoa.
 
 Você pode imaginar uma variável como uma gaveta “etiquetada” em um armário.
 
@@ -1803,7 +1803,7 @@ Neste algoritmo, declaramos uma variável chamada <em>nome</em> do tipo “Texto
 
 Percebeu como o valor da variável <em>nome</em> pode ser alterado com o tempo?
 <h2>Tipos de dados</h2>
-Para otimizar a utilização da memória, nós definimos um tipo de dados para cada variável. <img style="float: left; margin: 5px 30px 5px 5px;" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/tipos-de-dados.jpg" alt="tipos-de-dados" width="229" height="220" />Por exemplo, a variável <em>nome</em>, deve armazenar textos, já a variável <em>idade</em> deve armazenar apenas números inteiros (sem casa decimal), na variável <em>sexo</em> podemos armazenar apenas um caractere (“M” ou “F”). Seria correto armazenarmos o valor “M” na variável <em>idade</em>? Não né? Por isso devemos especificar em nossos algoritmos o tipo de cada variável.
+Para otimizar a utilização da memória, nós definimos um tipo de dados para cada variável. <img style="float: left; margin: 5px 30px 5px 5px;" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/tipos-de-dados.jpg" alt="tipos-de-dados" width="229" height="220" />Por exemplo, a variável <em>nome</em>, deve armazenar textos, já a variável <em>idade</em> deve armazenar apenas números inteiros (sem casa decimal), na variável <em>sexo</em> podemos armazenar apenas um caractere (“M” ou “F”). Seria correto armazenarmos o valor “M” na variável <em>idade</em>? Não né? Por isso devemos especificar em nossos algoritmos o tipo de cada variável.
 
 Podemos classificar os tipos de dados em basicamente duas categorias, os tipos de dados primitivos e os tipos de dados customizados.
 <h3>Tipos de dados primitivos</h3>
@@ -1825,7 +1825,7 @@ Mas essa divisão é uma particularidade da linguagem de programação. O objeti
 <h3>Tipos de dados customizados</h3>
 A partir dos tipos de dados primitivos podemos criar outros tipos de dados utilizando uma combinação de variáveis. São estruturas de dados, classes, vetores, matrizes, etc.
 
-<img style="float: right; margin: 5px 5px 5px 30px;" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/classe-carro.jpg" alt="classe-carro" width="221" height="228" />Por exemplo, uma classe chamada <em>Carro</em> é um tipo de dados que agrupa outras variáveis básicas como <strong>marca</strong>, <strong>cor</strong>, <strong>ano</strong>, <strong>modelo</strong>, etc. Um <em>vetor</em> é um agrupamento de variáveis do mesmo tipo, uma <em>matriz</em> é um agrupamento de vetores. Enfim, a base de todos os tipos de dados são os tipos de dados primitivos, independente da linguagem de programação.
+<img style="float: right; margin: 5px 5px 5px 30px;" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/classe-carro.jpg" alt="classe-carro" width="221" height="228" />Por exemplo, uma classe chamada <em>Carro</em> é um tipo de dados que agrupa outras variáveis básicas como <strong>marca</strong>, <strong>cor</strong>, <strong>ano</strong>, <strong>modelo</strong>, etc. Um <em>vetor</em> é um agrupamento de variáveis do mesmo tipo, uma <em>matriz</em> é um agrupamento de vetores. Enfim, a base de todos os tipos de dados são os tipos de dados primitivos, independente da linguagem de programação.
 
 Claro, em <strong>Programação Orientada a Objetos</strong> há todo um conceito para a criação de <em>classes</em> que, além de <em>atributos</em> também tem <em>operações</em>, o estudo de <em>estruturas de dados</em> também vai muito além de apenas formar tipos de dados a partir de outros. Mas não se preocupe com isso por agora. Apenas entenda que são tipos de dados formatos a partir de outros tipos de dados.
 
@@ -1863,7 +1863,7 @@ inicio
 fimalgoritmo</pre>
 Apresento abaixo o resultado da execução deste algoritmo.
 
-<img class="aligncenter size-full wp-image-460" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/resultado-media.png" alt="resultado media" width="681" height="462" />
+<img class="aligncenter size-full wp-image-460" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/resultado-media.png" alt="resultado media" width="681" height="462" />
 <h2>Continuando o minicurso</h2>
 Na próxima aula você vai aprender sobre os três tipos de operadores que são utilizados em programação. Ok?
 
@@ -1898,10 +1898,10 @@ Até a próxima aula!]]></content:encoded>
 	</item>
 	<item>
 		<title>Aula 4/10 - Operadores</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-4-operadores/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-4-operadores/</link>
 		<pubDate>Tue, 02 Jun 2015 00:48:33 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=192</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=192</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h1>Aula (4/10) Operadores</h1>
 Evidentemente você já resolveu alguma expressão matemática na escola. Lembra quando o professor pedia pra gente resolver aquelas expressões enormes? Cheia de números e <em>operadores</em> de somar, subtrair, multiplicar, etc. Sem falar das raízes e exponenciais. Sei que muita gente vai ter um arrepio só de lembra disso. rs
@@ -1916,7 +1916,7 @@ Vamos ver um pouquinho sobre cada tipo de operadores.
 
 <span style="text-decoration: underline;">Leitura de aproximadamente 25 minutos</span>
 <h3>Operadores Aritméticos</h3>
-<img style="float: right; margin: 5px 5px 5px 30px;" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/operadores-aritméticos-300x169.jpg" alt="operadores-aritméticos" width="300" height="169" />Esses são os mais fáceis! Aprendemos na escola fundamental. Em programação, esses operadores são tão simples quanto você aprendeu na escola. Apenas alguns que você pode não conhecer.
+<img style="float: right; margin: 5px 5px 5px 30px;" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/operadores-aritméticos-300x169.jpg" alt="operadores-aritméticos" width="300" height="169" />Esses são os mais fáceis! Aprendemos na escola fundamental. Em programação, esses operadores são tão simples quanto você aprendeu na escola. Apenas alguns que você pode não conhecer.
 
 Além dos mais simples (soma "+", subtração "-", multiplicação "*" e divisão "/"), dois outros operadores aritméticos não recebem muita atenção e pode ser que você não os conheça, eles são o <strong>div</strong> e o <strong>mod</strong>, que resultam, respectivamente, o quociente (a parte inteira do resultado da divisão) e o resto da divisão. Observe as operações abaixo:
 <blockquote>14 / 4 = 3,5
@@ -1949,7 +1949,7 @@ A ideia dos operadores continua é a mesma: <strong>Relacionar valores para resu
 
 Vamos conhecer os operadores lógicos ... Enquanto os operadores aritméticos (que você conhece muito bem) são +, -, *, /, mod e div, os operadores lógicos são: E, OU, NÃO, NÃO-E, NÃO-OU, OU-EXCLUSIVO e NÃO-OU-EXCLUSIVO. Não é difícil, basta você acostumar (praticando) com esses operadores. Vamos ver como funciona cada um desses ...
 <h4>Operador E(AND)</h4>
-<img style="float: right; margin: 5px 5px 5px 30px;" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-AND.jpg" alt="portas-lógicas-AND" width="233" height="117" />
+<img style="float: right; margin: 5px 5px 5px 30px;" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-AND.jpg" alt="portas-lógicas-AND" width="233" height="117" />
 O Operador “E” ou “AND” resulta em um valor VERDADEIRO se os dois valores de entrada da operação forem VERDADEIROS, caso contrário o resultado é FALSO. Abaixo a <strong>tabela-verdade</strong> da operação E.
 <table class="table">
 <tbody>
@@ -1981,7 +1981,7 @@ O Operador “E” ou “AND” resulta em um valor VERDADEIRO se os dois valore
 </tbody>
 </table>
 <h4>Operador OU(OR)</h4>
-<img style="float: right; margin: 5px 5px 5px 30px;" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-OR.jpg" alt="portas-lógicas-AND" width="233" height="117" />
+<img style="float: right; margin: 5px 5px 5px 30px;" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-OR.jpg" alt="portas-lógicas-AND" width="233" height="117" />
 O Operador “OU” ou “OR” resulta em um valor VERDADEIRO se ao menos UM dos dois valores de entrada da operação for VERDADEIRO, caso contrário o resultado é FALSO. Abaixo a <strong>tabela-verdade</strong> da operação OU.
 <table class="table">
 <tbody>
@@ -2013,7 +2013,7 @@ O Operador “OU” ou “OR” resulta em um valor VERDADEIRO se ao menos UM do
 </tbody>
 </table>
 <h4>Operador NÃO(NOT)</h4>
-<img style="float: right; margin: 5px 5px 5px 30px;" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-NOT.jpg" alt="portas-lógicas-AND" width="233" height="117" />
+<img style="float: right; margin: 5px 5px 5px 30px;" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-NOT.jpg" alt="portas-lógicas-AND" width="233" height="117" />
 O Operador “NÃO” ou “NOT” é o único operador que recebe como entrada apenas um valor, e sua função é simplesmente inverter os valores. Ou seja, se o valor de entrada for VERDADEIRO, o resultado será FALSO e se o valor de entrada for FALSO, o resultado será VERDADEIRO. Abaixo a <strong>tabela-verdade</strong> da operação NÃO.
 <table class="table">
 <tbody>
@@ -2032,7 +2032,7 @@ O Operador “NÃO” ou “NOT” é o único operador que recebe como entrada 
 </tbody>
 </table>
 <h4>Operador NÃO-E(NAND)</h4>
-<img style="float: right; margin: 5px 5px 5px 30px;" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-NAND.jpg" alt="portas-lógicas-AND" width="233" height="117" />
+<img style="float: right; margin: 5px 5px 5px 30px;" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-NAND.jpg" alt="portas-lógicas-AND" width="233" height="117" />
 O Operador “NÃO-E” ou “NAND” é o contrário do operador E (AND), ou seja, resulta em VERDADEIRO, se ao menos um dos dois valores for FALSO, na verdade este é o operador E (AND) seguido do operador NÃO (NOT). Abaixo a <strong>tabela-verdade</strong> da operação NÃO-E.
 <table class="table">
 <tbody>
@@ -2064,7 +2064,7 @@ O Operador “NÃO-E” ou “NAND” é o contrário do operador E (AND), ou se
 </tbody>
 </table>
 <h4>Operador NÃO-OU(NOR)</h4>
-<img style="float: right; margin: 5px 5px 5px 30px;" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/pórtas-lógicas-NOR.jpg" alt="portas-lógicas-AND" width="233" height="117" />
+<img style="float: right; margin: 5px 5px 5px 30px;" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/pórtas-lógicas-NOR.jpg" alt="portas-lógicas-AND" width="233" height="117" />
 O Operador “NÃO-OU” ou “NOR” é o contrário do operador OU (OR), ou seja, resulta em VERDADEIRO, se os dois valores forem FALSO, na verdade este é o operador OU (OR) seguido do operador NÃO (NOT). Abaixo a <strong>tabela-verdade</strong> da operação NÃO-OU.
 <table class="table">
 <tbody>
@@ -2096,7 +2096,7 @@ O Operador “NÃO-OU” ou “NOR” é o contrário do operador OU (OR), ou se
 </tbody>
 </table>
 <h4>Operador OU-EXCLUSIVO(XOR)</h4>
-<img style="float: right; margin: 5px 5px 5px 30px;" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-XOR.jpg" alt="portas-lógicas-AND" width="233" height="117" />
+<img style="float: right; margin: 5px 5px 5px 30px;" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-XOR.jpg" alt="portas-lógicas-AND" width="233" height="117" />
 O Operador “OU-EXCLUSIVO” ou “XOR” é uma variação interessante do operador OU (OR), ele resulta em VERDADEIRO se apenas um dos valores de entrada for VERDADEIRO, ou seja, apenas se os valores de entrada forem DIFERENTES. Abaixo a <strong>tabela-verdade</strong> da operação OU-EXCLUSIVO.
 <table class="table">
 <tbody>
@@ -2128,7 +2128,7 @@ O Operador “OU-EXCLUSIVO” ou “XOR” é uma variação interessante do ope
 </tbody>
 </table>
 <h4>Operador NÃO-OU-EXCLUSIVO(XNOR)</h4>
-<img style="float: right; margin: 5px 5px 5px 30px;" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-XNOR.jpg" alt="portas-lógicas-AND" width="233" height="117" />
+<img style="float: right; margin: 5px 5px 5px 30px;" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/portas-lógicas-XNOR.jpg" alt="portas-lógicas-AND" width="233" height="117" />
 O Operador “NÃO-OU-EXCLUSIVO” ou “XNOR” é o contrário do operador OU-EXCLUSIVO (XOR), ou seja, resulta VERDADEIRO se os valores de entrada forem IGUAIS. Observe a tabela abaixo:
 <table class="table">
 <tbody>
@@ -2176,7 +2176,7 @@ Algumas linguagens oferecem operadores lógicos para o nível de bit (também ch
 }</pre>
 Abaixo o resultado deste programa.
 
-<img src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/resultado-bitwise.png" alt="resultado-bitwise" />
+<img src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/resultado-bitwise.png" alt="resultado-bitwise" />
 
 Essas operações lógicas são realizadas com os bits dos números de entrada. Assim:
 <blockquote>Convertemos o número 10 e o número 7 para binário:
@@ -2205,13 +2205,13 @@ Logo,
 10 | 7 = 1111 = 15</blockquote>
 Não é o foco aqui deste minicurso, essa parte das operações em nível de bit foi só para curiosidade. Você não precisa saber fazer conversões de bases numéricas para aprender lógica de programação, mas se quiser aprender um pouco mais sobre isso, leia este post que escrevi no blog <strong>{ Dicas de Programação }</strong>:
 
-<a href="http://www.dicasdeprogramacao.com.br/as-10-conversoes-numericas-mais-utilizadas-na-computacao/" target="_blank">As 10 conversões numéricas mais utilizadas na computação</a>
+<a href="https://dicasdeprogramacao.com.br/as-10-conversoes-numericas-mais-utilizadas-na-computacao/" target="_blank">As 10 conversões numéricas mais utilizadas na computação</a>
 <h3>Operadores Relacionais</h3>
 Operadores relacionais são utilizados para comparar valores, o resultado de uma expressão relacional é um valor booleano (VERDADEIRO ou FALSO). Os operadores relacionais são: <strong>igual</strong>, <strong>diferente</strong>, <strong>maior</strong>, <strong>menor</strong>, <strong>maior ou igual</strong>, <strong>menor ou igual</strong>.
 
 Não é necessário explicar cada um, pois eles são auto-explicativos. Mas para quem é iniciante em desenvolvimento de softwares algumas informações podem ser importantes, principalmente pelo fato de haver diferença entre linguagens de programação.
 
-Os operadores relacionais são diferente dependendo da linguagem de programação, mas conhecendo os símbolos mais comuns, a maioria da linguagens de programação fica mais fácil aprender. No <a href="http://www.dicasdeprogramacao.com.br/download-visualg/" target="_blank">VisuAlg</a>, os símbolos dos operadores relacionais são: =, &lt;&gt;, &gt;, &lt;, &gt;=, &lt;=. Vamos testar esses operadores no Visualg com o algoritmo abaixo.
+Os operadores relacionais são diferente dependendo da linguagem de programação, mas conhecendo os símbolos mais comuns, a maioria da linguagens de programação fica mais fácil aprender. No <a href="https://dicasdeprogramacao.com.br/download-visualg/" target="_blank">VisuAlg</a>, os símbolos dos operadores relacionais são: =, &lt;&gt;, &gt;, &lt;, &gt;=, &lt;=. Vamos testar esses operadores no Visualg com o algoritmo abaixo.
 <pre class="toolbar-overlay:false lang:default decode:true highlight:0">algoritmo "TesteOperadoresRelacionais"
 var
   numero1 : INTEIRO
@@ -2267,7 +2267,7 @@ inicio
 fimalgoritmo</pre>
 A intenção deste algoritmo é mostrar o funcionamento dos operadores relacionais com 3 possibilidades de valores: um número menor que o outro, dois números iguais e um número maior que outro. Abaixo o resultado da execução.
 
-<img class="aligncenter size-full wp-image-220" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/resultado-operadores-relacionais.png" alt="resultado-operadores-relacionais" width="681" height="333" />
+<img class="aligncenter size-full wp-image-220" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/resultado-operadores-relacionais.png" alt="resultado-operadores-relacionais" width="681" height="333" />
 <h4>Operadores lógicos em programação</h4>
 Em todas as linguagens de programação existem símbolos para executarmos essas operações. As operações maior, menor, maior ou igual e menor ou igual na maioria das linguagens de programação são os mesmos símbolos (até hoje não encontrei uma linguagem que tenha símbolo diferente para estes operadores): &gt; (maior), &lt; (menor), &gt;= (maior ou igual) e &lt;=(menor ou igual).
 
@@ -2310,10 +2310,10 @@ Até a próxima aula!]]></content:encoded>
 	</item>
 	<item>
 		<title>Aula 5/10 - Tomando decisões!</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-5-tomando-decisoes/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-5-tomando-decisoes/</link>
 		<pubDate>Tue, 02 Jun 2015 15:42:59 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=228</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=228</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h1>Aula (5/10) Tomando decisões!</h1>
 Olá nobre amigo(a)! Hoje vamos colocar a mão na massa e aprender a forma mais básica de controlar o fluxo de um algoritmo.
@@ -2334,9 +2334,9 @@ FIM-SE
 </pre>
 O bloco de código SENÃO é opcional. É comum encontrar instruções de decisão apenas com SE-ENTÃO sem o bloco SENÃO. Veja um esquema gráfico desta estrutura de decisão.
 
-<center><img class="aligncenter size-full wp-image-240" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/estrutura-IF.png" alt="estrutura-IF" width="580" height="515" /></center>
+<center><img class="aligncenter size-full wp-image-240" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/estrutura-IF.png" alt="estrutura-IF" width="580" height="515" /></center>
 <h2>SE-ENTÃO-SENÃO na prática!</h2>
-Vejamos um exemplo de utilização desta estrutura com um algoritmo, para isso vamos utilizar o <a href="http://www.dicasdeprogramacao.com.br/download-visualg/" target="_blank">VisuAlg</a>.
+Vejamos um exemplo de utilização desta estrutura com um algoritmo, para isso vamos utilizar o <a href="https://dicasdeprogramacao.com.br/download-visualg/" target="_blank">VisuAlg</a>.
 
 Neste algoritmo, vamos simular um caixa eletrônico quando vamos sacar dinheiro. O caixa eletrônico verifica se o valor que desejamos sacar é menor que o saldo disponível. Assumiremos que há R$ 1000 de saldo disponível para o saque.
 <pre class="toolbar-overlay:false lang:default decode:true highlight:0">algoritmo "SacarDinheiro"
@@ -2361,9 +2361,9 @@ fimalgoritmo
 </pre>
 Abaixo a execução do algoritmo acima quando informamos valores menores que 1000.
 
-<center><img class="aligncenter size-full wp-image-247" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/Sacar-dinheiro-menor-que-10001.png" alt="Sacar-dinheiro-menor-que-10001" width="681" height="199" /></center>Agora a execução do mesmo algoritmo, porém inserindo um valor maior que 1000 para saque.
+<center><img class="aligncenter size-full wp-image-247" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/Sacar-dinheiro-menor-que-10001.png" alt="Sacar-dinheiro-menor-que-10001" width="681" height="199" /></center>Agora a execução do mesmo algoritmo, porém inserindo um valor maior que 1000 para saque.
 
-<center><img class="aligncenter size-full wp-image-248" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/Sacar-dinheiro-maior-que-1000.png" alt="Sacar-dinheiro-maior-que-1000" width="681" height="228" /></center>Perceba que o fluxo do algoritmo tomou rumos diferentes.
+<center><img class="aligncenter size-full wp-image-248" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/Sacar-dinheiro-maior-que-1000.png" alt="Sacar-dinheiro-maior-que-1000" width="681" height="228" /></center>Perceba que o fluxo do algoritmo tomou rumos diferentes.
 
 Essa é a estrutura de controle de fluxo mais utilizada na criação de programas de computador. Pratique-a criando algoritmos que tomam decisão.
 <h2>Hora de praticar!</h2>
@@ -2402,10 +2402,10 @@ Até a próxima aula!]]></content:encoded>
 	</item>
 	<item>
 		<title>Aula 6/10 - Tomando decisões entre muitas opções.</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-6-tomando-decisoes-entre-muitas-opcoes/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-6-tomando-decisoes-entre-muitas-opcoes/</link>
 		<pubDate>Wed, 03 Jun 2015 01:15:58 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=267</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=267</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h1>Aula (6/10) Tomando decisões entre muitas opções.</h1>
 <span style="text-decoration: underline;">Duração da aula: aproximadamente 15 minutos.</span>
@@ -2424,7 +2424,7 @@ Talvez você já saiba mais ou menos algumas coisas sobre rede de computadores
 
 Mas quero chamar a sua atenção para dois equipamentos utilizados nas redes de computadores. Um é o <strong>HUB</strong> e o outro é o<strong> SWITCH</strong>.
 
-<img class=" size-full wp-image-276 aligncenter" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/hub-e-switch.png" alt="hub e switch" width="640" height="233" />
+<img class=" size-full wp-image-276 aligncenter" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/hub-e-switch.png" alt="hub e switch" width="640" height="233" />
 
 Esses dois equipamentos são muito parecidos, algumas pessoas até pensam que são a mesma coisa. Mas há uma pequena diferença entre eles.
 
@@ -2484,11 +2484,11 @@ Essa é a estrutura ESCOLHA-CASO.
 FIM-ESCOLHA</pre>
 O esquema visual do fluxograma desta estrutura é como a figura abaixo.
 
-<img class="aligncenter size-full wp-image-284" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/estrutura-ESCOLHA-CASO.png" alt="estrutura-ESCOLHA-CASO" width="687" height="513" />
+<img class="aligncenter size-full wp-image-284" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/06/estrutura-ESCOLHA-CASO.png" alt="estrutura-ESCOLHA-CASO" width="687" height="513" />
 <h2>ESCOLHA-CASO na prática!</h2>
 Nada melhor para aprender programação do que praticar. Bastante! Então vamos ver um exemplo prático da utilização do ESCOLHA-CASO em comparação ao SE-ENTÃO-SENÃO.
 
-(Novamente vamos usar o Visualg para criar os nossos algoritmos, você pode fazer com lápis e papel, mas caso queira baixar o Visualg, <strong><a href="http://www.dicasdeprogramacao.com.br/download-visualg/" target="_blank">clique aqui para fazer o download</a></strong>)
+(Novamente vamos usar o Visualg para criar os nossos algoritmos, você pode fazer com lápis e papel, mas caso queira baixar o Visualg, <strong><a href="https://dicasdeprogramacao.com.br/download-visualg/" target="_blank">clique aqui para fazer o download</a></strong>)
 
 Imagine a seguinte situação: Você deseja criar um algoritmo para uma calculadora, o usuário digita o primeiro número, a operação que deseja executar e o segundo número. Dependendo do que o usuário informar como operador, o algoritmo executará um cálculo diferente (soma, subtração, multiplicação ou divisão).
 
@@ -2611,10 +2611,10 @@ Até a próxima aula!]]></content:encoded>
 	</item>
 	<item>
 		<title>Aula 7/10 - Loops básicos!</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-7-loops-basicos/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-7-loops-basicos/</link>
 		<pubDate>Tue, 07 Jul 2015 16:13:03 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=290</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=290</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h1>Aula (7/10) Loops básicos!</h1>
 Seja bem vindo a 7ª aula do <strong>minicurso GRÁTIS de lógica de programação</strong>!
@@ -2659,7 +2659,7 @@ Também chamamos esta estrutura de repetição de <em>loop pré-testado</em>, po
 
 Este é o fluxograma desta estrutura de repetição. Repare que testamos a condição antes de entrar no LOOP.
 
-<img class="size-full wp-image-308 aligncenter" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/estrutura-ENQUATO.png" alt="estrutura-ENQUATO" width="400" height="515" />
+<img class="size-full wp-image-308 aligncenter" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/estrutura-ENQUATO.png" alt="estrutura-ENQUATO" width="400" height="515" />
 <h3>Hora de praticar</h3>
 Para aprender programação, nada melhor que praticar! Vamos ver um exemplo de LOOP com a estrutura ENQUANTO-FAÇA, utilizando a ferramenta VisuAlg.
 
@@ -2688,7 +2688,7 @@ fimalgoritmo</pre>
 
 O resultado deste algoritmo é algo assim:
 
-<img class="aligncenter size-full wp-image-318" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/07/Resultado-algoritmo-ENQUANTO.png" alt="Resultado-algoritmo-ENQUANTO" width="682" height="292" />
+<img class="aligncenter size-full wp-image-318" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/07/Resultado-algoritmo-ENQUANTO.png" alt="Resultado-algoritmo-ENQUANTO" width="682" height="292" />
 <h2>Estrutura de repetição REPITA-ATÉ</h2>
 Acho que você já deve imaginar como é esta estrutura né? Não!? Fácil!
 
@@ -2702,7 +2702,7 @@ Uma coisa muito importante a se notar é que além de ser pós-testada, esta est
 
 Veja o funcionamento no fluxograma.
 
-￼<img class="aligncenter wp-image-316 size-full" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/07/estrutura-REPITA.png" alt="estrutura-REPITA" width="397" height="507" />
+￼<img class="aligncenter wp-image-316 size-full" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/07/estrutura-REPITA.png" alt="estrutura-REPITA" width="397" height="507" />
 
 Não sei se você também percebeu, enquanto na estrutura ENQUANTO-FAÇA o bloco do LOOP pode não ser executado nenhuma vez, <strong>na estrutura REPITA-ATÉ o bloco é executado pelo menos uma vez</strong>.
 <h3>Hora de praticar</h3>
@@ -2771,10 +2771,10 @@ As linguagens de programação são diferentes umas das outras, mas no fundo a l
 	</item>
 	<item>
 		<title>Aula 8/10 - Loops pré-definidos</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/aula-8-loops-pre-definidos/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/aula-8-loops-pre-definidos/</link>
 		<pubDate>Thu, 24 Sep 2015 21:58:55 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=334</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=334</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h1>Aula (8/10) Loops pré-definidos</h1>
 Olá! Bem vindo a 8ª aula do <strong>minicurso GRÁTIS de lógica de programação</strong>!
@@ -2847,7 +2847,7 @@ Viu a diferença? No fundo é a mesma coisa, mas para loops pré-definidos a es
 
 Vejamos um fluxograma desta estrutura de repetição.
 
-<img class="aligncenter size-full wp-image-347" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/estrutura-PARA.png" alt="estrutura-PARA" width="440" height="608" />
+<img class="aligncenter size-full wp-image-347" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/estrutura-PARA.png" alt="estrutura-PARA" width="440" height="608" />
 <h2>Hora de praticar!</h2>
 Pra dar mais um exemplo de LOOP pré-definido. Vamos fazer um algoritmo para resolver um problema matemático: O fatorial de um número.
 
@@ -2897,7 +2897,7 @@ inicio
 fimalgoritmo</pre>
 Nesta estrutura, não é necessário incrementar nem inicializar o contador, isso é feito automaticamente. O resultado dos dois algoritmos é o mesmo, veja um exemplo de execução deste algoritmo.
 
-<img class="aligncenter size-full wp-image-349" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/Resultado-Fatorial.png" alt="Resultado-Fatorial" width="681" height="138" />
+<img class="aligncenter size-full wp-image-349" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/Resultado-Fatorial.png" alt="Resultado-Fatorial" width="681" height="138" />
 
 LOOPs podem ser implementados com qualquer estrutura de repetição, porém, em alguns casos uma estrutura se mostra mais adequada que outras, como nesse caso do fatorial a mais adequada é a estrutura PARA. Conhecer essas estruturas de repetição é muito importante para criar programas melhores.
 
@@ -2938,10 +2938,10 @@ Até amanhã!]]></content:encoded>
 	</item>
 	<item>
 		<title>Aula 9/10 - Vetores e Matrizes (Arrays)</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/aula-9-vetores-e-matrizes-arrays/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/aula-9-vetores-e-matrizes-arrays/</link>
 		<pubDate>Tue, 29 Sep 2015 14:01:14 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=356</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=356</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h1>Aula (9/10) Vetores e Matrizes (Arrays)</h1>
 Opa! Tudo bem? Esta é a 9ª aula do <strong>minicurso GRÁTIS de lógica de programação</strong>!
@@ -2968,7 +2968,7 @@ Cada item do vetor (ou matriz) é acessado por um número chamado de <strong>ín
 
 Uma bela forma de pensar software é pensar graficamente... Então vamos imaginar no nosso exemplo dos nomes, notas e médias dos 50 alunos  como seriam os vetores e matrizes graficamente para facilitar o entendimento do conceito.
 
-<img class="aligncenter size-full wp-image-357" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/vetor-e-matriz.png" alt="vetor-e-matriz" width="593" height="623" />
+<img class="aligncenter size-full wp-image-357" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/09/vetor-e-matriz.png" alt="vetor-e-matriz" width="593" height="623" />
 
 Podemos ver na imagem acima que cada posição do vetor é identificado por um número (chamado de <strong>índice</strong>), no caso da matriz são dois números (um na vertical e um na horizontal).
 
@@ -3128,10 +3128,10 @@ Até lá!]]></content:encoded>
 	</item>
 	<item>
 		<title>Aula 10/10 - Funções e Procedimentos</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/aula-10-funcoes-e-procedimentos/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/aula-10-funcoes-e-procedimentos/</link>
 		<pubDate>Fri, 04 Dec 2015 21:02:32 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=381</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=381</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h1>Aula (10/10) Funções e Procedimentos</h1>
 Olá! Tudo bem? Chegamos à aula #10 do <strong>minicurso GRÁTIS de lógica de programação</strong>!
@@ -3160,7 +3160,7 @@ A única diferença entre uma função (function) e um procedimento (procedure) 
 
 A figura abaixo exemplifica como acontece a utilização de uma função, o procedimento é a mesma coisa, menos na atribuição do resultado à variável "a".
 
-<img class="aligncenter size-full wp-image-385" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/função.png" alt="função" width="503" height="332" />
+<img class="aligncenter size-full wp-image-385" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/função.png" alt="função" width="503" height="332" />
 
 <strong>Funções</strong> (e <strong>procedimentos</strong>) podem ou não receber parâmetros. No caso da função de raiz quadrada, é necessário passar como parâmetro o número que se deseja calcular a raiz, o procedimento <strong>ESCREVA</strong>, requer um texto como parâmetro para apresentar na tela do usuário.
 
@@ -3170,11 +3170,11 @@ Você lembra como calcular a hipotenusa de um triângulo retângulo?
 
 Primeiro, vou te relembrar o que é um triângulo-retângulo. Um triângulo em que um dos ângulos tem 90º. Ou seja, dois lados do triângulo são perpendiculares entre si. Esses lados que formam o ângulo de 90º (ou ângulo reto) são chamados de "catetos". E o lado oposto ao angulo reto é a hipotenusa.
 
-<img class="aligncenter wp-image-388 size-large" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/triangulo-retangulo-1024x670.gif" alt="triangulo-retangulo" width="660" height="432" />
+<img class="aligncenter wp-image-388 size-large" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/triangulo-retangulo-1024x670.gif" alt="triangulo-retangulo" width="660" height="432" />
 
 Quando conhecemos o tamanho dos catetos nós conseguimos calcular o tamanho da hipotenusa. Estou falando do famoso <strong>teorema de Pitágoras</strong> que diz: <strong>A soma dos quadrados dos catetos equivale ao quadrado da hipotenusa</strong>. A imagem abaixo ilustra bem isso.
 
-<img class="aligncenter size-full wp-image-391" src="http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/teorema-de-pitágoras.jpg" alt="teorema de pitágoras" width="471" height="446" />
+<img class="aligncenter size-full wp-image-391" src="https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/teorema-de-pitágoras.jpg" alt="teorema de pitágoras" width="471" height="446" />
 
 Então para descobrir o valor da hipotenusa, temos que encontrar a raiz quadrada de ( b² + c² ).
 
@@ -3294,10 +3294,10 @@ Até lá!]]></content:encoded>
 	</item>
 	<item>
 		<title>triangulo-retangulo</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/aula-10-funcoes-e-procedimentos/triangulo-retangulo/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/aula-10-funcoes-e-procedimentos/triangulo-retangulo/</link>
 		<pubDate>Tue, 08 Dec 2015 13:17:57 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/triangulo-retangulo.gif</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/triangulo-retangulo.gif</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3313,7 +3313,7 @@ Até lá!]]></content:encoded>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/triangulo-retangulo.gif]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/triangulo-retangulo.gif]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/12/triangulo-retangulo.gif]]></wp:meta_value>
@@ -3325,10 +3325,10 @@ Até lá!]]></content:encoded>
 	</item>
 	<item>
 		<title>teorema de pitágoras</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/aula-10-funcoes-e-procedimentos/teorema-de-pitagoras/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/aula-10-funcoes-e-procedimentos/teorema-de-pitagoras/</link>
 		<pubDate>Tue, 08 Dec 2015 13:47:48 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/teorema-de-pitágoras.jpg</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/teorema-de-pitágoras.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3344,7 +3344,7 @@ Até lá!]]></content:encoded>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/teorema-de-pitágoras.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/12/teorema-de-pitágoras.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/12/teorema-de-pitágoras.jpg]]></wp:meta_value>
@@ -3356,10 +3356,10 @@ Até lá!]]></content:encoded>
 	</item>
 	<item>
 		<title>Por que TODOS deveriam aprender programação?</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/webnario-ao-vivo-por-que-todos-deveriam-aprender-programacao/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/webnario-ao-vivo-por-que-todos-deveriam-aprender-programacao/</link>
 		<pubDate>Thu, 10 Dec 2015 12:55:03 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=419</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=419</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section id="headline" class="hero parallax-background top-waypoint video-section" data-type="parallax">
          <div class="container container-video">
@@ -3399,10 +3399,10 @@ Até lá!]]></content:encoded>
 	</item>
 	<item>
 		<title>resultado media</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-3-variaveis-constantes-operadores-e-tipos-de-dados/resultado-media/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-3-variaveis-constantes-operadores-e-tipos-de-dados/resultado-media/</link>
 		<pubDate>Sat, 09 Jan 2016 16:05:00 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/resultado-media.png</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/resultado-media.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3418,7 +3418,7 @@ Até lá!]]></content:encoded>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/resultado-media.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/wp-content/uploads/2015/05/resultado-media.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/resultado-media.png]]></wp:meta_value>
@@ -3430,10 +3430,10 @@ Até lá!]]></content:encoded>
 	</item>
 	<item>
 		<title>Hangout - Tira dúvidas e dicas para aprender programação</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/hangout-tira-duvidas-e-dicas-para-aprender-programacao/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/hangout-tira-duvidas-e-dicas-para-aprender-programacao/</link>
 		<pubDate>Fri, 19 Feb 2016 08:51:25 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=466</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=466</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p style="text-align: center;">Infelizmente eu tive um problema com a minha internet e o hangout não aconteceu.</p>
 
@@ -3472,14 +3472,14 @@ Ainda não está participando do minicurso de lógica de programação?
 	</item>
 	<item>
 		<title>Minicurso de Lógica de Programação Completo e Imediato!</title>
-		<link>http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-de-logica-de-programacao-completo-e-imediato/</link>
+		<link>https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/minicurso-de-logica-de-programacao-completo-e-imediato/</link>
 		<pubDate>Fri, 29 Apr 2016 15:23:13 +0000</pubDate>
 		<dc:creator><![CDATA[gustavo.foa]]></dc:creator>
-		<guid isPermaLink="false">http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=487</guid>
+		<guid isPermaLink="false">https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/?page_id=487</guid>
 		<description></description>
 		<content:encoded><![CDATA[Você receberá IMEDIATAMENTE todo o conteúdo do minicurso gratuito de lógica de programação. Sem esperar os e-mails das próximas aulas.
 
-Todo este conteúdo é distribuído gratuitamente no minicurso de lógica de programação que pode ser acessado aqui: http://www.dicasdeprogramacao.com.br/minicurso-logica-de-programacao/
+Todo este conteúdo é distribuído gratuitamente no minicurso de lógica de programação que pode ser acessado aqui: https://dicasdeprogramacao.com.br/minicurso-logica-de-programacao/
 
 Se você se cadastrar para receber o minicurso gratuito, você receberá o conteúdo distribuído em e-mails, páginas da Web (que podem sair do ar a qualquer momento), arquivos anexos e links. Os e-mails são enviados ao longo de 30 dias.
 

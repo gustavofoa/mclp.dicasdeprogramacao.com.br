@@ -140,7 +140,7 @@ ao SE-ENTÃO-SENÃO.
 (Novamente vamos usar o Visualg para criar os nossos algoritmos, você
 pode fazer com lápis e papel, mas caso queira baixar o Visualg,
 **[clique aqui para fazer o
-download](http://www.dicasdeprogramacao.com.br/download-visualg/)**)
+download](https://dicasdeprogramacao.com.br/download-visualg/)**)
 
 Imagine a seguinte situação: Você deseja criar um algoritmo para uma
 calculadora, o usuário digita o primeiro número, a operação que deseja
