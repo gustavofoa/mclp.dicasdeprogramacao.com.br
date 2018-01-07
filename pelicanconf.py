@@ -53,12 +53,12 @@ COURSE_DESCRIPTION = """Minicurso 100% GRÁTIS de Lógica de Programação.
 São 10 lições super explicadas com a melhor didática para ensinar programação do ZERO para qualquer pessoa!
 Agora aprender programação está acessível a qualquer um!"""
 COURSE_AUTHOR = "Gustavo"
-LP_LINK = "http://mclp.dicasdeprogramacao.com.br/"
+LP_LINK = "https://mclp.dicasdeprogramacao.com.br/"
 OG_IMAGE = "/images/gustavo-furtado.jpg"
 LP_IMAGE = "/images/Logo.png"
 LP_TITLE = "Quer aprender lógica de programação GRÁTIS?"
 LP_DESCRIPTION = "Coloque seu e-mail abaixo e receba GRATUITAMENTE o minicurso de lógica de programação."
-LP_ACTION = "http://mautic.dicasdeprogramacao.com.br/form/submit?formId=2"
+LP_ACTION = "https://mautic.dicasdeprogramacao.com.br/form/submit?formId=2"
 LP_EMAIL_FIELD = "mauticform[email]"
 LP_HIDDEN_FIELDS = '<input type="hidden" name="mauticform[formId]" id="mauticform_mclpsignin_id" value="2"/><input type="hidden" name="mauticform[return]" id="mauticform_mclpsignin_return" value=""/><input type="hidden" name="mauticform[formName]" id="mauticform_mclpsignin_name" value="mclpsignin"/>'
 TITLEBAR_TEXT = "Receba este minicurso de lógica de programação GRÁTIS!"
