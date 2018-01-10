@@ -44,7 +44,16 @@ Além dos mais simples (soma "+", subtração "-", multiplicação "\*" e
 divisão "/"), dois outros operadores aritméticos não recebem muita
 atenção e pode ser que você não os conheça, eles são o **div** e o
 **mod**, que resultam, respectivamente, o quociente (a parte inteira do
-resultado da divisão) e o resto da divisão. Observe as operações abaixo:
+resultado da divisão) e o resto da divisão.
+
+Peguemos por exemplo, 14 dividido por 4, vamos fazer como aprendemos na escola ...
+
+14 dividido por 4 é iqual à 3 e resta 2, certo?
+
+Com os operadores aritméticos nós conseguimos obter o valor do quociente (4),
+o valor do resto (2) e o valor final da divisão (3,5).
+
+Observe as operações abaixo:
 
 > 14 / 4 = 3,5
 
@@ -52,7 +61,7 @@ resultado da divisão) e o resto da divisão. Observe as operações abaixo:
 
 > 14 **mod** 4 = 2
 
-O operador mod em muitas linguagens de programação (java por exemplo) é
+O operador _mod_ em muitas linguagens de programação (java por exemplo) é
 representado pelo símbolo “%“, assim:
 
 > 14 **%** 4 = 2
@@ -109,8 +118,8 @@ solução da expressão abaixo:
 
 Lembra dos tipos de dados que falei na lição anterior?
 Viu que dentre os tipos de dados tinha o tipo **lógico**?
-Então, enquanto os operadores aritméticos trabalha com números, os
-operadores lógicos trabalha com dados **lógicos**, ou **booleanos**.
+Então, enquanto os operadores aritméticos trabalham com números, os
+operadores lógicos trabalham com dados **lógicos**, ou **booleanos**.
 
 A ideia dos operadores continua a mesma: **Relacionar valores para
 resultar um outro valor.**. Isso significa que os operadores lógicos
