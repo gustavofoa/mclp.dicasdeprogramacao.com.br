@@ -56,7 +56,7 @@ A figura abaixo exemplifica como acontece a utilização de uma função, o
 procedimento é a mesma coisa, menos na atribuição do resultado à
 variável "a".
 
-![função](/images/função.png){:style="width: 100%"}
+![função](/images/funcao.png){:style="width: 100%"}
 
 **Funções** (e **procedimentos**) podem ou não receber parâmetros. No
 caso da função de raiz quadrada, é necessário passar como parâmetro o
