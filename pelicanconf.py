@@ -57,7 +57,7 @@ LP_LINK = "https://mclp.dicasdeprogramacao.com.br/"
 OG_IMAGE = "/images/gustavo-furtado.jpg"
 LP_IMAGE = "/images/Logo.png"
 LP_TITLE = "Quer aprender lógica de programação GRÁTIS?"
-LP_DESCRIPTION = "Coloque seu e-mail abaixo e receba GRATUITAMENTE o minicurso de lógica de programação."
+LP_DESCRIPTION = "Coloque seu e-mail abaixo e receba GRATUITAMENTE um minicurso e um e-book de lógica de programação."
 LP_ACTION = "https://mautic.dicasdeprogramacao.com.br/form/submit?formId=2"
 LP_EMAIL_FIELD = "mauticform[email]"
 LP_HIDDEN_FIELDS = '<input type="hidden" name="mauticform[formId]" id="mauticform_mclpsignin_id" value="2"/><input type="hidden" name="mauticform[return]" id="mauticform_mclpsignin_return" value=""/><input type="hidden" name="mauticform[formName]" id="mauticform_mclpsignin_name" value="mclpsignin"/>'
@@ -68,6 +68,6 @@ SHARE_ON_FACEBOOK = "http://www.facebook.com/sharer.php?u=http://mclp.dicasdepro
 SHARE_ON_GPLUS = "https://plus.google.com/share?url=http://mclp.dicasdeprogramacao.com.br/"
 SHARE_ON_LINKEDIN = "https://www.linkedin.com/cws/share?url=http://mclp.dicasdeprogramacao.com.br/"
 FOOTER_PSS = """
-<p>Aqui você encontrará conteúdo simples, práticos e que vai te ensinar os conceitos básicos por trás da programação,
+<p>Aqui você encontrará conteúdo simples e prático que vai te ensinar os conceitos básicos por trás da programação,
 ao final você será capaz de criar pequenos programas e estará pronto para aprender qualquer linguagem de programação sem dificuldades.</p>
 """
