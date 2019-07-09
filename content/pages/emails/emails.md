@@ -47,3 +47,4 @@ Bons estudos!
 
 [30 - LIÇÃO BÔNUS! Recursividade](/email-30-licao-bonus-recursividade){:target="\_blank"}
 
+[E-book]](https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf){:target="\_blank"}
