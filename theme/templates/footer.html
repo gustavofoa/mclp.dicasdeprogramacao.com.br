@@ -1,0 +1,57 @@
+<hr>
+
+		<h2>Índice das {{ TOTAL_LESSONS }} lições do Minicurso de lógica de programação</h3>
+
+
+      {% for item in articles|sort(attribute='order') %}
+        {% if item.order|int() <= TOTAL_LESSONS %}
+          <p>
+						{% if item.order|int < article.order|int %}<strike>{% endif %}
+            {% if item.order == article.order or item.order|int == (article.order)|int + 1 %}<b>{% endif %}
+            {{ item.title }}
+            {% if item.order == article.order %}(Você está aqui!){% endif %}
+            {% if item.order|int == (article.order)|int() + 1 %}(Próxima lição){% endif %}
+            {% if item.order == article.order or item.order|int == (article.order)|int + 1 %}</b>{% endif %}
+						{% if item.order|int < article.order|int %} (Lição aprendida)</strike>{% endif %}
+          </p>
+        {% endif %}
+        {% if item.order|int > TOTAL_LESSONS|int and item.order == article.order %}
+          <p>
+            <b>
+            LIÇÃO EXTRA! {{ item.title }}(Você está aqui!)
+            </b>
+          </p>
+        {% endif %}
+      {% endfor %}
+
+		<h2>P.S.</h2>
+		<p>Se você está gostando desse Minicurso ajude-nos a divulgá-lo.</p>
+
+<center>
+    <a class="btn btn-twitter btn-block" style="width:250px;" href="{{ SHARE_ON_TWITTER }}" target="_blank"><i class="fa fa-twitter"></i> | Divulge no Twitter!</a>
+    <a class="btn btn-facebook btn-block" style="width:250px;" href="{{ SHARE_ON_FACEBOOK }}" target="_blank"><i class="fa fa-facebook"></i> | Compartilhe no Facebook!</a>
+    <a class="btn btn-google-plus btn-block" style="width:250px;" href="{{ SHARE_ON_GPLUS }}" target="_blank"><i class="fa fa-google-plus"></i> | Compartilhe no Google+!</a>
+    <a class="btn btn-linkedin btn-block" style="width:250px;" href="{{ SHARE_ON_LINKEDIN }}" target="_blank"><i class="fa fa-linkedin"></i> | Compartilhe no LinkedIn!</a>
+</center>
+
+<p>(Você ainda poderá editar a mensagem antes de publicá-la.)</p>
+
+		<h2>P.S.S</h2>
+
+    		<p>Chegou aqui através do Twitter, Facebook ou link de um amigo?</p>
+
+        {% if article.order|int <= TOTAL_LESSONS|int %}
+    		<p>Esta é a lição <b>#{{article.order|int}}</b> do {{ COURSE_DESCRIPTION }}</p>
+        {% endif %}
+
+        {% if article.order|int > TOTAL_LESSONS|int %}
+    		<p>Esta é uma lição <b>BÔNUS</b> do {{ COURSE_DESCRIPTION }}</p>
+        {% endif %}
+
+        {{ FOOTER_PSS }}
+
+    		<p>Inscreva-se neste Minicurso. É GRÁTIS! Clique no Botão abaixo:</p>
+<center>
+		<a href="{{ LP_LINK }}" class="btn btn-warning navbar-btn"><b>Quero me inscrever AGORA!!!</b></a>
+</center>
+<br />

@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }}{%endblock%}
+
+{% block content %}
+
+<style>
+  p {
+    text-align: center;
+  }
+  h1 {
+    font-size: 50px;
+  }
+  .container {
+    text-align: center;
+  }
+</style>
+
+  <div class="container">
+
+    {{ page.content }}
+
+  </div><!-- /container -->
+
+{% endblock %}

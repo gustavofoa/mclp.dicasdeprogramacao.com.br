@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title }}{%endblock%}
+{% block content %}
+
+  {% include 'headbar.html' %}
+
+  <div class="container">
+
+    <h1 style="padding-top:15px;">{{ page.title }}</h1>
+
+    {{ page.content }}
+
+  </div><!-- /container -->
+
+{% endblock %}

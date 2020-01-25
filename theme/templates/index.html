@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% block og_info %}
+<meta property="og:site_name" content="{{ SITENAME }}" />
+<meta property="og:title" content="{{ SITENAME }}" />
+<meta property="og:description" content="{{ COURSE_DESCRIPTION }}" />
+<meta property="article:author" content="{{ COURSE_AUTHOR }}" />
+<meta property="og:image" content="{{ OG_IMAGE }}" />
+{% endblock og_info %}
+
+{% block content %}
+
+<div class="container">
+
+	<img style='margin-left:auto;margin-right:auto;display:block;' src="{{ LP_IMAGE }}" max-width="100%" />
+
+	<h1 style='text-align:center;font-size:50px;'>{{ LP_TITLE }}</h1>
+  <br />
+	<h4 style='text-align:center;'>{{ LP_DESCRIPTION }}</h4>
+
+	<form action="{{ LP_ACTION }}" method="POST" accept-charset="utf-8">
+  	<div class="panel-body" style='text-align:center;'>
+    	<br/>
+      <center>
+      	<div class="input-group input-group-lg">
+      	  <input type="text" class="form-control" placeholder="coloque seu e-mail aqui..." size="30" name="{{ LP_EMAIL_FIELD }}" id="email"/>
+      	</div>
+      </center>
+      <br />
+      {{ LP_HIDDEN_FIELDS }}
+    	<input type="submit" name="submit" id="submit" class="btn btn-warning btn-lg" value="Quero receber o minicurso" />
+    	<br/>
+    	Não vamos te enviar spams!
+  	</div>
+	</form>
+
+
+
+
+
+</div><!-- /container -->
+
+
+{% endblock content %}

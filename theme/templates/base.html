@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+<head>
+
+      <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+
+      <meta charset="UTF-8">
+      {% block head %}
+
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    	<link rel="stylesheet" href="/theme/css/bootstrap.min.css" media="screen">
+    	<link rel="stylesheet" href="/theme/css/bootswatch.min.css">
+    	<link rel="stylesheet" href="/theme/css/my-styles.css">
+	    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
+    	<link rel="stylesheet" href="/theme/css/social-buttons.css">
+
+    	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    	<!--[if lt IE 9]>
+    		<script src="js/html5shiv.js"></script>
+    		<script src="js/respond.min.js"></script>
+    	<![endif]-->
+
+      <link rel="shortcut icon" href="/images/Logo-16x16.png" />
+      <link rel="apple-touch-icon" href="/images/Logo-114x114.png" />
+
+      {% block og_info %}
+      {% endblock og_info %}
+
+      {% endblock head %}
+
+
+</head>
+
+<body>
+
+        {% block content %}
+        {% endblock %}
+
+        {% include 'analytics.html' %}
+
+<!--
+        <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+        <script src="/theme/js/bootstrap.min.js"></script>
+        <script src="/theme/js/bootswatch.js"></script>
+-->
+
+</body>
+</html>

@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block head %}
+
+  {{ super() }}
+
+  {% if article.description %}
+    <meta name="description" content="{{article.description}}" />
+  {% endif %}
+
+  {% if article.image %}
+    <meta property="og:image" content="{{ SITEURL }}/{{ article.image }}" />
+  {% endif %}
+
+{% endblock %}
+
+{% block content %}
+
+  {% include 'headbar.html' %}
+
+  <div class="container">
+
+    <h1 style="padding-top:15px;">{{ article.title }}</h1>
+
+    {{ article.content }}
+
+    {% include 'footer.html' %}
+  </div><!-- /container -->
+
+
+
+{% endblock %}
