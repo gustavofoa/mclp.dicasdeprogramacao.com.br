@@ -30,9 +30,6 @@ seus amigos.
 <tr style="border: 30px solid white;">
 <td style="border: 30px solid white;"><a class="btn btn-twitter btn-block" href="http://twitter.com/share?url=http://mclp.dicasdeprogramacao.com.br/&text=Estou fazendo o minicurso de lógica de programação TOTALMENTE GRÁTIS do @dicasprog." target="\_blank"><i class="fa fa-twitter"></i> | Divulge no Twitter!</a></td>
 <td style="border: 30px solid white;"><a class="btn btn-facebook btn-block" href="http://www.facebook.com/sharer.php?u=http://mclp.dicasdeprogramacao.com.br/&text=Estou fazendo o minicurso de lógica de programação TOTALMENTE GRÁTIS do blog Dicas de Programação" target="\_blank"><i class="fa fa-facebook"></i> | Compartilhe no Facebook!</a></td>
-</tr>
-<tr>
-<td style="border: 30px solid white;"><a class="btn btn-google-plus btn-block" href="https://plus.google.com/share?url=http://mclp.dicasdeprogramacao.com.br/&text=Estou fazendo o minicurso de lógica de programação TOTALMENTE GRÁTIS do blog Dicas de Programação" target="\_blank"><i class="fa fa-google-plus"></i> | Compartilhe no Google+!</a></td>
 <td style="border: 30px solid white;"><a class="btn btn-linkedin btn-block" href="https://www.linkedin.com/cws/share?url=http://mclp.dicasdeprogramacao.com.br/&text=Estou fazendo o minicurso de lógica de programação TOTALMENTE GRÁTIS do blog Dicas de Programação" target="\_blank"><i class="fa fa-linkedin"></i> | Compartilhe no LinkedIn!</a></td>
 </tr>
 </table>
@@ -50,7 +47,6 @@ clicando nos botões abaixo.
 <tr style="border: 30px solid white;">
 <td style="border: 30px solid white;"><a class="btn btn-twitter btn-block" href="https://twitter.com/dicasprog" target="\_blank"><i class="fa fa-twitter"></i> | Twitter!</a></td>
 <td style="border: 30px solid white;"><a class="btn btn-facebook btn-block" href="https://www.facebook.com/pages/Dicas-de-Programa%C3%A7%C3%A3o/124525944396823"  target="\_blank"><i class="fa fa-facebook"></i> | Facebook!</a></td>
-<td style="border: 30px solid white;"><a class="btn btn-google-plus btn-block" href="http://google.com/+DicasdeprogramacaoBr" target="\_blank"><i class="fa fa-google-plus"></i> | Google+!</a></td>
 </tr>
 </table>
 </center>
