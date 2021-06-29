@@ -24,6 +24,10 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+KARKDOWN = {
+    'extensions' : ['codehilite(noclasses=True, pygments_style=native)', 'extra']  # enable MD options
+}
+
 # Plugins
 PLUGIN_PATHS = ['./pelican-plugins']
 PLUGINS = ['sitemap']
@@ -70,3 +74,4 @@ FOOTER_PSS = """
 <p>Aqui você encontrará conteúdo simples e prático que vai te ensinar os conceitos básicos por trás da programação,
 ao final você será capaz de criar pequenos programas e estará pronto para aprender qualquer linguagem de programação sem dificuldades.</p>
 """
+
